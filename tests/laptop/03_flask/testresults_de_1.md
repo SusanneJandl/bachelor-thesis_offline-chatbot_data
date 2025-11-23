@@ -1,5 +1,6 @@
 LANGUAGE: DE
-
+HISTORY: false
+# 1
 GERMAN QUESTION:
     Welche ungewöhnliche Eigenschaft definiert die Geografie von Velbrek?
 
@@ -29,7 +30,7 @@ RAM USAGE FLASK: MIN=624 MB | MAX=1035 MB | AVG=729MB
 RAM USAGE OLLAMA: MIN=21 MB | MAX=3336 MB | AVG=3018MB
 
 ================================================================
-
+# 2
 GERMAN QUESTION:
     Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabs, und was war seine besondere Eigenschaft?
 
@@ -59,7 +60,7 @@ RAM USAGE FLASK: MIN=754 MB | MAX=1054 MB | AVG=777MB
 RAM USAGE OLLAMA: MIN=3336 MB | MAX=3340 MB | AVG=3338MB
 
 ================================================================
-
+# 3
 GERMAN QUESTION:
     Wer oder was sind die Mitglieder des „Ordens der Dreizehnschaligen Hypothese“?
 
@@ -97,7 +98,7 @@ RAM USAGE FLASK: MIN=775 MB | MAX=1110 MB | AVG=819MB
 RAM USAGE OLLAMA: MIN=3340 MB | MAX=3342 MB | AVG=3341MB
 
 ================================================================
-
+# 4
 GERMAN QUESTION:
     Wie erlangte The Meow endloses Leben?
 
@@ -133,37 +134,7 @@ RAM USAGE FLASK: MIN=826 MB | MAX=1183 MB | AVG=869MB
 RAM USAGE OLLAMA: MIN=3342 MB | MAX=3345 MB | AVG=3344MB
 
 ================================================================
-
-GERMAN QUESTION:
-    Was tauschte Sphodebarb ein, um halb-unsterblich zu werden?
-
-
-
-ENGLISH QUESTION:
-    What traded Sphodebarb to become half-immortal?
-
-CONTEXT:
-    ['light and wonder, Sphodebarb returned—not as the weary, endless wizard he once was, but as someone lighter. His beard was trimmed with stardust. His robes carried the smell of new beginnings.\n\nHe knelt before Nink, who meowed softly and rubbed against his hand.\n\n“Hello,” he said, smiling. “I think we both deserve a normal life. Well, as normal as this place gets.”\n\nThe sky stitched itself together, the cracks sealing into golden threads. The clocks in the Hall of Crooked Clocks began to tick, not forward or backward, but *kindly.*\n\nThe tortoises sighed in collective relief. Grundle muttered, “About time,” but even he looked a little misty-eyed.\n\n---\n\n#### **The New World**\n\nFrom that day for', 'd, and suddenly the courtroom was made of metaphor. The walls melted into implications. The thrones became interpretations of authority. The floor was now subjective.\n\nGrundle roared, “Stop manipulating the symbolic field!”\n\nThe Meow’s eyes narrowed. A final thought came, burning into Sphodebarb’s brain like a brand:\n\n> **“End me, or I end you. We cannot both persist. The loop is tired.”**\n\nSphodebarb felt it—deep in his marrow. He had built something unsustainable. A life so long it no longer had context. A series of tortoises who had seen too many moons. A cat who remembered the heat of the Big Bang and the sigh of the final star.\n\nSuddenly, from the corner, the fern spoke.\n\n“I object.”\n\nA', 'existence seven centuries ago, shortly after declaring war on cause and effect.”\n\nEulipion slowly rotated upside down and extended one translucent claw. “And yet. It lounges in the courtyard now. Beneath the Weeping Chair Tree. It’s... grooming itself into a question.”\n\nSphodebarb flung open his gravity-skeptical robe and stumbled through his tower, past the Room of Apologies (which constantly whispered things like *"I\'m sorry about the furniture"* and *"I never meant to bake your memory"*), and into the courtyard.\n\nThere it was.\n\n**The Meow.**\n\nNo creature in the known or unknown layers of reality held such silent power. Its fur shimmered with the absence of forgotten moments. Its tail flic']
-
-HISTORY: 
-    []
-
-ENGLISH ANSWER:
-    Unfortunately, there is no information provided in the text that indicates what traded Sphodebarb to become half-immortal. The text does mention a thought that came to Sphodebarb's brain from the Meow, stating "End me, or I end you," but it doesn't explain how or why this led to Sphodebarb becoming half-immortal.
-
-GERMAN ANSWER:
-    Leider gibt es im Text keine Informationen, die darauf hindeuten, was Sphodebarb gehandelt hat, um halb-unsterblich zu werden. In dem Text wird ein Gedanke erwähnt, der von der Meow zu Sphodebarbs Gehirn kam und besagt: "Ende mich, oder ich beende dich", aber es erklärt nicht, wie oder warum dies dazu führte, dass Sphodebarb halb-unsterblich wurde.
-
-TIMINGS:
-TO EN = 1.85 s | CONTEXT = 0.03 s | ANSWER EN = 37.18 s (llama3.2:3b) | TO DE = 3.95 s | TOTAL: 43,03 s
-
-RAM USAGE TOTAL: MIN=4362 MB | MAX=4684 MB | AVG=4388MB
-RAM USAGE C#: MIN=143 MB | MAX=152 MB | AVG=145MB
-RAM USAGE FLASK: MIN=873 MB | MAX=1189 MB | AVG=897MB
-RAM USAGE OLLAMA: MIN=3345 MB | MAX=3347 MB | AVG=3346MB
-
-================================================================
-
+# 5
 GERMAN QUESTION:
     Welche Substanz stellte eine Form des Todes ohne Endgültigkeit dar?
 
@@ -193,7 +164,7 @@ RAM USAGE FLASK: MIN=884 MB | MAX=1182 MB | AVG=897MB
 RAM USAGE OLLAMA: MIN=3347 MB | MAX=3350 MB | AVG=3348MB
 
 ================================================================
-
+# 6
 GERMAN QUESTION:
     Wie wurde der Konflikt zwischen Sphodebarb und The Meow gelöst?
 
@@ -227,7 +198,7 @@ RAM USAGE FLASK: MIN=860 MB | MAX=1187 MB | AVG=892MB
 RAM USAGE OLLAMA: MIN=3350 MB | MAX=3353 MB | AVG=3352MB
 
 ================================================================
-
+# 7
 GERMAN QUESTION:
     Wer war Yalp, und warum war er wichtig?
 
@@ -265,37 +236,7 @@ RAM USAGE FLASK: MIN=849 MB | MAX=1192 MB | AVG=881MB
 RAM USAGE OLLAMA: MIN=3353 MB | MAX=3357 MB | AVG=3355MB
 
 ================================================================
-
-GERMAN QUESTION:
-    Welches symbolische Ereignis markierte die endgültige Wiederherstellung des Gleichgewichts in Velbrek?
-
-
-
-ENGLISH QUESTION:
-    What symbolic event marked the final restoration of balance in Velbrek?
-
-CONTEXT:
-    ['ink looked at the sky. A single star blinked into place—a new one.\n\nShe meowed again.\n\nReality rippled.\n\nThis time, it said something back.\n\nHere is the **final chapter** — bringing our strange tale to a satisfying, weirdly warm ending.\n\n---\n\n### **Chapter Four: When the Loops Untangled**\n\nNink—the once-Mighty Meow, now only a soft and bewildered cat—stood at the center of Velbrek’s courtyard. The sky above was fraying, its velvet folds unraveling into strips of forgotten moments. Each fragment shimmered like a memory trying to be born.\n\nThe tortoises, gathered in solemn silence, watched the cracks forming across reality. Their shells flickered with visions—scenes of laughter, sunsets, and t', 'debarb whispered, unsure where the word had come from.\n\nThe pinecone vibrated slightly, then whispered a single phrase in the Language of Yet:\n\n> “You left your shape behind.”\n\nSphodebarb touched his face. No beard. No robes. No name.\n\nJust a question, curled up like a cat.\n\n---\n\nIn Velbrek, clocks began to tick again—but backward.\n\nYalp’s eyes narrowed.\n\n“She is remembering something she never lived,” he said.\n\n“And the universe,” Eulipion added, “is remembering someone it forgot to forget.”\n\nNink looked at the sky. A single star blinked into place—a new one.\n\nShe meowed again.\n\nReality rippled.\n\nThis time, it said something back.\n\nHere is the **final chapter** — bringing our strange tale t', '##  **The World of Velbrek and Beyond**\n\n### **1. Velbrek: The Inverted Mountain**\n\n* **Geography**: Velbrek is not on a mountain. It *is* a mountain — but upside-down. Its jagged base floats lazily in the sky, with its peak embedded in the ground. Gravity here negotiates hourly contracts and often takes holidays.\n* **Atmosphere**: The weather is narrative-driven. Rain might fall if a subplot requires it. Lightning strikes in iambic pentameter.\n* **Languages**: Most beings speak *Lateral Common*, a language with no vowels and 73 meanings per word, depending on what you’re *not* thinking about when you say it.\n\n---\n\n### **2. Time: An Independent Contractor**\n\n* Time in this world is **not lin']
-
-HISTORY: 
-    []
-
-ENGLISH ANSWER:
-    The symbolic event that marked the final restoration of balance in Velbrek was a single star blinking into place—a new one, which Nink, now just a soft and bewildered cat, meowed about, causing reality to ripple and respond with a message. This moment brought a satisfying ending to the strange tale of Velbrek.
-
-GERMAN ANSWER:
-    Das symbolische Ereignis, das die endgültige Wiederherstellung des Gleichgewichts in Velbrek markierte, war ein einziger Stern, der an seinen Platz blinkte – ein neuer, der Nink, jetzt nur noch eine weiche und verwirrte Katze, mähte umher, wodurch die Realität rippte und mit einer Botschaft reagierte. Dieser Moment brachte ein befriedigendes Ende der seltsamen Geschichte von Velbrek.
-
-TIMINGS:
-TO EN = 1.97 s | CONTEXT = 0.03 s | ANSWER EN = 38.63 s (llama3.2:3b) | TO DE = 3.60 s | TOTAL: 44,23 s
-
-RAM USAGE TOTAL: MIN=4367 MB | MAX=4675 MB | AVG=4389MB
-RAM USAGE C#: MIN=145 MB | MAX=152 MB | AVG=147MB
-RAM USAGE FLASK: MIN=865 MB | MAX=1170 MB | AVG=885MB
-RAM USAGE OLLAMA: MIN=3356 MB | MAX=3358 MB | AVG=3357MB
-
-================================================================
-
+# 8
 GERMAN QUESTION:
     Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife gebrochen war?
 
