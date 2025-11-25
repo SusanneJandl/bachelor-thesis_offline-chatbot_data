@@ -1,6 +1,6 @@
-HISTORY ENABLED: True
 LANGUAGE: DE
-
+HISTORY: true
+# 1
 ENGLISH QUESTION:
     What unusual feature defines the geography of Velbrek?
 
@@ -23,7 +23,7 @@ RAM USAGE FLASK: MIN=680 MB | MAX=680 MB | AVG=680MB
 RAM USAGE OLLAMA: MIN=57 MB | MAX=3734 MB | AVG=3429MB
 
 ================================================================
-
+# 2
 ENGLISH QUESTION:
     What item did Sphodebarb carry instead of a wizard’s staff, and what was its unique trait?
 
@@ -46,7 +46,7 @@ RAM USAGE FLASK: MIN=683 MB | MAX=683 MB | AVG=683MB
 RAM USAGE OLLAMA: MIN=3718 MB | MAX=3721 MB | AVG=3720MB
 
 ================================================================
-
+# 3
 ENGLISH QUESTION:
     Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?
 
@@ -69,7 +69,7 @@ RAM USAGE FLASK: MIN=684 MB | MAX=684 MB | AVG=684MB
 RAM USAGE OLLAMA: MIN=3722 MB | MAX=3724 MB | AVG=3722MB
 
 ================================================================
-
+# 4
 ENGLISH QUESTION:
     How did The Meow gain endless life?
 
@@ -92,32 +92,7 @@ RAM USAGE FLASK: MIN=686 MB | MAX=686 MB | AVG=686MB
 RAM USAGE OLLAMA: MIN=3725 MB | MAX=3727 MB | AVG=3726MB
 
 ================================================================
-
-ENGLISH QUESTION:
-    What did Sphodebarb trade to become semi-immortal?
-
-
-
-CONTEXT:
-    ['light and wonder, Sphodebarb returned—not as the weary, endless wizard he once was, but as someone lighter. His beard was trimmed with stardust. His robes carried the smell of new beginnings.\n\nHe knelt before Nink, who meowed softly and rubbed against his hand.\n\n“Hello,” he said, smiling. “I think we both deserve a normal life. Well, as normal as this place gets.”\n\nThe sky stitched itself together, the cracks sealing into golden threads. The clocks in the Hall of Crooked Clocks began to tick, not forward or backward, but *kindly.*\n\nThe tortoises sighed in collective relief. Grundle muttered, “About time,” but even he looked a little misty-eyed.\n\n---\n\n#### **The New World**\n\nFrom that day for', 'toises, all twelve (and an illegal thirteenth that had been smuggled in under the shell of another), emerged from the Hall of Perpetual Translation. They moved not quickly—tortoises never do—but with the gravity of a decision that had already happened.\n\nGrundle, the largest and most suspicious of the group, stepped forward and hissed, “The Meow seeks paradox. It wants to unravel its own eternity.”\n\nSphodebarb narrowed his eyes. “And what does that have to do with me?”\n\nThe Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:\n\n> **“You are the last knot in the string of time. If I undo you, I undo me.”**\n\nThat’s when the clock in the to', 'existence seven centuries ago, shortly after declaring war on cause and effect.”\n\nEulipion slowly rotated upside down and extended one translucent claw. “And yet. It lounges in the courtyard now. Beneath the Weeping Chair Tree. It’s... grooming itself into a question.”\n\nSphodebarb flung open his gravity-skeptical robe and stumbled through his tower, past the Room of Apologies (which constantly whispered things like *"I\'m sorry about the furniture"* and *"I never meant to bake your memory"*), and into the courtyard.\n\nThere it was.\n\n**The Meow.**\n\nNo creature in the known or unknown layers of reality held such silent power. Its fur shimmered with the absence of forgotten moments. Its tail flic']
-
-HISTORY: 
-    ['\nYou: Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?\r\n\n', 'Bot: The members of the "Order of the Thirteen-Shelled Hypothesis" are twelve elder tortoises, each storing a unique facet of reality. There are also thirteen total, with the thirteenth being disguised as a fern in the corner and known only as Yalp, who has never been invited to speak but always votes.', '\nYou: How did The Meow gain endless life?\r\n\n', 'Bot: The Meow gained endless life through its infusing with the collective fears and brewing of time into jars by Sphodebarb, a wizard who had attempted to prevent death and manipulate time itself. The Meow\'s transformation was not due to any natural or biological process, but rather as a result of Sphodebarb\'s actions, which fed the tortoises with the infused time, allowing them to share this essence and thus making the Meow "infused" with endless life.']
-
-ENGLISH ANSWER:
-    Unfortunately, there is no information provided about what Sphodebarb traded to become semi-immortal in this text. The story appears to be continuing from a previous conversation and doesn't provide any details on how Sphodebarb became immortal or semi-immortal. 
-
-However, we do know that Sphodebarb used his knowledge of the "Order of the Thirteen-Shelled Hypothesis" and brewed time jars to give the Meow endless life.
-TIMINGS:
-CONTEXT = 0.03 s | ANSWER EN = 61.89 s (llama3.2:3b) | TOTAL: 61,93 s
-
-RAM USAGE TOTAL: MIN=4554 MB | MAX=4562 MB | AVG=4556MB
-RAM USAGE C#: MIN=141 MB | MAX=148 MB | AVG=142MB
-RAM USAGE FLASK: MIN=686 MB | MAX=686 MB | AVG=686MB
-RAM USAGE OLLAMA: MIN=3727 MB | MAX=3729 MB | AVG=3728MB
-
-================================================================
-
+# 5
 ENGLISH QUESTION:
     What substance represented a version of death without finality?
 
@@ -140,7 +115,7 @@ RAM USAGE FLASK: MIN=687 MB | MAX=687 MB | AVG=687MB
 RAM USAGE OLLAMA: MIN=3726 MB | MAX=3729 MB | AVG=3729MB
 
 ================================================================
-
+# 6
 ENGLISH QUESTION:
     How was the conflict between Sphodebarb and The Meow resolved?
 
@@ -165,7 +140,7 @@ RAM USAGE FLASK: MIN=687 MB | MAX=687 MB | AVG=687MB
 RAM USAGE OLLAMA: MIN=3730 MB | MAX=3733 MB | AVG=3731MB
 
 ================================================================
-
+# 7
 ENGLISH QUESTION:
     Who was Yalp, and why was he important?
 
@@ -196,30 +171,7 @@ RAM USAGE FLASK: MIN=688 MB | MAX=688 MB | AVG=688MB
 RAM USAGE OLLAMA: MIN=3733 MB | MAX=3735 MB | AVG=3734MB
 
 ================================================================
-
-ENGLISH QUESTION:
-    What symbolic event marked the final restoration of balance in Velbrek?
-
-
-
-CONTEXT:
-    ['ink looked at the sky. A single star blinked into place—a new one.\n\nShe meowed again.\n\nReality rippled.\n\nThis time, it said something back.\n\nHere is the **final chapter** — bringing our strange tale to a satisfying, weirdly warm ending.\n\n---\n\n### **Chapter Four: When the Loops Untangled**\n\nNink—the once-Mighty Meow, now only a soft and bewildered cat—stood at the center of Velbrek’s courtyard. The sky above was fraying, its velvet folds unraveling into strips of forgotten moments. Each fragment shimmered like a memory trying to be born.\n\nThe tortoises, gathered in solemn silence, watched the cracks forming across reality. Their shells flickered with visions—scenes of laughter, sunsets, and t', 'debarb whispered, unsure where the word had come from.\n\nThe pinecone vibrated slightly, then whispered a single phrase in the Language of Yet:\n\n> “You left your shape behind.”\n\nSphodebarb touched his face. No beard. No robes. No name.\n\nJust a question, curled up like a cat.\n\n---\n\nIn Velbrek, clocks began to tick again—but backward.\n\nYalp’s eyes narrowed.\n\n“She is remembering something she never lived,” he said.\n\n“And the universe,” Eulipion added, “is remembering someone it forgot to forget.”\n\nNink looked at the sky. A single star blinked into place—a new one.\n\nShe meowed again.\n\nReality rippled.\n\nThis time, it said something back.\n\nHere is the **final chapter** — bringing our strange tale t', '##  **The World of Velbrek and Beyond**\n\n### **1. Velbrek: The Inverted Mountain**\n\n* **Geography**: Velbrek is not on a mountain. It *is* a mountain — but upside-down. Its jagged base floats lazily in the sky, with its peak embedded in the ground. Gravity here negotiates hourly contracts and often takes holidays.\n* **Atmosphere**: The weather is narrative-driven. Rain might fall if a subplot requires it. Lightning strikes in iambic pentameter.\n* **Languages**: Most beings speak *Lateral Common*, a language with no vowels and 73 meanings per word, depending on what you’re *not* thinking about when you say it.\n\n---\n\n### **2. Time: An Independent Contractor**\n\n* Time in this world is **not lin']
-
-HISTORY: 
-    ['\nYou: How was the conflict between Sphodebarb and The Meow resolved?\r\n\n', "Bot: Unfortunately, I don't have any information on how the conflict between Sphodebarb and The Meow was resolved. However, it appears that their disagreement led to a confrontation where The Meow threatened to end its own existence if Sphodebarb did not dissolve the knot of time that had been created. The Meow's statement suggests that Sphodebarb's actions were unsustainable and had caused a paradox that needed to be resolved.\n\nIt is also worth noting that Grundle, a suspicious figure, appeared to object to The Meow's plan, suggesting that it was seeking paradox for its own sake rather than as a means of ending itself. However, the conversation ends abruptly without resolving the conflict or clarifying the outcome of their discussion.", '\nYou: Who was Yalp, and why was he important?\r\n\n', 'Bot: Yalp was an important character in the story as he played a crucial role in resolving the conflict and paradox created by Sphodebarb\'s actions. He was someone who knew how to manipulate reality, as evident from his ability to make the Weeping Chair Tree laugh and contain the paradox field.\n\nHowever, Yalp\'s true power lay in his ability to release Sphodebarb from his rigid identity as "the weary, endless wizard." When he said, "You are no longer bound to always. You are not The Meow," he was essentially breaking free from the constraints of Sphodebarb\'s predetermined fate.\n\nThis statement also held significance for Nink, who had been searching for her lost shape and identity. Yalp\'s words seemed to have triggered a memory or realization in Nink, as she began to remember something she never lived, which was revealed to be that she left her shape behind.\n\nYalp\'s actions helped to reset the universe, allowing Sphodebarb to rediscover himself and find a new sense of purpose. He transformed from an exhausted wizard into someone lighter and more hopeful, with his beard trimmed with stardust and his robes carrying the smell of new beginnings.\n\nIn essence, Yalp was important because he facilitated a transformation in both Sphodebarb and Nink, allowing them to break free from their predetermined paths and discover new identities. His actions brought about a sense of wonder and lightness to the story, as reality itself began to repair and heal.']
-
-ENGLISH ANSWER:
-    The symbolic event that marked the final restoration of balance in Velbrek was the moment when Nink, now only a soft and bewildered cat, looked at the sky and meowed again. Reality rippled in response, and for the first time, it said something back. This marked the end of the paradox created by Sphodebarb's actions and the restoration of balance in Velbrek, allowing reality to repair and heal.
-TIMINGS:
-CONTEXT = 0.05 s | ANSWER EN = 85.15 s (llama3.2:3b) | TOTAL: 85,19 s
-
-RAM USAGE TOTAL: MIN=4564 MB | MAX=4570 MB | AVG=4567MB
-RAM USAGE C#: MIN=145 MB | MAX=148 MB | AVG=145MB
-RAM USAGE FLASK: MIN=688 MB | MAX=688 MB | AVG=688MB
-RAM USAGE OLLAMA: MIN=3731 MB | MAX=3736 MB | AVG=3734MB
-
-================================================================
-
+# 8
 ENGLISH QUESTION:
     What did Sphodebarb and Nink (the cat) choose after the loop was broken?
 
