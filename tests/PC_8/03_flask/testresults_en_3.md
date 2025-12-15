@@ -11,14 +11,14 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its jagged base floating lazily in the sky and its peak embedded in the ground.
+    The unusual feature that defines the geography of Velbrek is that it is an "inverted mountain," where its jagged base floats in the sky and its peak is embedded in the ground, defying conventional notions of gravity and spatial orientation.
 TIMINGS:
-CONTEXT = 0.05 s | ANSWER EN = 33.33 s (llama3.2:3b) | TOTAL: 33,60 s
+CONTEXT = 0.05 s | ANSWER EN = 33.54 s (llama3.2:3b) | TOTAL: 33,81 s
 
-RAM USAGE TOTAL: MIN=854 MB | MAX=3426 MB | AVG=2740MB
-RAM USAGE C#: MIN=112 MB | MAX=119 MB | AVG=115MB
-RAM USAGE FLASK: MIN=695 MB | MAX=695 MB | AVG=695MB
-RAM USAGE OLLAMA: MIN=46 MB | MAX=2619 MB | AVG=1931MB
+RAM USAGE TOTAL: MIN=857 MB | MAX=3428 MB | AVG=2940MB
+RAM USAGE C#: MIN=113 MB | MAX=120 MB | AVG=115MB
+RAM USAGE FLASK: MIN=694 MB | MAX=694 MB | AVG=694MB
+RAM USAGE OLLAMA: MIN=47 MB | MAX=2620 MB | AVG=2130MB
 
 ================================================================
 # 2
@@ -34,19 +34,21 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Sphodebarb carried a tortoise instead of a wizard's staff, and its unique trait was that it was glowing a bright, insistent mauve, signaling an "Existential Emergency". The tortoise, named Eulipion the Slightly Damp, would recite abstract verbs in perfect Morse code.
+    According to the text, Sphodebarb carried an "emergency jam spoon" instead of a wizard's staff, and its unique trait was that it allowed him to summon his thoughts from where they wandered during sleep.
 TIMINGS:
-CONTEXT = 0.05 s | ANSWER EN = 37.71 s (llama3.2:3b) | TOTAL: 37,79 s
+CONTEXT = 0.03 s | ANSWER EN = 31.60 s (llama3.2:3b) | TOTAL: 31,67 s
 
-RAM USAGE TOTAL: MIN=882 MB | MAX=3432 MB | AVG=3036MB
-RAM USAGE C#: MIN=116 MB | MAX=119 MB | AVG=117MB
+RAM USAGE TOTAL: MIN=3430 MB | MAX=3432 MB | AVG=3431MB
+RAM USAGE C#: MIN=117 MB | MAX=119 MB | AVG=117MB
 RAM USAGE FLASK: MIN=696 MB | MAX=696 MB | AVG=696MB
-RAM USAGE OLLAMA: MIN=66 MB | MAX=2619 MB | AVG=2222MB
+RAM USAGE OLLAMA: MIN=2618 MB | MAX=2619 MB | AVG=2619MB
 
 ================================================================
 # 3
 ENGLISH QUESTION:
     Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?
+
+
 
 CONTEXT:
     ['toises, all twelve (and an illegal thirteenth that had been smuggled in under the shell of another), emerged from the Hall of Perpetual Translation. They moved not quickly—tortoises never do—but with the gravity of a decision that had already happened.\n\nGrundle, the largest and most suspicious of the group, stepped forward and hissed, “The Meow seeks paradox. It wants to unravel its own eternity.”\n\nSphodebarb narrowed his eyes. “And what does that have to do with me?”\n\nThe Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:\n\n> **“You are the last knot in the string of time. If I undo you, I undo me.”**\n\nThat’s when the clock in the to', 'vered six feet off the ground and smelled faintly of ancestral soup. Twelve ornate thrones made of folded regret formed a circle. Each was occupied by one of the twelve elder tortoises. The thirteenth, known only as *Yalp*, was disguised as a fern in the corner. It had never been invited to speak, yet always voted. No one questioned it.\n\nSphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.\n\n“Let the trial commence,” intoned Grundle, whose voice now had the texture of gravel mixed with poetry slush. “Prosecutor: Sphodebarb the Perpetual. Defendant: The Meow. Charge: E', 'cks** is the governing body for temporal logic. It is chaired by clocks that cry more often than they tick.\n\n---\n\n### **3. The Tortoises: Bearers of Memory**\n\n* Known collectively as the *Order of the Thirteen-Shelled Hypothesis*.\n* Each tortoise stores a unique **facet of reality**: one keeps the blueprint for regret, another remembers colors that don’t exist yet, another is responsible for flavor metaphors.\n* Their shells are cosmic archives—if you stare long enough, you might see a moment from a life you haven’t lived yet.\n* Tortoises are considered **dimensional ballast**—they anchor reality to avoid existential drift.\n\n---\n\n### **4. The Meow: The Cat of Endless Life**\n\n* The Meow is a *']
@@ -55,30 +57,19 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The members of the “Order of the Thirteen-Shelled Hypothesis” are the twelve elder tortoises, each with a unique facet of reality stored in their shells. There is also the thirteenth member, known only as Yalp, who is disguised as a fern and has never been invited to speak but always votes.
-
-Here's a breakdown of what we know about each tortoise:
-
-* Each tortoise stores a unique aspect of reality.
-* The twelve elder tortoises form a circle around Sphodebarb, with each throne representing a different facet of reality (e.g. regret, colors that don't exist yet, flavor metaphors).
-* Yalp, the thirteenth member, is disguised as a fern and has been secretly voting.
-* The tortoises are considered "dimensional ballast," anchoring reality to prevent existential drift.
-
-Note that Grundle is not a part of the Order of the Thirteen-Shelled Hypothesis, but rather seems to be its chairperson or moderator.
+    Unfortunately, the provided text does not explicitly mention who or what the members are of the "Order of the Thirteen-Shelled Hypothesis" aside from Sphodebarb and the 12 elder tortoises (also referred to as the 'toises). However, it does provide some context about their roles in maintaining temporal logic.
 TIMINGS:
-CONTEXT = 0.04 s | ANSWER EN = 53.12 s (llama3.2:3b) | TOTAL: 53,18 s
+CONTEXT = 0.03 s | ANSWER EN = 34.39 s (llama3.2:3b) | TOTAL: 34,44 s
 
-RAM USAGE TOTAL: MIN=887 MB | MAX=3412 MB | AVG=3240MB
-RAM USAGE C#: MIN=121 MB | MAX=124 MB | AVG=122MB
-RAM USAGE FLASK: MIN=670 MB | MAX=694 MB | AVG=673MB
-RAM USAGE OLLAMA: MIN=69 MB | MAX=2620 MB | AVG=2446MB
+RAM USAGE TOTAL: MIN=3437 MB | MAX=3440 MB | AVG=3439MB
+RAM USAGE C#: MIN=119 MB | MAX=121 MB | AVG=120MB
+RAM USAGE FLASK: MIN=697 MB | MAX=697 MB | AVG=697MB
+RAM USAGE OLLAMA: MIN=2621 MB | MAX=2622 MB | AVG=2622MB
 
 ================================================================
 # 4
 ENGLISH QUESTION:
     How did The Meow gain endless life?
-
-
 
 CONTEXT:
     ['emporal influence.”\n\nThe Meow stretched luxuriously. Its tail formed a symbol known only to forgotten architects and soft jazz. Then, without sound, it released a thought so clear and sudden that it echoed inside every skull:\n\n> **“You made me endless.”**\n\nThere was a ripple through the platform. Sphodebarb frowned. “Explain.”\n\n> **“You, wizard. You who feared death and brewed time into jars. You fed it to the tortoises. You fed it to me. We are not endless by birth. We were *infused*.”**\n\nGasps circled the room like musical chairs played during an earthquake.\n\nThe tortoise Eulipion turned to Sphodebarb. “Is this true?”\n\n“I... I didn’t mean for it to happen,” the wizard muttered. “I was tryi', 'Meow arched its back and flexed its claws.\n\nThe tortoises assembled in a tight spiral. Their shells glowed with indecipherable runes that smelled faintly of cardamom and dread.\n\nThe wizard sighed. “Fine. We’ll hold the *Chrono-Peace Trial*. But if that cat turns my teacups into existential metaphors again, I swear on my last unbroken principle—”\n\nThe Meow turned its head slowly and licked a paw.\n\nA teacup in the kitchen shattered, then rearranged itself into a sculpture of betrayal.\n\nSphodebarb groaned.\n\n“Right. Trial begins at dawn. Or whatever approximates it in this timeline.”\n\nAnd thus began the final trial, where endless life, feline will, and tortoise bureaucracy would collide under t', 'toises, all twelve (and an illegal thirteenth that had been smuggled in under the shell of another), emerged from the Hall of Perpetual Translation. They moved not quickly—tortoises never do—but with the gravity of a decision that had already happened.\n\nGrundle, the largest and most suspicious of the group, stepped forward and hissed, “The Meow seeks paradox. It wants to unravel its own eternity.”\n\nSphodebarb narrowed his eyes. “And what does that have to do with me?”\n\nThe Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:\n\n> **“You are the last knot in the string of time. If I undo you, I undo me.”**\n\nThat’s when the clock in the to']
@@ -87,18 +78,14 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The Meow gained endless life through a process known as "emporal influence." This occurred when the wizard, who had been trying to brew time into jars and feed it to tortoises, inadvertently infused the Meow with eternal life. The Meow's creator, the wizard, had feared death and brewed time into jars, but he also fed this time to the tortoises, which in turn influenced the Meow.
-
-The Meow's power is based on its ability to manipulate time and existence, allowing it to unravel its own eternity. This power is connected to the wizard, who is referred to as the "last knot in the string of time." If the Meow were to undo itself, it would also undo the wizard, suggesting a deep connection between their fates.
-
-In essence, The Meow's endless life is a result of its connection to the wizard and the tortoises, which have created a complex web of time and existence that the Meow can manipulate.
+    There is no information provided about "The Meow" gaining endless life in this text. The story appears to be setting up a trial where The Meow is seeking to unravel its own eternity, and the wizard Sphodebarb is involved in trying to understand and explain The Meow's existence.
 TIMINGS:
-CONTEXT = 0.03 s | ANSWER EN = 48.90 s (llama3.2:3b) | TOTAL: 48,94 s
+CONTEXT = 0.02 s | ANSWER EN = 34.01 s (llama3.2:3b) | TOTAL: 34,04 s
 
-RAM USAGE TOTAL: MIN=3417 MB | MAX=3422 MB | AVG=3419MB
-RAM USAGE C#: MIN=123 MB | MAX=128 MB | AVG=124MB
-RAM USAGE FLASK: MIN=671 MB | MAX=671 MB | AVG=671MB
-RAM USAGE OLLAMA: MIN=2623 MB | MAX=2624 MB | AVG=2624MB
+RAM USAGE TOTAL: MIN=3440 MB | MAX=3443 MB | AVG=3441MB
+RAM USAGE C#: MIN=120 MB | MAX=123 MB | AVG=120MB
+RAM USAGE FLASK: MIN=698 MB | MAX=698 MB | AVG=698MB
+RAM USAGE OLLAMA: MIN=2623 MB | MAX=2623 MB | AVG=2623MB
 
 ================================================================
 # 5
@@ -112,19 +99,21 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Peach Regret is the substance that simulates death without finality.
+    Peach Regret is the substance that represents a version of death without finality.
 TIMINGS:
-CONTEXT = 0.02 s | ANSWER EN = 29.03 s (llama3.2:3b) | TOTAL: 29,07 s
+CONTEXT = 0.03 s | ANSWER EN = 32.92 s (llama3.2:3b) | TOTAL: 32,96 s
 
-RAM USAGE TOTAL: MIN=3417 MB | MAX=3421 MB | AVG=3419MB
-RAM USAGE C#: MIN=124 MB | MAX=128 MB | AVG=126MB
-RAM USAGE FLASK: MIN=672 MB | MAX=672 MB | AVG=672MB
-RAM USAGE OLLAMA: MIN=2621 MB | MAX=2621 MB | AVG=2621MB
+RAM USAGE TOTAL: MIN=891 MB | MAX=3435 MB | AVG=2787MB
+RAM USAGE C#: MIN=121 MB | MAX=124 MB | AVG=122MB
+RAM USAGE FLASK: MIN=695 MB | MAX=695 MB | AVG=695MB
+RAM USAGE OLLAMA: MIN=72 MB | MAX=2620 MB | AVG=1970MB
 
 ================================================================
 # 6
 ENGLISH QUESTION:
     How was the conflict between Sphodebarb and The Meow resolved?
+
+
 
 CONTEXT:
     ['d, and suddenly the courtroom was made of metaphor. The walls melted into implications. The thrones became interpretations of authority. The floor was now subjective.\n\nGrundle roared, “Stop manipulating the symbolic field!”\n\nThe Meow’s eyes narrowed. A final thought came, burning into Sphodebarb’s brain like a brand:\n\n> **“End me, or I end you. We cannot both persist. The loop is tired.”**\n\nSphodebarb felt it—deep in his marrow. He had built something unsustainable. A life so long it no longer had context. A series of tortoises who had seen too many moons. A cat who remembered the heat of the Big Bang and the sigh of the final star.\n\nSuddenly, from the corner, the fern spoke.\n\n“I object.”\n\nA', 'toises, all twelve (and an illegal thirteenth that had been smuggled in under the shell of another), emerged from the Hall of Perpetual Translation. They moved not quickly—tortoises never do—but with the gravity of a decision that had already happened.\n\nGrundle, the largest and most suspicious of the group, stepped forward and hissed, “The Meow seeks paradox. It wants to unravel its own eternity.”\n\nSphodebarb narrowed his eyes. “And what does that have to do with me?”\n\nThe Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:\n\n> **“You are the last knot in the string of time. If I undo you, I undo me.”**\n\nThat’s when the clock in the to', 'disappointment.\n\nThe Meow yawned. Reality around its mouth bent gently, like a tired idea being reconsidered.\n\n“Why are you here?” Sphodebarb asked.\n\nThe cat uncoiled its body and stepped forward. Where its paw touched the ground, grass forgot how to exist and politely excused itself. The Meow didn’t speak—it never had—but a thought crystallized in Sphodebarb’s brain like ice forming in a kettle of secrets:\n\n> **“I am here to end forever.”**\n\nSuddenly, a shudder went through the ground. The tortoises, all twelve (and an illegal thirteenth that had been smuggled in under the shell of another), emerged from the Hall of Perpetual Translation. They moved not quickly—tortoises never do—but with']
@@ -133,27 +122,19 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The conflict between Sphodebarb and The Meow was resolved when The Meow stated that it was there to end forever, implying that it sought to bring an end to its own existence if Sphodebarb was not willing to end his life as well. This statement was a turning point in the conversation, as Sphodebarb began to understand the true nature of the conflict between them.
-
-The Meow's final thought, "I am here to end forever," made Sphodebarb realize that he had been holding onto his life for too long and that it had become unsustainable. The Meow's words were a wake-up call, forcing Sphodebarb to confront the fact that he had built something that was no longer sustainable.
-
-The resolution of the conflict came when Sphodebarb accepted The Meow's statement and realized that they could not both persist if they continued on their current paths. The Meow's desire to end its own existence and Sphodebarb's unwillingness to give up his life were intertwined, and by acknowledging this, they were able to find a resolution.
-
-In essence, the conflict between Sphodebarb and The Meow was resolved when both parties came to an understanding that their continued existence was tied together. By accepting the reality of their situation, they were able to bring an end to their eternal struggle and find peace.
+    The conflict between Sphodebarb and The Meow was resolved when The Meow presented Sphodebarb with a paradox: if it ended Sphodebarb, then it would also end itself, as they were linked in the fabric of time. This realization caused Sphodebarb to confront his own existence, which had become unsustainable due to its prolonged nature. The Meow's presence was seen as a catalyst for this introspection, forcing Sphodebarb to acknowledge that he was the last knot in the string of time. Ultimately, it seemed that The Meow's intention was not to harm or manipulate Sphodebarb but to bring an end to its own eternal existence by severing the connection with him.
 TIMINGS:
-CONTEXT = 0.04 s | ANSWER EN = 61.50 s (llama3.2:3b) | TOTAL: 61,55 s
+CONTEXT = 0.04 s | ANSWER EN = 43.54 s (llama3.2:3b) | TOTAL: 43,58 s
 
-RAM USAGE TOTAL: MIN=369 MB | MAX=2924 MB | AVG=2799MB
-RAM USAGE C#: MIN=118 MB | MAX=119 MB | AVG=118MB
-RAM USAGE FLASK: MIN=191 MB | MAX=191 MB | AVG=191MB
-RAM USAGE OLLAMA: MIN=59 MB | MAX=2615 MB | AVG=2490MB
+RAM USAGE TOTAL: MIN=3438 MB | MAX=3440 MB | AVG=3440MB
+RAM USAGE C#: MIN=121 MB | MAX=123 MB | AVG=122MB
+RAM USAGE FLASK: MIN=695 MB | MAX=695 MB | AVG=695MB
+RAM USAGE OLLAMA: MIN=2622 MB | MAX=2623 MB | AVG=2623MB
 
 ================================================================
 # 7
 ENGLISH QUESTION:
     Who was Yalp, and why was he important?
-
-
 
 CONTEXT:
     ['. Blinked.\n\n“You are no longer bound to always. You are not The Meow,” Yalp said.\n\nNink meowed. It was a simple sound. Not a prophecy. Not a command. Just a question that didn’t need an answer.\n\nYalp smiled. A crack appeared in the firmament.\n\n“Oh,” he said softly. “It’s happening again.”\n\nBehind them, the Weeping Chair Tree began to laugh—a high, brittle sound, like a teacup dreaming of rebellion. Its leaves folded inward, turning blue with confusion.\n\n“Eulipion!” Yalp barked. “Contain the paradox field!”\n\nThe elder tortoise spun slowly toward him, eyes wide. “Too late. Her innocence is triggering recursive compression. The world is beginning to notice it lost something important.”\n\nNink, o', 'debarb whispered, unsure where the word had come from.\n\nThe pinecone vibrated slightly, then whispered a single phrase in the Language of Yet:\n\n> “You left your shape behind.”\n\nSphodebarb touched his face. No beard. No robes. No name.\n\nJust a question, curled up like a cat.\n\n---\n\nIn Velbrek, clocks began to tick again—but backward.\n\nYalp’s eyes narrowed.\n\n“She is remembering something she never lived,” he said.\n\n“And the universe,” Eulipion added, “is remembering someone it forgot to forget.”\n\nNink looked at the sky. A single star blinked into place—a new one.\n\nShe meowed again.\n\nReality rippled.\n\nThis time, it said something back.\n\nHere is the **final chapter** — bringing our strange tale t', 'light and wonder, Sphodebarb returned—not as the weary, endless wizard he once was, but as someone lighter. His beard was trimmed with stardust. His robes carried the smell of new beginnings.\n\nHe knelt before Nink, who meowed softly and rubbed against his hand.\n\n“Hello,” he said, smiling. “I think we both deserve a normal life. Well, as normal as this place gets.”\n\nThe sky stitched itself together, the cracks sealing into golden threads. The clocks in the Hall of Crooked Clocks began to tick, not forward or backward, but *kindly.*\n\nThe tortoises sighed in collective relief. Grundle muttered, “About time,” but even he looked a little misty-eyed.\n\n---\n\n#### **The New World**\n\nFrom that day for']
@@ -162,16 +143,24 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Yalp is not directly mentioned as a character with a significant backstory or personality, but rather appears to be an authority figure who issues commands and makes decisions in the story.
+    Yalp is an important character in the story due to his role as a guide and mentor. He appears to be an elder figure who possesses knowledge and wisdom about the world and its workings.
 
-He was important because he tried to contain a paradox field triggered by Eulipion, which threatened the stability of reality. Yalp also seemed to be aware of the impending collapse of the universe's "memory" of certain things or people, which is hinted at when Sphodebarb says, "You left your shape behind." His role in the story appears to be that of a guardian or caretaker who tries to mitigate the effects of this collapse.
+Throughout the story, Yalp provides cryptic advice and warnings, helping Nink navigate the complexities of her reality. His words often hold multiple layers of meaning, and he seems to possess a deep understanding of the universe and its intricacies.
+
+One of Yalp's most significant contributions is in helping Nink understand her identity and purpose. He tells her that she "is not The Meow," suggesting that there may be more to her existence than initially thought. This revelation seems to free Nink from some kind of burden or expectation, allowing her to explore new possibilities.
+
+Yalp also plays a crucial role in containing the paradox field and preventing its destruction. When Eulipion's innocence triggers recursive compression, Yalp orders him to contain the field, buying time for Nink and others to come to terms with the changes unfolding around them.
+
+The final chapter reveals that Yalp has undergone significant personal growth himself, shedding his "weary, endless wizard" persona in favor of a lighter, more hopeful presence. His transformation is symbolized by his trimmed beard adorned with stardust and his robes bearing the scent of new beginnings.
+
+Ultimately, Yalp's importance lies in his ability to facilitate Nink's transformation and help her find a sense of purpose and belonging in a world that has undergone significant upheaval. Through his guidance and wisdom, Yalp sets the stage for a brighter future, one where individuals can rediscover their identities and navigate the complexities of reality with greater clarity and understanding.
 TIMINGS:
-CONTEXT = 0.03 s | ANSWER EN = 45.68 s (llama3.2:3b) | TOTAL: 45,73 s
+CONTEXT = 0.03 s | ANSWER EN = 65.47 s (llama3.2:3b) | TOTAL: 65,51 s
 
-RAM USAGE TOTAL: MIN=388 MB | MAX=2896 MB | AVG=2681MB
-RAM USAGE C#: MIN=119 MB | MAX=127 MB | AVG=120MB
-RAM USAGE FLASK: MIN=160 MB | MAX=192 MB | AVG=163MB
-RAM USAGE OLLAMA: MIN=69 MB | MAX=2617 MB | AVG=2398MB
+RAM USAGE TOTAL: MIN=2928 MB | MAX=3445 MB | AVG=3322MB
+RAM USAGE C#: MIN=118 MB | MAX=131 MB | AVG=122MB
+RAM USAGE FLASK: MIN=189 MB | MAX=695 MB | AVG=579MB
+RAM USAGE OLLAMA: MIN=2619 MB | MAX=2621 MB | AVG=2621MB
 
 ================================================================
 # 8
@@ -185,13 +174,13 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    According to the text, after the loop was broken, Sphodebarb chose to "Observe" her new existence as a mortal being, while Nink (the cat) chose to "Protect" herself from shattering under the weight of her newfound mortality.
+    Unfortunately, there is no information provided about what Sphodebarb and Nink (the cat) chose after the loop was broken. The text only mentions that Nink placed her paw on Yalp's shell and offered to return the loop, but it does not mention Sphodebarb making a choice or participating in the decision-making process.
 TIMINGS:
-CONTEXT = 0.05 s | ANSWER EN = 34.92 s (llama3.2:3b) | TOTAL: 34,97 s
+CONTEXT = 0.04 s | ANSWER EN = 36.97 s (llama3.2:3b) | TOTAL: 37,02 s
 
-RAM USAGE TOTAL: MIN=2902 MB | MAX=2904 MB | AVG=2903MB
-RAM USAGE C#: MIN=120 MB | MAX=121 MB | AVG=121MB
-RAM USAGE FLASK: MIN=161 MB | MAX=161 MB | AVG=161MB
-RAM USAGE OLLAMA: MIN=2621 MB | MAX=2622 MB | AVG=2622MB
+RAM USAGE TOTAL: MIN=2930 MB | MAX=2932 MB | AVG=2932MB
+RAM USAGE C#: MIN=119 MB | MAX=121 MB | AVG=120MB
+RAM USAGE FLASK: MIN=191 MB | MAX=191 MB | AVG=191MB
+RAM USAGE OLLAMA: MIN=2620 MB | MAX=2622 MB | AVG=2621MB
 
 ================================================================
