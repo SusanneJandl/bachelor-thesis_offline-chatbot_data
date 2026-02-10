@@ -43,7 +43,7 @@ Nevertheless, a dim sort of twilight draped itself lazily over the sky, which wa
 
 
 HISTORY: 
-ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "upside-down"-Mountain ist, dessen Basis in der Luft schwankt und dessen Gipfel im Boden steckt. Die Gravitation auf Velbrek negotiert stündliche Verträge und schläft oft.
+ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "upside-down"-Mountain ist, dessen Basis in der Luft schwankt und dessen Gipfel im Boden steckt. Die Gravitation auf Velbrek negotiert stündliche Verträge und schläft oft. (72 T)
 
 
 TIMINGS: 
@@ -107,7 +107,7 @@ HISTORY: User: Welche ungewöhnliche Eigenschaft definiert die Geografie von Vel
  Assistant: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "upside-down"-Mountain ist, dessen Basis in der Luft schwankt und dessen Gipfel im Boden steckt. Die Gravitation auf Velbrek negotiert stündliche Verträge und schläft oft.
 ANSWER: English
 
-Der Gegenstand, den Sphodebarb anstelle eines Zauberstabes trug, war eine Platte aus komprimierter Zögern. Die besondere Eigenschaft dieser Platte war nicht explizit genannt.
+Der Gegenstand, den Sphodebarb anstelle eines Zauberstabes trug, war eine Platte aus komprimierter Zögern. Die besondere Eigenschaft dieser Platte war nicht explizit genannt. (53 T)
 
 
 TIMINGS: 
@@ -195,7 +195,7 @@ ANSWER: Es gibt keine explizite Liste der Mitglieder des "Ordens der Dreizehnsch
 * Eulipion: Ein Mitglied des Ordens und ein Verbündeter von Yalp.
 * Sphodebarb: Ein unbekannter Charakter, der möglicherweise Verbindungen zum Orden hat, aber seine Rolle ist nicht klar definiert.
 
-Es scheint jedoch, dass das "Ordens der Dreizehnschaligen Hypothese" eher ein Konzept oder eine Gruppe von Charakteren ist, die sich um die Ausgleich von Paradoxien und die Erhaltung des Universum-Gleichgewichts bemühen, als eine offizielle Organisation mit festgelegten Mitgliedern.
+Es scheint jedoch, dass das "Ordens der Dreizehnschaligen Hypothese" eher ein Konzept oder eine Gruppe von Charakteren ist, die sich um die Ausgleich von Paradoxien und die Erhaltung des Universum-Gleichgewichts bemühen, als eine offizielle Organisation mit festgelegten Mitgliedern. (215 T)
 
 
 TIMINGS: 
@@ -257,7 +257,7 @@ Es wird jedoch deutlich, dass The Meow ein existierendes Paradox ist, das seit s
 
 Die einzige Erwähnung davon, wie The Meow "sein Leben" erlangt hat, findet sich in den Worten des Wizards: "The Meow declared war on cause and effect." Dies deutet darauf hin, dass The Meows "Leben" mit einem gewissen Ereignis verbunden ist, aber es bleibt unklar, was genau dieser Erwartung entsprach.
 
-Insgesamt scheint es, als ob The Meows "endloses Leben" durch einen bestimmten Kontext oder Ereignis entstanden ist, das jedoch nicht explizit erklärt wird.
+Insgesamt scheint es, als ob The Meows "endloses Leben" durch einen bestimmten Kontext oder Ereignis entstanden ist, das jedoch nicht explizit erklärt wird. (248 T)
 
 
 TIMINGS: 
@@ -324,7 +324,7 @@ Es wird jedoch deutlich, dass The Meow ein existierendes Paradox ist, das seit s
 Die einzige Erwähnung davon, wie The Meow "sein Leben" erlangt hat, findet sich in den Worten des Wizards: "The Meow declared war on cause and effect." Dies deutet darauf hin, dass The Meows "Leben" mit einem gewissen Ereignis verbunden ist, aber es bleibt unklar, was genau dieser Erwartung entsprach.
 
 Insgesamt scheint es, als ob The Meows "endloses Leben" durch einen bestimmten Kontext oder Ereignis entstanden ist, das jedoch nicht explizit erklärt wird.
-ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist **Peach Regret**.
+ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist **Peach Regret**. (28 T)
 
 
 TIMINGS: 
@@ -391,7 +391,7 @@ There it was.
 
 **The Meow.**
 
-Es wird jedoch deutlich, dass Sphodebarb und The Meow eine Art Verständnis oder Einigung erreicht haben, da sie sich wiederfinden und die Konfrontation überwinden können. Es wird auch deutlich gemacht, dass das Urteil der "Shellbearers" ausgesprochen wurde, aber diese Details werden nicht explizit beschrieben.
+Es wird jedoch deutlich, dass Sphodebarb und The Meow eine Art Verständnis oder Einigung erreicht haben, da sie sich wiederfinden und die Konfrontation überwinden können. Es wird auch deutlich gemacht, dass das Urteil der "Shellbearers" ausgesprochen wurde, aber diese Details werden nicht explizit beschrieben. (166 T)
 
 
 TIMINGS: 
@@ -492,7 +492,7 @@ Yalp ermöglichte es dem Katzen, sein Bewusstsein und seine Erinnerungen auf den
 
 Yalps Handlungen hatten weitreichende Folgen für die Welt, da sie zu einer Veränderung der Art und Weise, wie Erinnerungen und Identität wahrnehmt werden. Seine Entscheidung, den "Meow" zu "inversionieren", hatte das Potenzial, eine neue Ordnung aufzubauen, in der Erinnerungen und Identitäten nicht mehr so festgelegt waren.
 
-Insgesamt war Yalp ein wichtiger Charakter, da er die Grundlage für eine neue Art von Realität schuf, in der sich die Beziehung zwischen Erinnerungen, Identität und Freiheit neu gestaltete.
+Insgesamt war Yalp ein wichtiger Charakter, da er die Grundlage für eine neue Art von Realität schuf, in der sich die Beziehung zwischen Erinnerungen, Identität und Freiheit neu gestaltete. (320 T)
 
 
 TIMINGS: 
@@ -578,7 +578,7 @@ Yalps Handlungen hatten weitreichende Folgen für die Welt, da sie zu einer Ver�
 Insgesamt war Yalp ein wichtiger Charakter, da er die Grundlage für eine neue Art von Realität schuf, in der sich die Beziehung zwischen Erinnerungen, Identität und Freiheit neu gestaltete.
 ANSWER: Leider ist die bereitgestellte Texte nur ein Exzerpt und gibt keine klare Antwort auf die Frage, was Sphodebarb und Nink (die Katze) entschieden sich, nachdem die Schleife gebrochen war.
 
-Es scheint jedoch, dass die Schleife oder das Konzept der Zeit und des Universums in den Vordergrund rückt. Die Handlung spielt mit dem Idee von Existential Trespass und Unauthorized Reweaving of Infinity, was darauf hindeutet, dass Sphodebarb und Nink sich entschieden hätten, die ursprüngliche Schleife oder das Konzept der Zeit zu hinterfragen oder zu ändern.
+Es scheint jedoch, dass die Schleife oder das Konzept der Zeit und des Universums in den Vordergrund rückt. Die Handlung spielt mit dem Idee von Existential Trespass und Unauthorized Reweaving of Infinity, was darauf hindeutet, dass Sphodebarb und Nink sich entschieden hätten, die ursprüngliche Schleife oder das Konzept der Zeit zu hinterfragen oder zu ändern. (155 T)
 
 
 TIMINGS: 

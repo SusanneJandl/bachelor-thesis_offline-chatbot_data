@@ -9,7 +9,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    According to the text, the unusual feature that defines the geography of Velbrek is that it is an "inverted mountain", where its base floats lazily in the sky and its peak is embedded in the ground. This defies traditional notions of mountains being above the ground and provides a unique and imaginative landscape for the world of Velbrek.
+    According to the text, the unusual feature that defines the geography of Velbrek is that it is an "inverted mountain", where its base floats lazily in the sky and its peak is embedded in the ground. This defies traditional notions of mountains being above the ground and provides a unique and imaginative landscape for the world of Velbrek. (70 T)
 TIMINGS:
 CONTEXT = 0.58 s | ANSWER EN = 56.91 s (llama3.2:3b) | TOTAL: 58,84 s
 
@@ -30,7 +30,7 @@ HISTORY:
     ['\nYou: What unusual feature defines the geography of Velbrek?\n', 'Bot: According to the text, the unusual feature that defines the geography of Velbrek is that it is an "inverted mountain", where its base floats lazily in the sky and its peak is embedded in the ground. This defies traditional notions of mountains being above the ground and provides a unique and imaginative landscape for the world of Velbrek.']
 
 ENGLISH ANSWER:
-    The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. Its unique trait was that it allowed Sphodebarb to summon his thoughts from his subconscious during sleep, which often wandered to vivid and imaginative places like a glade with naked clocks dancing around a central confusion.
+    The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. Its unique trait was that it allowed Sphodebarb to summon his thoughts from his subconscious during sleep, which often wandered to vivid and imaginative places like a glade with naked clocks dancing around a central confusion. (64 T)
 TIMINGS:
 CONTEXT = 1.49 s | ANSWER EN = 63.97 s (llama3.2:3b) | TOTAL: 66,28 s
 
@@ -51,7 +51,7 @@ HISTORY:
     ['\nYou: What unusual feature defines the geography of Velbrek?\n', 'Bot: According to the text, the unusual feature that defines the geography of Velbrek is that it is an "inverted mountain", where its base floats lazily in the sky and its peak is embedded in the ground. This defies traditional notions of mountains being above the ground and provides a unique and imaginative landscape for the world of Velbrek.', '\nYou: What item did Sphodebarb carry instead of a wizard’s staff, and what was its unique trait?\n', "Bot: The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. Its unique trait was that it allowed Sphodebarb to summon his thoughts from his subconscious during sleep, which often wandered to vivid and imaginative places like a glade with naked clocks dancing around a central confusion."]
 
 ENGLISH ANSWER:
-    The members of the "Order of the Thirteen-Shelled Hypothesis" are 12 tortoises, each storing unique facets of reality within their shells. They serve as dimensional ballast, anchoring reality to prevent existential drift. Additionally, there is a 13th member, known only as Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes.
+    The members of the "Order of the Thirteen-Shelled Hypothesis" are 12 tortoises, each storing unique facets of reality within their shells. They serve as dimensional ballast, anchoring reality to prevent existential drift. Additionally, there is a 13th member, known only as Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes. (85 T)
 TIMINGS:
 CONTEXT = 2.16 s | ANSWER EN = 72.28 s (llama3.2:3b) | TOTAL: 74,56 s
 
@@ -72,7 +72,7 @@ HISTORY:
     ['\nYou: What item did Sphodebarb carry instead of a wizard’s staff, and what was its unique trait?\n', "Bot: The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. Its unique trait was that it allowed Sphodebarb to summon his thoughts from his subconscious during sleep, which often wandered to vivid and imaginative places like a glade with naked clocks dancing around a central confusion.", '\nYou: Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?\n', 'Bot: The members of the "Order of the Thirteen-Shelled Hypothesis" are 12 tortoises, each storing unique facets of reality within their shells. They serve as dimensional ballast, anchoring reality to prevent existential drift. Additionally, there is a 13th member, known only as Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes.']
 
 ENGLISH ANSWER:
-    The Meow gained endless life by being fed with "emporal influence" that was brewed into jars and then fed to the tortoises, including itself, which is not a natural phenomenon but rather an infusion of eternal energy into its being.
+    The Meow gained endless life by being fed with "emporal influence" that was brewed into jars and then fed to the tortoises, including itself, which is not a natural phenomenon but rather an infusion of eternal energy into its being. (49 T)
 TIMINGS:
 CONTEXT = 0.95 s | ANSWER EN = 59.56 s (llama3.2:3b) | TOTAL: 60,65 s
 
@@ -93,7 +93,7 @@ HISTORY:
     ['\nYou: Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?\n', 'Bot: The members of the "Order of the Thirteen-Shelled Hypothesis" are 12 tortoises, each storing unique facets of reality within their shells. They serve as dimensional ballast, anchoring reality to prevent existential drift. Additionally, there is a 13th member, known only as Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes.', '\nYou: How did The Meow gain endless life?\n', 'Bot: The Meow gained endless life by being fed with "emporal influence" that was brewed into jars and then fed to the tortoises, including itself, which is not a natural phenomenon but rather an infusion of eternal energy into its being.']
 
 ENGLISH ANSWER:
-    The substance that represents a version of death without finality is Peach Regret.
+    The substance that represents a version of death without finality is Peach Regret. (16 T)
 TIMINGS:
 CONTEXT = 0.89 s | ANSWER EN = 47.26 s (llama3.2:3b) | TOTAL: 48,31 s
 
@@ -120,7 +120,7 @@ Sphodebarb, who had been aware of the unsustainable nature of his own endless li
 
 The resolution came when Sphodebarb chose not to resist or retaliate, but instead accepted The Meow's ultimatum. By doing so, he allowed The Meow to fulfill its promise and end its eternal life. In doing so, Sphodebarb also preserved the balance of reality, and ensured that time itself would be preserved.
 
-It is worth noting that this resolution was not a traditional victory or defeat, but rather a mutual understanding and acceptance. Both parties had been driven by a desire to preserve their own existence, but in the end, they both realized that their own ends were intertwined with the fabric of reality itself.
+It is worth noting that this resolution was not a traditional victory or defeat, but rather a mutual understanding and acceptance. Both parties had been driven by a desire to preserve their own existence, but in the end, they both realized that their own ends were intertwined with the fabric of reality itself. (272 T)
 TIMINGS:
 CONTEXT = 1.16 s | ANSWER EN = 107.00 s (llama3.2:3b) | TOTAL: 108,45 s
 
@@ -149,7 +149,7 @@ Yalp's statement "You are no longer bound to always. You are not The Meow" impli
 
 Yalp's actions and words have a significant impact on the resolution of the conflict between Sphodebarb and The Meow. By advising Sphodebarb to accept his own fate, Yalp allows both characters to preserve the balance of reality, ensuring that time itself is preserved. This act also marks a turning point in Sphodebarb's transformation, as he returns lighter and more at peace.
 
-In summary, while Yalp's background and significance are not fully explained, his character seems to be connected to concepts like death without finality, paradoxes, and the nature of reality. His actions play a crucial role in resolving the conflict between Sphodebarb and The Meow and lead to a new beginning for Sphodebarb, allowing him to find a sense of normalcy and peace.
+In summary, while Yalp's background and significance are not fully explained, his character seems to be connected to concepts like death without finality, paradoxes, and the nature of reality. His actions play a crucial role in resolving the conflict between Sphodebarb and The Meow and lead to a new beginning for Sphodebarb, allowing him to find a sense of normalcy and peace. (364 T)
 TIMINGS:
 CONTEXT = 1.08 s | ANSWER EN = 103.51 s (llama3.2:3b) | TOTAL: 104,94 s
 
@@ -170,7 +170,7 @@ HISTORY:
     ['\nYou: How was the conflict between Sphodebarb and The Meow resolved?\n', "Bot: The conflict between Sphodebarb and The Meow was resolved when The Meow presented Sphodebarb with a choice: end its own existence, or risk unraveling the fabric of time itself. The Meow's logic was simple yet profound - if it ended its own eternity, it would also undo its connection to the universe, thus preserving the balance of reality.\n\nSphodebarb, who had been aware of the unsustainable nature of his own endless life, finally understood the true nature of The Meow's threat. He realized that he was the last knot in a string of time, and that if The Meow were to undo him, it would also unravel its own existence.\n\nThe resolution came when Sphodebarb chose not to resist or retaliate, but instead accepted The Meow's ultimatum. By doing so, he allowed The Meow to fulfill its promise and end its eternal life. In doing so, Sphodebarb also preserved the balance of reality, and ensured that time itself would be preserved.\n\nIt is worth noting that this resolution was not a traditional victory or defeat, but rather a mutual understanding and acceptance. Both parties had been driven by a desire to preserve their own existence, but in the end, they both realized that their own ends were intertwined with the fabric of reality itself.", '\nYou: Who was Yalp, and why was he important?\n', 'Bot: Yalp is an enigmatic figure who plays a crucial role in the story, particularly in resolving the conflict between Sphodebarb and The Meow. Unfortunately, I couldn\'t find specific information about Yalp\'s identity or significance before this conversation.\n\nHowever, based on our previous conversations, it seems that Yalp might be connected to the concept of death without finality, as mentioned earlier (Peach Regret). He also appears to have some knowledge about Sphodebarb and The Meow\'s conflict, which suggests that he might be an authority figure or a guide in this world.\n\nYalp\'s statement "You are no longer bound to always. You are not The Meow" implies that Yalp is aware of the cycle of time and the nature of reality. He seems to understand the concept of paradoxes, as seen in the Weeping Chair Tree\'s reaction to Eulipion\'s innocence triggering recursive compression.\n\nYalp\'s actions and words have a significant impact on the resolution of the conflict between Sphodebarb and The Meow. By advising Sphodebarb to accept his own fate, Yalp allows both characters to preserve the balance of reality, ensuring that time itself is preserved. This act also marks a turning point in Sphodebarb\'s transformation, as he returns lighter and more at peace.\n\nIn summary, while Yalp\'s background and significance are not fully explained, his character seems to be connected to concepts like death without finality, paradoxes, and the nature of reality. His actions play a crucial role in resolving the conflict between Sphodebarb and The Meow and lead to a new beginning for Sphodebarb, allowing him to find a sense of normalcy and peace.']
 
 ENGLISH ANSWER:
-    Unfortunately, there is no information provided about what Sphodebarb and Nink (the cat) chose after the loop was broken. The conversation seems to focus on resolving the conflict between Sphodebarb and The Meow, Yalp's significance, and the aftermath of the resolution without delving into the choices made by Sphodebarb and Nink afterwards.
+    Unfortunately, there is no information provided about what Sphodebarb and Nink (the cat) chose after the loop was broken. The conversation seems to focus on resolving the conflict between Sphodebarb and The Meow, Yalp's significance, and the aftermath of the resolution without delving into the choices made by Sphodebarb and Nink afterwards. (78 T)
 TIMINGS:
 CONTEXT = 0.91 s | ANSWER EN = 102.42 s (llama3.2:3b) | TOTAL: 103,51 s
 

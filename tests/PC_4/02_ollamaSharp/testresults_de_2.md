@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es eine Inversion der normalen Landschaft darstellt: Der Gipfel des Mountains befindet sich unterirdisch, und der Fußgipfel (der "Basisschulter") ragt in den Himmel.
+ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es eine Inversion der normalen Landschaft darstellt: Der Gipfel des Mountains befindet sich unterirdisch, und der Fußgipfel (der "Basisschulter") ragt in den Himmel. (73 T)
 
 
 TIMINGS: 
@@ -102,7 +102,7 @@ The courtroom had been constructed overnight by a committee of sentient scaffold
 Sphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.
 
 
-ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabs trug. Der Text beschreibt jedoch, dass er auf einem Platform aus "komprimiertem Hesitation" stand und eine "Periode" in seiner Person zeigte, die sich "curling in Protest" entfaltete. Es ist auch nicht klar, welche besondere Eigenschaft das Objekt hat, aber es wird erwähnt, dass Sphodebarb seine "Periode" als Teil seines Bewusstseins und seiner Fähigkeit zu Fragen und Zweifeln nutzt.
+ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabs trug. Der Text beschreibt jedoch, dass er auf einem Platform aus "komprimiertem Hesitation" stand und eine "Periode" in seiner Person zeigte, die sich "curling in Protest" entfaltete. Es ist auch nicht klar, welche besondere Eigenschaft das Objekt hat, aber es wird erwähnt, dass Sphodebarb seine "Periode" als Teil seines Bewusstseins und seiner Fähigkeit zu Fragen und Zweifeln nutzt. (131 T)
 
 
 TIMINGS: 
@@ -186,7 +186,7 @@ Es gibt jedoch einige Charaktere, die in Bezug auf den Ordensname erwähnt werde
 * Yalp: Der 13. Tortenschalen, der das Paradoxfeld enthalten soll.
 * Eulipion: Ein Mitglied des "Court of Recursive Tortoises" und ein Verbündeter Yalps.
 
-Es ist jedoch unklar, ob diese Figuren direkt dem Ordensname angehören oder nur in Bezug darauf agieren. Der Text passt eher zu einem fiktiven Universum mit vielen verschiedenen Elementen und Charakteren, als zu einer spezifischen Organisation wie dem "Ordens der Dreizehnschaligen Hypothese".
+Es ist jedoch unklar, ob diese Figuren direkt dem Ordensname angehören oder nur in Bezug darauf agieren. Der Text passt eher zu einem fiktiven Universum mit vielen verschiedenen Elementen und Charakteren, als zu einer spezifischen Organisation wie dem "Ordens der Dreizehnschaligen Hypothese". (243 T)
 
 
 TIMINGS: 
@@ -235,7 +235,7 @@ ANSWER: Es gibt keine explizite Erklärung für die Rückkehr von The Meow, eine
 
 Es wird auch erörtert, dass The Meow möglicherweise ein Ziel verfolgt: die Unruhe der Grundlagen der Existenz zu bewirken. Die Gruppe von Zehn (und einem Zwölften, das unerlaubt in dem anderen Schalenturm verborgen ist) scheint sich darauf vorzubereiten, diese Ziele zu erreichen.
 
-Es gibt jedoch keine direkte Erklärung dafür, wie The Meow wiederkehrte oder warum es zurückkehrt. Es wird lediglich erwähnt, dass es "sechs Jahrhunderte nach seiner Abwesenheit" zurückgekehrt ist und jetzt in einem Zustand der Ruhe und des Nachdenkens lebt, der als "grooming itself into a question" beschrieben wird.
+Es gibt jedoch keine direkte Erklärung dafür, wie The Meow wiederkehrte oder warum es zurückkehrt. Es wird lediglich erwähnt, dass es "sechs Jahrhunderte nach seiner Abwesenheit" zurückgekehrt ist und jetzt in einem Zustand der Ruhe und des Nachdenkens lebt, der als "grooming itself into a question" beschrieben wird. (244 T)
 
 
 TIMINGS: 
@@ -287,7 +287,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die ein Form des Todes ohne Endgültigkeit darstellte, war **Peach Regret**.
+ANSWER: Die Substanz, die ein Form des Todes ohne Endgültigkeit darstellte, war **Peach Regret**. (28 T)
 
 
 TIMINGS: 
@@ -344,7 +344,7 @@ Das Uhrwerk im Turm, das für die erste Mal seit sechs Jahrhunderten klingelt, s
 
 Die endgültige Antwort bleibt jedoch unklar, da The Meow einfach nur existiert und Sphodebarb fragt, warum es überhaupt da sei. Es scheint, als würde die Lösung des Konflikts von einer tiefen spirituellen oder philosophischen Verbindung zwischen Sphodebarb und The Meow abhängen, die nicht durch Worte oder Recht geklärt werden kann.
 
-Insgesamt bleibt der Konflikt zwischen Sphodebarb und The Meow ein rätselhaftes und philosophisches Problem, das möglicherweise nur durch innere Erkenntnis oder spirituelle Transformation gelöst werden kann.
+Insgesamt bleibt der Konflikt zwischen Sphodebarb und The Meow ein rätselhaftes und philosophisches Problem, das möglicherweise nur durch innere Erkenntnis oder spirituelle Transformation gelöst werden kann. (343 T)
 
 
 TIMINGS: 
@@ -433,7 +433,7 @@ ANSWER: Es ist nicht klar, wer Yalp ist und warum er wichtig ist. In dem Text wi
 
 Yalps Bedeutung liegt wahrscheinlich darin, dass er den Prozess des "Findestellen" (wie im letzten Absatz beschrieben) initiiert hat, bei dem der Meow und der Zauberer austauschen. Dies ermöglicht es Sphodebarb, endgültig zu leben, anstatt nur fortzusetzen, was er in seiner vorherigen Existenz getan hatte.
 
-Es ist auch nicht klar, warum Yalp besonders wichtig ist, aber es kann an seiner Weisheit und Fähigkeit liegen, komplexe Probleme zu lösen, oder an seiner Rolle als Vermittler zwischen verschiedenen Weltmächten.
+Es ist auch nicht klar, warum Yalp besonders wichtig ist, aber es kann an seiner Weisheit und Fähigkeit liegen, komplexe Probleme zu lösen, oder an seiner Rolle als Vermittler zwischen verschiedenen Weltmächten. (224 T)
 
 
 TIMINGS: 
@@ -501,7 +501,7 @@ He simply floated through unreality, where facts came unassembled and causality 
 Somewhere far above—or perhaps below—he could see the outline of a cat licking its paw.
 
 
-ANSWER: Es gibt keine klare Aussage darüber, warum Sphodebarb und die Katze (Nink) sich entschieden haben. Die Geschichte endet mit dem Hinweis, dass "Trial begins at dawn", was darauf hindeutet, dass der Prozess morgen beginnen soll, aber es gibt keine explizite Erklärung dafür, warum Sphodebarb und die Katze ihre Entscheidungen getroffen haben.
+ANSWER: Es gibt keine klare Aussage darüber, warum Sphodebarb und die Katze (Nink) sich entschieden haben. Die Geschichte endet mit dem Hinweis, dass "Trial begins at dawn", was darauf hindeutet, dass der Prozess morgen beginnen soll, aber es gibt keine explizite Erklärung dafür, warum Sphodebarb und die Katze ihre Entscheidungen getroffen haben. (96 T)
 
 
 TIMINGS: 

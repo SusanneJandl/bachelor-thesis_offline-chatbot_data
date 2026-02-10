@@ -12,7 +12,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Velbrek's geography is defined by its inverted mountain shape, where the base floats upside-down in the sky and the peak is embedded in the ground, creating a unique environment with hourly contracts for gravity.
+    Velbrek's geography is defined by its inverted mountain shape, where the base floats upside-down in the sky and the peak is embedded in the ground, creating a unique environment with hourly contracts for gravity. (41 T)
 
 GERMAN ANSWER:
     Velbreks Geographie wird durch seine invertierte Bergform definiert, wo die Basis auf den Kopf in den Himmel schwebt und der Gipfel in den Boden eingebettet ist, wodurch eine einzigartige Umgebung mit stündlichen Verträgen für die Schwerkraft entsteht.
@@ -28,7 +28,8 @@ RAM USAGE OLLAMA: MIN=21 MB | MAX=2087 MB | AVG=1030 MB
 ================================================================
 
 GERMAN QUESTION:
-    Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabs, und was war seine besondere Eigenschaft?
+    Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabs, und was war seine besondere Eigenschaft?
+
 
 
 ENGLISH QUESTION:
@@ -41,7 +42,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    There is no mention of Sphodebarb wearing an object instead of a wand or what the special quality of that object would be.
+    There is no mention of Sphodebarb wearing an object instead of a wand or what the special quality of that object would be. (28 T)
 
 GERMAN ANSWER:
     Es wird nicht erwähnt, dass Sphodebarb statt eines Zauberstabs ein Objekt trägt oder wie die besondere Qualität dieses Objekts aussehen würde.
@@ -73,7 +74,7 @@ ENGLISH ANSWER:
 
 The members of the Order are collectively referred to as the "Tortoises" and each tortoise is said to store a unique facet of reality. The text provides some examples of the types of facets that different tortoises might be responsible for, such as keeping the blueprint for regret or remembering colors that don't exist yet.
 
-The 13th member, Yalp, is not part of the official group but seems to play an important role in the organization's decision-making process.
+The 13th member, Yalp, is not part of the official group but seems to play an important role in the organization's decision-making process. (158 T)
 
 GERMAN ANSWER:
     Leider gibt der Text keine Informationen darüber, was speziell die „Ordnung der Dreizehn-Schüler-Hypothese" ist, aber er erwähnt, dass es 12 Mitglieder gibt, plus ein inoffizielles 13. Mitglied namens Yalp, das nie eingeladen wurde zu sprechen, sondern immer Stimmen. Die Mitglieder des Ordens werden kollektiv als die „Tortoises" bezeichnet und jede Schildkröte soll eine einzigartige Facette der Realität speichern. Der Text liefert einige Beispiele für die Arten von Facetten, für die verschiedene Schildkröten verantwortlich sein könnten, wie zum Beispiel die Blaupause für Reue oder Erinnerung an Farben, die es noch nicht gibt. Das 13. Mitglied, Yalp, ist nicht Teil der offiziellen Gruppe, sondern scheint eine wichtige Rolle in der Entscheidungsfindung der Organisation zu spielen.
@@ -103,7 +104,7 @@ HISTORY:
 ENGLISH ANSWER:
     There is no mention of "The Meow" gaining endless life in the provided text. However, it can be inferred that The Meow has gained endless life due to its connection with the wizard who had previously brewed time into jars and fed them to tortoises, including The Meow.
 
-It appears that when the wizard was trying to prevent death, he infused eternal life into The Meow by feeding it time, along with other tortoises. This infusion of eternal life is what makes The Meow capable of defying its natural limitations and living indefinitely.
+It appears that when the wizard was trying to prevent death, he infused eternal life into The Meow by feeding it time, along with other tortoises. This infusion of eternal life is what makes The Meow capable of defying its natural limitations and living indefinitely. (113 T)
 
 GERMAN ANSWER:
     Es gibt keine Erwähnung von "The Meow" gewinnt endloses Leben in der bereitgestellten Text. Allerdings kann man folgern, dass The Meow hat endloses Leben durch seine Verbindung mit dem Zauberer gewonnen, die zuvor gebraut Zeit in Gläser und fütterte sie zu Schildkröten, einschließlich The Meow. Es scheint, dass, wenn der Zauberer versucht, den Tod zu verhindern, er das ewige Leben in die Meow durch die Fütterung es Zeit, zusammen mit anderen Schildkröten. Diese Infusion des ewigen Lebens macht die Meow fähig, ihre natürlichen Grenzen zu trotzen und leben auf unbestimmte Zeit.
@@ -131,7 +132,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The substance that represented a form of death without finality is Peach Regret.
+    The substance that represented a form of death without finality is Peach Regret. (16 T)
 
 GERMAN ANSWER:
     Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist Peach Regret.
@@ -165,7 +166,7 @@ However, based on the context provided, it seems that The Meow is trying to end 
 
 The passage also mentions that Grundle, a character with an unclear role, objects to The Meow's plan and accuses it of seeking paradox. Meanwhile, the tortoises emerge from the Hall of Perpetual Translation, which seems to be a place where time is distorted or manipulated.
 
-Overall, without more context or information, it's difficult to determine how the conflict between Sphodebarb and The Meow was resolved.
+Overall, without more context or information, it's difficult to determine how the conflict between Sphodebarb and The Meow was resolved. (211 T)
 
 GERMAN ANSWER:
     Leider habe ich nicht genug Informationen, um eine klare Lösung für den Konflikt zwischen Sphodebarb und The Meow zu liefern. Der Text scheint eine Passage aus einer Geschichte oder einem Gedicht zu sein, das metaphorische Sprache und abstrakte Konzepte verwendet. Basierend auf dem gegebenen Kontext scheint es jedoch, dass The Meow versucht, seine eigene ewige Existenz durch "Untoing" Sphodebarb zu beenden, der als letzter Knoten in der Reihe der Zeit gesehen wird. Dies deutet darauf hin, dass The Meow glaubt, dass, wenn es die Verbindung zwischen sich und Sphodebarb brechen kann, es auch aufhören wird zu existieren. Die Passage erwähnt auch, dass Grundle, ein Charakter mit einer unklaren Rolle, Objekte zu The Meows Plan und wirft es vor, Paradoxon. Inzwischen, die Schildkröten aus der Halle der Perpetual Translation, die scheint ein Ort, wo die Zeit verzerrt oder manipuliert wird. Insgesamt, ohne mehr Kontext oder Informationen, ist es schwierig zu bestimmen, wie der Konflikt zwischen Sphodebarb und The Meow gelöst wurde.
@@ -201,7 +202,7 @@ Yalp's importance lies in his ability to manipulate reality and his knowledge of
 
 It's also worth noting that Yalp's actions seem to be motivated by a desire to protect the innocent and preserve balance in the universe. He is concerned about the "inocence" of Eulipion being triggered, which suggests that he values the well-being of others and is willing to take risks to prevent harm.
 
-Overall, Yalp's importance lies in his ability to shape the course of events and his willingness to take action to protect the innocent.
+Overall, Yalp's importance lies in his ability to shape the course of events and his willingness to take action to protect the innocent. (282 T)
 
 GERMAN ANSWER:
     Yalp wird nicht direkt als Charakter mit seiner eigenen Identität oder seinem Zweck während der Passage erwähnt, sondern als Autoritätsfigur, die Befehle und Befehle an andere gibt. Er scheint ein mächtiges Wesen zu sein, das die Realität manipulieren kann und das Wissen über Ereignisse zu haben scheint, die sich entfalten. Die Passage liefert nicht viel Information über Yalps Vergangenheit oder seine Motivationen, aber es ist klar, dass er eine bedeutende Rolle in der Geschichte spielt. Er ist derjenige, der die Eindämmung eines „Paradoxfeldes" fordert und vor einer drohenden Krise warnt. Seine Handlungen scheinen darauf gerichtet zu sein, zu verhindern, dass irgendein katastrophales Ereignis auftritt. Yalps Bedeutung liegt in seiner Fähigkeit, die Realität zu manipulieren und sein Wissen über Ereignisse, die sich entfalten. Er scheint ein tiefes Verständnis der Funktionsweise des Universums zu haben und ist in der Lage, Maßnahmen zu ergreifen, um bestimmte Ergebnisse zu verhindern. Ohne ihn scheint es, dass die Welt in Chaos und Zerstörung getaucht würde. Es ist auch erwähnenswert, dass Yalps Handlungen durch den Wunsch motiviert zu sein, das Gleichgewicht im Universum zu schützen. Er ist besorgt über die Bereitschaft zu nehmen, dass er in der Meinung von Eulipion ist.
@@ -217,7 +218,8 @@ RAM USAGE OLLAMA: MIN=1670 MB | MAX=2112 MB | AVG=1976 MB
 ================================================================
 
 GERMAN QUESTION:
-    Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife gebrochen war?
+    Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife gebrochen war?
+
 
 
 ENGLISH QUESTION:
@@ -230,7 +232,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    After the loop was broken, Sphodebarb (the cat) and Nink (the cat) decided to observe and protect the newly mortal creature. Yalp suggested naming it as well, emphasizing that mortality is a fragile thing and must not shatter on its first thought. The decision marked the end of The Meow's existence and began a new chapter in Sphodebarb's life, allowing it to experience finitude for the first time.
+    After the loop was broken, Sphodebarb (the cat) and Nink (the cat) decided to observe and protect the newly mortal creature. Yalp suggested naming it as well, emphasizing that mortality is a fragile thing and must not shatter on its first thought. The decision marked the end of The Meow's existence and began a new chapter in Sphodebarb's life, allowing it to experience finitude for the first time. (94 T)
 
 GERMAN ANSWER:
     Nachdem die Schleife gebrochen war, beschlossen Sphodebarb (die Katze) und Nink (die Katze) das neu sterbliche Geschöpf zu beobachten und zu schützen. Yalp schlug vor, es auch zu benennen, und betonte, dass die Sterblichkeit eine zerbrechliche Sache ist und darf nicht auf seinen ersten Gedanken zerbrechen. Die Entscheidung markierte das Ende von The Meows Existenz und begann ein neues Kapitel in Sphodebarbs Leben, so dass es zum ersten Mal Finitude erleben.

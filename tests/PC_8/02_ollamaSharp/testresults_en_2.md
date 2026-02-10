@@ -63,7 +63,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 
-ANSWER: The unusual feature that defines the geography of Velbrek is that it is an "upside-down" mountain, where its base floats in the sky and its peak is embedded in the ground. Gravity also behaves strangely here, often taking holidays and negotiating hourly contracts.
+ANSWER: The unusual feature that defines the geography of Velbrek is that it is an "upside-down" mountain, where its base floats in the sky and its peak is embedded in the ground. Gravity also behaves strangely here, often taking holidays and negotiating hourly contracts. (53 T)
 
 
 TIMINGS: 
@@ -109,7 +109,7 @@ Sphodebarb dropped the spoon. It bounced once and turned into a limerick about s
 Eulipion slowly rotated upside down and extended one translucent claw. “And yet. It lounges in the courtyard now. Beneath the Weeping Chair Tree. It’s... grooming itself into a question.”
 
 
-ANSWER: The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon, and its unique trait was not to spread jam, but to summon his thoughts from where they wandered during sleep.
+ANSWER: The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon, and its unique trait was not to spread jam, but to summon his thoughts from where they wandered during sleep. (43 T)
 
 
 TIMINGS: 
@@ -158,7 +158,7 @@ From a distance, **Yalp**, the thirteenth tortoise, watched with the stern fondn
 Yalp blinked slowly. “It has no memory of before. The paradox was traded. Sphodebarb is nowhere and nothing. The Meow is mortal. A clean inversion.”
 
 
-ANSWER: The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of tortoises, each storing unique facets of reality within their cosmic archives (shells). There are twelve elder tortoises, one for each aspect mentioned in the passage (e.g., keeps the blueprint for regret), and a thirteenth tortoise known as Yalp, who is disguised as a fern but has significant influence through its voting abilities.
+ANSWER: The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of tortoises, each storing unique facets of reality within their cosmic archives (shells). There are twelve elder tortoises, one for each aspect mentioned in the passage (e.g., keeps the blueprint for regret), and a thirteenth tortoise known as Yalp, who is disguised as a fern but has significant influence through its voting abilities. (92 T)
 
 
 TIMINGS: 
@@ -214,7 +214,7 @@ Suddenly, from the corner, the fern spoke.
 All turned to stare. The thirteenth tortoise, Yalp, unfurled itself. It was ancient beyond taxonomy, eyes the color of candle ash.
 
 
-ANSWER: There is no information provided about how "The Meow" gained endless life. According to the text, The Meow became immortal when it accidentally drank timeline ink left out by Sphodebarb.
+ANSWER: There is no information provided about how "The Meow" gained endless life. According to the text, The Meow became immortal when it accidentally drank timeline ink left out by Sphodebarb. (41 T)
 
 
 TIMINGS: 
@@ -277,7 +277,7 @@ From a distance, **Yalp**, the thirteenth tortoise, watched with the stern fondn
 Yalp blinked slowly. “It has no memory of before. The paradox was traded. Sphodebarb is nowhere and nothing. The Meow is mortal. A clean inversion.”
 
 
-ANSWER: The substance represented a version of death without finality is Peach Regret, which simulates death but does not result in a permanent state of non-existence.
+ANSWER: The substance represented a version of death without finality is Peach Regret, which simulates death but does not result in a permanent state of non-existence. (32 T)
 
 
 TIMINGS: 
@@ -332,7 +332,7 @@ The Meow yawned. Reality around its mouth bent gently, like a tired idea being r
 “Why are you here?” Sphodebarb asked.
 
 
-ANSWER: Unfortunately, I don't have enough information to answer how the conflict between Sphodebarb and The Meow was resolved. The text appears to be a passage from a story or novel, but it ends abruptly without providing any resolution to their conflict. It seems that the story is still unfolding, and more context would be needed to understand what happens next.
+ANSWER: Unfortunately, I don't have enough information to answer how the conflict between Sphodebarb and The Meow was resolved. The text appears to be a passage from a story or novel, but it ends abruptly without providing any resolution to their conflict. It seems that the story is still unfolding, and more context would be needed to understand what happens next. (72 T)
 
 
 TIMINGS: 
@@ -403,7 +403,7 @@ Yalp's importance lies in his ability to break the cycle of infinite regression 
 
 Yalp's actions also seem to be connected to the emergence of other paradoxical phenomena, such as the Weeping Chair Tree laughing and the kettle boiling backward. However, Yalp's primary role appears to be guiding Sphodebarb through this transition, encouraging him to "Observe. Protect. Perhaps name it" rather than simply commanding or dictating what should happen next.
 
-Overall, Yalp seems to embody a sort of arbiter or catalyst for the introduction of complexity and finitude into the world, setting the stage for further exploration of themes such as mortality, identity, and the nature of reality in the chapters that follow.
+Overall, Yalp seems to embody a sort of arbiter or catalyst for the introduction of complexity and finitude into the world, setting the stage for further exploration of themes such as mortality, identity, and the nature of reality in the chapters that follow. (263 T)
 
 
 TIMINGS: 
@@ -470,7 +470,7 @@ Here is the **final chapter** — bringing our strange tale to a satisfying, wei
 Nink—the once-Mighty Meow, now only a soft and bewildered cat—stood at the center of Velbrek’s courtyard. The sky above was fraying, its velvet folds unraveling into strips of forgotten moments. Each fragment shimmered like a memory trying to be born.
 
 
-ANSWER: After the loop was broken, Nink (the cat) chose to meow again, and reality rippled in response, saying something back.
+ANSWER: After the loop was broken, Nink (the cat) chose to meow again, and reality rippled in response, saying something back. (29 T)
 
 
 TIMINGS: 

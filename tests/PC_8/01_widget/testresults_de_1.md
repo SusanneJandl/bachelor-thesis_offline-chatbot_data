@@ -35,7 +35,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist.
+Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. (57 T)
 
  | Run #1 Duration: 53,86 s
 
@@ -90,7 +90,7 @@ Somewhere in the distance, reality coughed politely.
 ### **Chapter Two: Bureaucracy of the Shell**
 
 ANSWER:
-Es gibt keinen Hinweis darauf, welchen Gegenstand Sphodebarb anstelle eines Zauberstabes trug. Der Text beschreibt jedoch einen "Beard", das sich in Protest curlt, und eine "Plattform aus komprimierter Hesitation", auf der Sphodebarb steht. Es ist jedoch unwahrscheinlich, dass diese beiden Dinge als Ersatz für einen Zauberstab interpretiert werden können.
+Es gibt keinen Hinweis darauf, welchen Gegenstand Sphodebarb anstelle eines Zauberstabes trug. Der Text beschreibt jedoch einen "Beard", das sich in Protest curlt, und eine "Plattform aus komprimierter Hesitation", auf der Sphodebarb steht. Es ist jedoch unwahrscheinlich, dass diese beiden Dinge als Ersatz für einen Zauberstab interpretiert werden können. (97 T)
 
 Es ist auch nicht klar, welche besondere Eigenschaft Sphodebarb' "Beard" hat.
 
@@ -150,7 +150,7 @@ He simply floated through unreality, where facts came unassembled and causality 
 Somewhere far above—or perhaps below—he could see the outline of a cat licking its paw.
 
 ANSWER:
-Es gibt keine explizite Liste der Mitglieder des "Ordens der Dreizehnschaligen Hypothese" im bereitgestellten Text. Die Erwähnung von Figuren wie den "Absent Architects", dem "Department of Explanations", den "Lint Between Universes" und anderen Charakteren scheint eher Teil einer fiktiven Welt oder eines mythologischen Rahmens zu sein, als eine Liste von Mitgliedern eines spezifischen Ordens zu bilden.
+Es gibt keine explizite Liste der Mitglieder des "Ordens der Dreizehnschaligen Hypothese" im bereitgestellten Text. Die Erwähnung von Figuren wie den "Absent Architects", dem "Department of Explanations", den "Lint Between Universes" und anderen Charakteren scheint eher Teil einer fiktiven Welt oder eines mythologischen Rahmens zu sein, als eine Liste von Mitgliedern eines spezifischen Ordens zu bilden. (104 T)
 
  | Run #3 Duration: 54,91 s
 
@@ -194,7 +194,7 @@ Es gibt jedoch einige Hinweise darauf, wie The Meow möglicherweise endloses Leb
 * Eulipion sagt: "Es lounges in the courtyard now. Beneath the Weeping Chair Tree.", was darauf hindeutet, dass The Meow eine Art von Energie oder Macht besitzt, die es ermöglicht, die Realität zu verändern.
 * Die Gedankenblase, die Sphodebarb erhält, lautet: "I am here to end forever." Dies könnte ein Hinweis darauf sein, dass The Meow eine Art von Zerstörungskraft besitzt, die es ermöglicht, das Endliche zu erreichen.
 
-Es ist jedoch wichtig zu beachten, dass diese Interpretationen spekulativ sind und möglicherweise nicht die Absicht des Autors widerspiegeln. Die Geschichte ist noch nicht abgeschlossen, und viele Fragen bleiben offen.
+Es ist jedoch wichtig zu beachten, dass diese Interpretationen spekulativ sind und möglicherweise nicht die Absicht des Autors widerspiegeln. Die Geschichte ist noch nicht abgeschlossen, und viele Fragen bleiben offen. (337 T)
 
  | Run #4 Duration: 82,77 s
 
@@ -237,7 +237,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-The substance that stellte eine Form des Todes ohne Endgültigkeit dar ist Peach Regret.
+The substance that stellte eine Form des Todes ohne Endgültigkeit dar ist Peach Regret. (22 T)
 
  | Run #5 Duration: 38,11 s
 
@@ -283,7 +283,7 @@ Leider gibt es keine Informationen über die Lösung des Konflikts zwischen Spho
 
 Es scheint jedoch, dass die Lösung des Konflikts durch eine Art von Selbstentdeckung oder Erkenntnis erfolgt. Sphodebarb beginnt zu verstehen, dass The Meow tatsächlich eine metaphorische Bedeutung hat und dass es nicht in der Lage ist, den Konflikt zu lösen. Stattdessen wird die Lösung durch die Anerkennung von Ironie und der Erkenntnis, dass The Meow ein Symbol für das Unbekannte und die Unsicherheit darstellt.
 
-Es ist jedoch unklar, ob diese Lösung tatsächlich eine "Lösung" im klassischen Sinne ist oder ob sie eher eine Art von Akzeptanz oder Einigung zwischen Sphodebarb und The Meow darstellt.
+Es ist jedoch unklar, ob diese Lösung tatsächlich eine "Lösung" im klassischen Sinne ist oder ob sie eher eine Art von Akzeptanz oder Einigung zwischen Sphodebarb und The Meow darstellt. (260 T)
 
  | Run #6 Duration: 63,75 s
 
@@ -345,7 +345,7 @@ Elsewhere, in a corner of the Hall of Crooked Clocks that did not exist last wee
 ANSWER:
 English
 
-Yalp was an important figure because he approached Nink, a cat who was once bound to always be "The Meow", but now was freed from this prophecy and could experience mortality for the first time. Yalp's actions and words had a significant impact on Nink, causing it to question its existence and leading to a change in its perspective.
+Yalp was an important figure because he approached Nink, a cat who was once bound to always be "The Meow", but now was freed from this prophecy and could experience mortality for the first time. Yalp's actions and words had a significant impact on Nink, causing it to question its existence and leading to a change in its perspective. (75 T)
 
  | Run #7 Duration: 39,85 s
 
@@ -394,7 +394,7 @@ Es ist nicht klar, was genau Sphodebarb und Nink entschieden haben, nachdem die 
 
 Es ist auch nicht klar, was "Existential Trespass and Unauthorized Reweaving of Infinity" bedeutet, aber es scheint sich um eine Art von Anklage gegen Nink zu handeln, die behauptet, dass sie das Universum in einen Zustand der Endlichkeit zurückversetzt hat.
 
-Insgesamt ist es jedoch nicht möglich, eine genaue Antwort auf die Frage zu geben, ohne weitere Informationen oder Kontext.
+Insgesamt ist es jedoch nicht möglich, eine genaue Antwort auf die Frage zu geben, ohne weitere Informationen oder Kontext. (232 T)
 
  | Run #8 Duration: 57,81 s
 

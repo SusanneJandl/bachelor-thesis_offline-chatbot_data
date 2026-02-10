@@ -35,7 +35,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in der Erde steckt.
+Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in der Erde steckt. (69 T)
 
  | Run #1 Duration: 56,05 s
 
@@ -96,7 +96,7 @@ In this story, Sphodebarb is a character who seems to exist outside of tradition
 
 It's possible that Sphodebarb might use an object as a prop or tool during the trial, but this is not explicitly stated in the provided text. The focus seems to be on the trial itself and the characters involved, rather than on any specific objects or props.
 
-If you have any further questions or would like more information about the story, please let me know!
+If you have any further questions or would like more information about the story, please let me know! (186 T)
 
  | Run #2 Duration: 50,70 s
 
@@ -122,7 +122,7 @@ Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht explizit 
 * Das **Department of Explanations**: Eine Gruppe, die sich nirgendwo und überall befindet und von Papierkrähen angeführt wird, die untereinander streiten.
 * Die **Lint Between Universes**: Ein Ort, an dem verlorene Socken, gebrochene Gedanken und halb vergessene Gefühle in Ruhe leben.
 
-Es ist jedoch nicht klar, ob diese Gruppen direkt mit dem Orden der Dreizehnschaligen Hypothese verbunden sind. Der Text konzentriert sich eher auf die Erfahrungen und Beobachtungen von Charakteren wie Yalp, Eulipion und Grundle, die auf eine mysteriöse Veränderung im Universum hinweisen.
+Es ist jedoch nicht klar, ob diese Gruppen direkt mit dem Orden der Dreizehnschaligen Hypothese verbunden sind. Der Text konzentriert sich eher auf die Erfahrungen und Beobachtungen von Charakteren wie Yalp, Eulipion und Grundle, die auf eine mysteriöse Veränderung im Universum hinweisen. (248 T)
 
  | Run #3 Duration: 58,14 s
 
@@ -162,7 +162,7 @@ Allerdings kann man daraus schließen, dass The Meow nach einer Zeit des Abwesen
 
 Es ist jedoch unklar, wie und warum The Meow endloses Leben erlangen konnte. Es gibt keine Hinweise darauf, dass es durch eine bestimmte Handlung oder Ereignis wiederbelebt wurde.
 
-Eine mögliche Interpretation könnte sein, dass The Meow ein Wesen ist, das über die Grenzen der Zeit und des Lebens hinausgeht und in einer Art von "unsterblicher" Zustand existiert. Es ist jedoch wichtig zu beachten, dass dies nur eine Vermutung ist und keine definitive Antwort auf die Frage liefert.
+Eine mögliche Interpretation könnte sein, dass The Meow ein Wesen ist, das über die Grenzen der Zeit und des Lebens hinausgeht und in einer Art von "unsterblicher" Zustand existiert. Es ist jedoch wichtig zu beachten, dass dies nur eine Vermutung ist und keine definitive Antwort auf die Frage liefert. (253 T)
 
  | Run #4 Duration: 54,63 s
 
@@ -205,7 +205,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret".
+Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret". (27 T)
 
  | Run #5 Duration: 29,48 s
 
@@ -251,7 +251,7 @@ Leider gibt es keine Informationen über die Lösung des Konflikts zwischen Spho
 
 Es scheint jedoch, dass die Lösung des Konflikts durch eine Art von Selbstentdeckung oder Erkenntnis erfolgt. Als Sphodebarb die Bedeutung von The Meow versteht und erkennt, dass es tatsächlich ein Symbol für seine eigene Existenz ist, beginnt er, seine Perspektive zu ändern.
 
-Die endgültige Lösung des Konflikts wird nicht explizit angegeben, aber es kann angenommen werden, dass Sphodebarb und The Meow eine Art von Verständnis oder Akzeptanz erreichen, in der sie beide ihre eigenen Bedürfnisse und Grenzen erkennen.
+Die endgültige Lösung des Konflikts wird nicht explizit angegeben, aber es kann angenommen werden, dass Sphodebarb und The Meow eine Art von Verständnis oder Akzeptanz erreichen, in der sie beide ihre eigenen Bedürfnisse und Grenzen erkennen. (277 T)
 
  | Run #6 Duration: 55,74 s
 
@@ -319,7 +319,7 @@ Yalps Bedeutung liegt darin, dass er ein Mittelmann zwischen verschiedenen Welte
 
 Yalps Handlungen haben weitreichende Konsequenzen für die Welt, in der er sich befindet. Er vermittelt eine Art von "Finitudo", einem Zustand der endgültigen Grenze oder Begrenzung, was bedeutet, dass die Katze und möglicherweise andere Wesen ihre Fähigkeit zur Erinnerung an ihre Vergangenheit verlieren.
 
-Insgesamt ist Yalps Bedeutung in diesem Text nicht klar definiert, aber es scheint, dass er eine Art von "Überbrücker" oder "Menschenerkennung" zwischen verschiedenen Realitäten und Dimensionen ist.
+Insgesamt ist Yalps Bedeutung in diesem Text nicht klar definiert, aber es scheint, dass er eine Art von "Überbrücker" oder "Menschenerkennung" zwischen verschiedenen Realitäten und Dimensionen ist. (320 T)
 
  | Run #7 Duration: 68,93 s
 
@@ -368,7 +368,7 @@ Der Text beschreibt den Beginn eines Trials, bei dem Sphodebarb und die Katze (N
 
 Es ist jedoch möglich, dass die Frage auf den Abschnitt "In the Not-World" hinweist, in dem Sphodebarb und die Katze (Nink) in einer anderen Welt beobachtet werden. In diesem Abschnitt wird erwähnt, dass Nink eine Paw lecken und ein Teacup in der Küche zerbrechen und sich dann wieder anordnen lässt. Es ist jedoch nicht klar, ob dies eine Entscheidung oder ein bestimmtes Ereignis darstellt.
 
-Insgesamt gibt es keine klare Antwort auf die Frage, was Sphodebarb und Nink entschieden haben, nachdem die Schleife gebrochen war.
+Insgesamt gibt es keine klare Antwort auf die Frage, was Sphodebarb und Nink entschieden haben, nachdem die Schleife gebrochen war. (293 T)
 
  | Run #8 Duration: 61,63 s
 

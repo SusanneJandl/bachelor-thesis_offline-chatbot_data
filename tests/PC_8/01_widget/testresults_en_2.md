@@ -53,7 +53,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that it is a mountain, but its base floats in the sky, with its peak embedded in the ground, creating an inverted landscape where gravity does not behave as expected.
+The unusual feature that defines the geography of Velbrek is that it is a mountain, but its base floats in the sky, with its peak embedded in the ground, creating an inverted landscape where gravity does not behave as expected. (46 T)
 
  | Run #1 Duration: 52,14 s
 
@@ -90,7 +90,7 @@ The courtroom had been constructed overnight by a committee of sentient scaffold
 Sphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.
 
 ANSWER:
-The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it was used to summon his thoughts from where they wandered during sleep, rather than spreading jam.
+The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it was used to summon his thoughts from where they wandered during sleep, rather than spreading jam. (45 T)
 
  | Run #2 Duration: 35,34 s
 
@@ -137,7 +137,7 @@ Specifically mentioned are:
 
 1. The 12 elder tortoises, who occupy thrones in a courtroom constructed by sentient scaffolding.
 2. Yalp, the 13th tortoise, disguised as a fern in the corner of the courtroom, which has never been invited to speak but always votes.
-3. Eulipion, standing beside Yalp with a broken time jar labeled "Sphodebarb's What-Ifs".
+3. Eulipion, standing beside Yalp with a broken time jar labeled "Sphodebarb's What-Ifs". (143 T)
 
  | Run #3 Duration: 44,17 s
 
@@ -180,7 +180,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-Unfortunately, there is no information provided about how The Meow gained endless life. According to the text, it was accidentally made immortal when it drank timeline ink left out by Sphodebarb.
+Unfortunately, there is no information provided about how The Meow gained endless life. According to the text, it was accidentally made immortal when it drank timeline ink left out by Sphodebarb. (40 T)
 
  | Run #4 Duration: 30,48 s
 
@@ -230,7 +230,7 @@ Elsewhere, in a corner of the Hall of Crooked Clocks that did not exist last wee
 ### **6. Life and Death: Flexible Arrangements**
 
 ANSWER:
-Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality.
+Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality. (29 T)
 
  | Run #5 Duration: 30,18 s
 
@@ -274,7 +274,7 @@ The Meow’s eyes narrowed. A final thought came, burning into Sphodebarb’s br
 ANSWER:
 Unfortunately, there is no information provided about how the conflict between Sphodebarb and The Meow was resolved in the given text. The story appears to be a narrative of their trial, with various characters and events unfolding, but it does not provide a clear resolution or outcome.
 
-The text ends with The Meow's final thought, which seems to imply that both Sphodebarb and The Meow are trapped in a loop and cannot persist without ending each other. However, this is left as a philosophical conundrum rather than a resolved conflict.
+The text ends with The Meow's final thought, which seems to imply that both Sphodebarb and The Meow are trapped in a loop and cannot persist without ending each other. However, this is left as a philosophical conundrum rather than a resolved conflict. (113 T)
 
  | Run #6 Duration: 41,77 s
 
@@ -344,7 +344,7 @@ Yalp's actions in Chapter One seem to be part of a larger effort to restore bala
 
 In Chapter Two, Yalp watches as a kettle begins to boil backward and an alarm made of implications rings. He seems to be observing the consequences of his actions and preparing for what comes next. The fact that he remains calm and collected while others around him are reacting with confusion or alarm suggests that he is a confident and capable leader.
 
-Overall, Yalp appears to be a powerful and wise character who is working to restore balance and order to a world that seems to be unraveling. His actions and words suggest that he has a deep understanding of the nature of reality and is determined to use his powers for good.
+Overall, Yalp appears to be a powerful and wise character who is working to restore balance and order to a world that seems to be unraveling. His actions and words suggest that he has a deep understanding of the nature of reality and is determined to use his powers for good. (328 T)
 
  | Run #7 Duration: 57,42 s
 
@@ -396,7 +396,7 @@ Only Yalp remained, watching the small cat who blinked at the sky like it had ne
 ANSWER:
 Die Frage lautet: "Was Sphodebarb und Nink (die Katze) nach dem Loopenbruch auswählten?"
 
-Die Antwort ist: Sie haben sich entschieden, den Loop zu beenden. Die Katze, die ursprünglich als "The Meow" bekannt war, hat ihre Identität zurückgewonnen und sich in eine normale Katze verwandelt, die "nur... ein Katzen" ist.
+Die Antwort ist: Sie haben sich entschieden, den Loop zu beenden. Die Katze, die ursprünglich als "The Meow" bekannt war, hat ihre Identität zurückgewonnen und sich in eine normale Katze verwandelt, die "nur... ein Katzen" ist. (97 T)
 
  | Run #8 Duration: 41,20 s
 

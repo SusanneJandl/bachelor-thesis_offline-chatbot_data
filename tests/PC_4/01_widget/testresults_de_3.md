@@ -36,7 +36,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. Die Bergspitze ist tatsächlich in den Boden eingelassen, was eine völlig umgekehrte Geografie gegenüber dem typischen Bild eines Mountains mit einem Gipfel nach oben und einer Basis nach unten.
+Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. Die Bergspitze ist tatsächlich in den Boden eingelassen, was eine völlig umgekehrte Geografie gegenüber dem typischen Bild eines Mountains mit einem Gipfel nach oben und einer Basis nach unten. (109 T)
 
  | Run #1 Duration: 96,66 s
 
@@ -91,7 +91,7 @@ Somewhere in the distance, reality coughed politely.
 ### **Chapter Two: Bureaucracy of the Shell**
 
 ANSWER:
-Unfortunately, there is no information about Sphodebarb carrying an object instead of a wand or staff. The text only mentions that he was humming and floating through unreality, but it does not specify what he was holding.
+Unfortunately, there is no information about Sphodebarb carrying an object instead of a wand or staff. The text only mentions that he was humming and floating through unreality, but it does not specify what he was holding. (46 T)
 
  | Run #2 Duration: 128,50 s
 
@@ -155,7 +155,7 @@ Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht explizit 
 * Die **Department of Explanations**: Eine Gruppe, die nirgendwo und überall ist und von Papierkrähen angeführt wird, die untereinander streiten.
 * Die **Lint Between Universes**: Ein Ort, an dem verlorene Socken, gebrochene Gedanken und halb vergessene Gefühle zu Ruhe kommen.
 
-Es gibt jedoch keine explizite Erwähnung von Mitgliedern des Ordens oder einer Zeremonie, die den Orden umfasst.
+Es gibt jedoch keine explizite Erwähnung von Mitgliedern des Ordens oder einer Zeremonie, die den Orden umfasst. (197 T)
 
  | Run #3 Duration: 109,96 s
 
@@ -197,7 +197,7 @@ Es wird erwähnt, dass The Meow "sechs Jahrhunderte" nicht mehr existiert hatte,
 
 Es kann jedoch angenommen werden, dass The Meow durch eine bestimmte oder unbestimmte Kraft wiederbelebt wurde, möglicherweise durch Eulipion oder durch eine andere Quelle. Es ist jedoch unklar, was genau passiert ist und wie The Meow wiederbelebt wurde.
 
-Insgesamt kann gesagt werden, dass die Wiedergeburt von The Meow ein mysteriöser Prozess war, der nicht vollständig verstanden wird.
+Insgesamt kann gesagt werden, dass die Wiedergeburt von The Meow ein mysteriöser Prozess war, der nicht vollständig verstanden wird. (272 T)
 
  | Run #4 Duration: 141,58 s
 
@@ -245,7 +245,7 @@ Peach Regret
 
 Translation: "Which substance represented a form of death without finality?"
 
-Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.
+Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches. (76 T)
 
  | Run #5 Duration: 89,94 s
 
@@ -295,7 +295,7 @@ The Meow behauptet, dass es Sphodebarb beschuldigt, ein Hindernis für die Zeit 
 
 Der Text endet mit einer Art von epischer Wendung, bei der die Uhr im Turm "giggelt" und die Möglichkeit des Unendlichen in die Luft springt. Es ist jedoch unklar, ob dies eine Lösung oder ein neues Problem darstellt.
 
-Insgesamt scheint der Konflikt zwischen Sphodebarb und The Meow eher eine philosophische oder metaphysische Diskussion zu sein, als eine konkrete Beilegung eines Konflikts.
+Insgesamt scheint der Konflikt zwischen Sphodebarb und The Meow eher eine philosophische oder metaphysische Diskussion zu sein, als eine konkrete Beilegung eines Konflikts. (332 T)
 
  | Run #6 Duration: 128,86 s
 
@@ -363,7 +363,7 @@ Yalps Bedeutung liegt darin, dass er die Paradoxik lösen will und dabei hilft, 
 
 Yalps Handlungen sind auch eng mit der "Containment" des Paradoxfelds verbunden, was darauf hindeutet, dass er eine Art von Magier oder Heiler ist. Er blickt auf die Welt mit einer bestimmten Perspektive und versucht, sie zu verändern.
 
-Insgesamt scheint Yalp eine wichtige Rolle bei der Lösung des Problems zu spielen und hilft dabei, die Paradoxik zu lösen, indem er Nink eine neue Identität gibt.
+Insgesamt scheint Yalp eine wichtige Rolle bei der Lösung des Problems zu spielen und hilft dabei, die Paradoxik zu lösen, indem er Nink eine neue Identität gibt. (299 T)
 
  | Run #7 Duration: 142,20 s
 
@@ -410,7 +410,7 @@ Leider gibt es keine klare Antwort auf diese Frage, da der Text nicht explizit d
 
 Der Text beschreibt jedoch den Beginn des Trials, bei dem Sphodebarb und die Katze (Meow) vor Grundle und einem Rat von Tortoisen angeklagt werden. Es wird erwähnt, dass der Meow behauptet, es möchte endlich sein, aber Sphodebarb argumentiert, dass er selbst möglicherweise die Lösung für das Problem ist.
 
-Es gibt jedoch keine explizite Antwort auf die Frage, was Sphodebarb und die Katze entschieden haben, nachdem die Schleife gebrochen war. Es wird jedoch deutlich, dass der Meow eine gewisse Unzufriedenheit und Verzweiflung ausdrückt, die es dazu bringt, von einem Ende zu sprechen.
+Es gibt jedoch keine explizite Antwort auf die Frage, was Sphodebarb und die Katze entschieden haben, nachdem die Schleife gebrochen war. Es wird jedoch deutlich, dass der Meow eine gewisse Unzufriedenheit und Verzweiflung ausdrückt, die es dazu bringt, von einem Ende zu sprechen. (221 T)
 
  | Run #8 Duration: 130,18 s
 

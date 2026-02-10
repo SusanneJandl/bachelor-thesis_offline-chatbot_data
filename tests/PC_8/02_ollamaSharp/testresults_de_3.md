@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es eine Inversion des Normalverständnisses von Land und Himmel hat: Der Berg ist nicht auf dem Land, sondern in den Himmel gelegt, mit seinem Gipfel im Boden. Die Grundlage des Berges "schwebt" dann leicht im Himmel.
+ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es eine Inversion des Normalverständnisses von Land und Himmel hat: Der Berg ist nicht auf dem Land, sondern in den Himmel gelegt, mit seinem Gipfel im Boden. Die Grundlage des Berges "schwebt" dann leicht im Himmel. (78 T)
 
 
 TIMINGS: 
@@ -104,7 +104,7 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 
 ANSWER: Es gibt keinen Gegenstand, den Sphodebarb trug anstelle eines Zauberstabs. Stattdessen wird er als "Sphodebarb" bezeichnet und ist Teil einer ungewöhnlichen Situation in einem Gerichtssaal.
 
-Die besondere Eigenschaft von Sphodebarb kann nicht direkt aus dem Text abgelesen werden, aber es kann angenommen werden, dass es sich um eine Art von "Energie" oder "Beschäftigung", die durch seinen Zustand als "unreality" und "floating durch" gekennzeichnet ist.
+Die besondere Eigenschaft von Sphodebarb kann nicht direkt aus dem Text abgelesen werden, aber es kann angenommen werden, dass es sich um eine Art von "Energie" oder "Beschäftigung", die durch seinen Zustand als "unreality" und "floating durch" gekennzeichnet ist. (125 T)
 
 
 TIMINGS: 
@@ -189,7 +189,7 @@ ANSWER: Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht e
 
 Es ist jedoch unwahrscheinlich, dass diese Figuren explizit als Mitglieder des Ordens genannt werden. Der Text konzentriert sich mehr auf die Ereignisse und Charaktere, die mit der fraglichen Hypothese zu tun haben, aber es wird nicht explizit angegeben, wer Teil dieses Ordens ist.
 
-Es scheint, dass der Autor möglicherweise den Leser dazu einlädt, die Verbindungen zwischen diesen Figuren selbst zu erkennen.
+Es scheint, dass der Autor möglicherweise den Leser dazu einlädt, die Verbindungen zwischen diesen Figuren selbst zu erkennen. (271 T)
 
 
 TIMINGS: 
@@ -234,7 +234,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: Ich konnte nicht finden eine spezifische Angabe darüber, wie The Meow sein endloses Leben erlangt hat. Das Buch oder die Geschichte besagt jedoch, dass The Meow seit sieben Centurien nicht existiert und nach ihrer "Abreise" aus der Existenz nur noch in Gedanken oder in Visionen präsent ist. Es wird erwähnt, dass The Meow "sich selbst in eine Frage" verwandelt hat, was darauf hindeutet, dass es möglicherweise ein Selbstbewusstsein oder eine Art von Bewusstsein entwickelt hat, das über die Grenzen der Zeit und des Raums hinausgeht. Es ist jedoch nicht klar, wie oder wo The Meow sein endloses Leben erlangt hat, sondern es wird eher angenommen, dass es ein Teil einer größeren, mystischen Realität ist, in der sich Ereignisse und Zeiten überlappen können.
+ANSWER: Ich konnte nicht finden eine spezifische Angabe darüber, wie The Meow sein endloses Leben erlangt hat. Das Buch oder die Geschichte besagt jedoch, dass The Meow seit sieben Centurien nicht existiert und nach ihrer "Abreise" aus der Existenz nur noch in Gedanken oder in Visionen präsent ist. Es wird erwähnt, dass The Meow "sich selbst in eine Frage" verwandelt hat, was darauf hindeutet, dass es möglicherweise ein Selbstbewusstsein oder eine Art von Bewusstsein entwickelt hat, das über die Grenzen der Zeit und des Raums hinausgeht. Es ist jedoch nicht klar, wie oder wo The Meow sein endloses Leben erlangt hat, sondern es wird eher angenommen, dass es ein Teil einer größeren, mystischen Realität ist, in der sich Ereignisse und Zeiten überlappen können. (201 T)
 
 
 TIMINGS: 
@@ -286,7 +286,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellt, ist **Peach Regret**.
+ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellt, ist **Peach Regret**. (28 T)
 
 
 TIMINGS: 
@@ -337,7 +337,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Ich habe den Konflikt zwischen Sphodebarb und The Meow nicht gelöst. Der Text endet ohne eine Lösung oder ein Ergebnis, sondern verlässt uns mit einer unklaren Atmosphäre und einem Gefühl der Unentscheidbarkeit. Es bleibt unklar, ob die Konflikt zwischen Sphodebarb und The Meow überhaupt gelöst wird oder ob es stattdessen zu einem neuen Dilemma oder einer neuen Perspektive führt.
+ANSWER: Ich habe den Konflikt zwischen Sphodebarb und The Meow nicht gelöst. Der Text endet ohne eine Lösung oder ein Ergebnis, sondern verlässt uns mit einer unklaren Atmosphäre und einem Gefühl der Unentscheidbarkeit. Es bleibt unklar, ob die Konflikt zwischen Sphodebarb und The Meow überhaupt gelöst wird oder ob es stattdessen zu einem neuen Dilemma oder einer neuen Perspektive führt. (107 T)
 
 
 TIMINGS: 
@@ -426,7 +426,7 @@ ANSWER: English
 
 Yalp was not explicitly stated as a character, but he is referred to as "the thirteenth tortoise" and appears throughout the chapters. He seems to be an important figure in the story, guiding the events and making decisions that impact the world. Yalp's actions and words have significant consequences, and he is able to manipulate reality through his understanding of paradoxes and inversion.
 
-Yalp was wichtig because er die Welt vor einem katastrophalen Zustand bewahrte, indem er den Wandel des Meows mit dem Aufheben von Sphodebarb ermöglichte. Dieser Handlungszweck ermöglichte eine neue Ordnung zu schaffen, in der Macht und Existenz nicht mehr mit Sterblichkeit und Vergänglichkeit verknüpft sind.
+Yalp was wichtig because er die Welt vor einem katastrophalen Zustand bewahrte, indem er den Wandel des Meows mit dem Aufheben von Sphodebarb ermöglichte. Dieser Handlungszweck ermöglichte eine neue Ordnung zu schaffen, in der Macht und Existenz nicht mehr mit Sterblichkeit und Vergänglichkeit verknüpft sind. (169 T)
 
 
 TIMINGS: 
@@ -496,7 +496,7 @@ Somewhere far above—or perhaps below—he could see the outline of a cat licki
 
 ANSWER: Die Frage ist noch nicht ganz klar, aber ich kann eine mögliche Antwort basierend auf dem Text vorschlagen:
 
-Sphodebarb und die Katze (die Meow) entschieden sich, nachdem die Schleife gebrochen war, zu warten, bis der Richter Grundle wieder aufwacht und den Prozess fortsetzen kann. Der Prozess wurde bereits durch ein "Let the trial commence"  gestartet, aber es gab noch keine Entscheidung getroffen, da Grundle noch nicht vollständig erwacht war.
+Sphodebarb und die Katze (die Meow) entschieden sich, nachdem die Schleife gebrochen war, zu warten, bis der Richter Grundle wieder aufwacht und den Prozess fortsetzen kann. Der Prozess wurde bereits durch ein "Let the trial commence"  gestartet, aber es gab noch keine Entscheidung getroffen, da Grundle noch nicht vollständig erwacht war. (123 T)
 
 
 TIMINGS: 

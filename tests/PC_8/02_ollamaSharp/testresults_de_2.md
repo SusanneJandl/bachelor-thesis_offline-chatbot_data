@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "Inversum" ist - das bedeutet, dass es sich selbst um den Kopf stellt: Die Spitze des Berges liegt in der Erde und die Basis fliegt in der Luft.
+ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "Inversum" ist - das bedeutet, dass es sich selbst um den Kopf stellt: Die Spitze des Berges liegt in der Erde und die Basis fliegt in der Luft. (63 T)
 
 
 TIMINGS: 
@@ -104,7 +104,7 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 
 ANSWER: Die Frage lautet: Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabes, und was war seine besondere Eigenschaft?
 
-Die Antwort ist: Sphodebarb trug eine nicht genannte Form von Objekt oder Art, die als "beard" bezeichnet wird. Seine besondere Eigenschaft ist nicht explizit genannt, aber es kann angenommen werden, dass die "beard", möglicherweise eine Art magisches Hilfsmittel oder ein Zeichen für Sphodebarbs spezielle Fähigkeiten oder Identität ist.
+Die Antwort ist: Sphodebarb trug eine nicht genannte Form von Objekt oder Art, die als "beard" bezeichnet wird. Seine besondere Eigenschaft ist nicht explizit genannt, aber es kann angenommen werden, dass die "beard", möglicherweise eine Art magisches Hilfsmittel oder ein Zeichen für Sphodebarbs spezielle Fähigkeiten oder Identität ist. (130 T)
 
 
 TIMINGS: 
@@ -185,7 +185,7 @@ ANSWER: Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht e
 
 *   Die **Absent Architects**: Mythic Figuren, die die Welt entworfen haben und sie wieder vergessen sind.
 *   Der **Department of Explanations**. Eine Organisation, die nirgendwo und überall liegt und von Papierkrähen geführt wird, die untereinander streiten.
-*   Die **Lint Between Universes**: Ein Ort, an dem verlorene Socken, zerbrochene Gedanken und halb vergessene Gefühle sich aufhalten.
+*   Die **Lint Between Universes**: Ein Ort, an dem verlorene Socken, zerbrochene Gedanken und halb vergessene Gefühle sich aufhalten. (170 T)
 
 
 TIMINGS: 
@@ -230,7 +230,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: The Meow erlangte endloses Leben, weil es sich zum Ziel gemacht hat, seine eigene Ewigkeit zu zerstören oder paradox aufzulösen, wie Grundle, der größte und am Suspizionsten von den zwölf und einem illegalen Drittteil der Schalenbewegung aus dem Hall of Perpetual Translation, besagt.
+ANSWER: The Meow erlangte endloses Leben, weil es sich zum Ziel gemacht hat, seine eigene Ewigkeit zu zerstören oder paradox aufzulösen, wie Grundle, der größte und am Suspizionsten von den zwölf und einem illegalen Drittteil der Schalenbewegung aus dem Hall of Perpetual Translation, besagt. (80 T)
 
 
 TIMINGS: 
@@ -282,7 +282,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellte, ist **Peach Regret**.
+ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellte, ist **Peach Regret**. (28 T)
 
 
 TIMINGS: 
@@ -337,7 +337,7 @@ ANSWER: Die Frage nach der Lösung des Konflikts zwischen Sphodebarb und The Meo
 
 Allerdings lässt sich sagen, dass der Konflikt durch einen ironischen Zug, der von dem Uhrwerk in der Türme ausgelöst wird, gelöst wurde. Der Uhrbaum "giggled" und fügte hinzu: "Time enjoys irony". Dieser Witz offenbarte die Natur der Existenz und zeigte Sphodebarb und The Meow, dass es keine einfache Lösung für den Konflikt gibt.
 
-Es scheint, dass die Frage nach einer "Lösung" im herkömmlichen Sinne nicht relevant ist. Stattdessen geht es um eine Art Anerkennung der Komplexität und des Widerstands gegen das Unmögliche.
+Es scheint, dass die Frage nach einer "Lösung" im herkömmlichen Sinne nicht relevant ist. Stattdessen geht es um eine Art Anerkennung der Komplexität und des Widerstands gegen das Unmögliche. (189 T)
 
 
 TIMINGS: 
@@ -428,7 +428,7 @@ Es kann jedoch angenommen werden, dass Yalp ein wichtiger Charakter in dieser Ge
 
 Yalp scheint ein alter, weiser Charakter zu sein, der über die Natur der Realität und des Bewusstseins verfügt. Er spricht von "Paradoxen" und "Inversionen", was darauf hindeutet, dass er eine tiefe Verständnis für die Struktur der Welt hat. Seine Entscheidung, den Wizard Sphodebarb zu "umwandeln", ist ein wichtiger Wendepunkt in der Geschichte und hat Auswirkungen auf die Zukunft.
 
-Insgesamt kann man sagen, dass Yalp eine zentrale Figur in dieser Geschichte ist, die die Handlung vorantreibt und Entscheidungen trifft, die das Schicksal der anderen Figuren beeinflussen.
+Insgesamt kann man sagen, dass Yalp eine zentrale Figur in dieser Geschichte ist, die die Handlung vorantreibt und Entscheidungen trifft, die das Schicksal der anderen Figuren beeinflussen. (342 T)
 
 
 TIMINGS: 
@@ -496,7 +496,7 @@ He simply floated through unreality, where facts came unassembled and causality 
 Somewhere far above—or perhaps below—he could see the outline of a cat licking its paw.
 
 
-ANSWER: Leider gibt es keine Informationen darüber, warum Sphodebarb und die Katze (Nink) nach dem Bruch der Schleife entschieden sich. Die Texte beschreiben den Prozess eines Rechtsstreits zwischen Sphodebarb und der Katze, aber nicht explizit ihre Entscheidung.
+ANSWER: Leider gibt es keine Informationen darüber, warum Sphodebarb und die Katze (Nink) nach dem Bruch der Schleife entschieden sich. Die Texte beschreiben den Prozess eines Rechtsstreits zwischen Sphodebarb und der Katze, aber nicht explizit ihre Entscheidung. (71 T)
 
 
 TIMINGS: 

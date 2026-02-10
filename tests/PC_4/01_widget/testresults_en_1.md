@@ -53,7 +53,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that it is a mountain, but its base floats in the sky while its peak is embedded in the ground, with gravity behaving in an unconventional way.
+The unusual feature that defines the geography of Velbrek is that it is a mountain, but its base floats in the sky while its peak is embedded in the ground, with gravity behaving in an unconventional way. (42 T)
 
  | Run #1 Duration: 94,81 s
 
@@ -90,7 +90,7 @@ The courtroom had been constructed overnight by a committee of sentient scaffold
 Sphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.
 
 ANSWER:
-The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it was used to summon his thoughts from where they wandered during sleep, rather than spreading jam.
+The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it was used to summon his thoughts from where they wandered during sleep, rather than spreading jam. (45 T)
 
  | Run #2 Duration: 153,48 s
 
@@ -137,7 +137,7 @@ The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of tor
 2. Remembers colors that don’t exist yet
 3. Responsible for flavor metaphors
 
-The 13th member is Yalp, who is disguised as a fern in the corner and has never been invited to speak, but always votes.
+The 13th member is Yalp, who is disguised as a fern in the corner and has never been invited to speak, but always votes. (109 T)
 
  | Run #3 Duration: 122,03 s
 
@@ -182,7 +182,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 ANSWER:
 English.
 
-The Meow gained endless life when it drank timeline ink left out by Sphodebarb, an accidental event that made it immortal and transformed it into a reluctant deity of persistence.
+The Meow gained endless life when it drank timeline ink left out by Sphodebarb, an accidental event that made it immortal and transformed it into a reluctant deity of persistence. (39 T)
 
  | Run #4 Duration: 75,34 s
 
@@ -232,7 +232,7 @@ Elsewhere, in a corner of the Hall of Crooked Clocks that did not exist last wee
 ### **6. Life and Death: Flexible Arrangements**
 
 ANSWER:
-Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality.
+Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality. (29 T)
 
  | Run #5 Duration: 72,48 s
 
@@ -274,7 +274,7 @@ The Meow’s eyes narrowed. A final thought came, burning into Sphodebarb’s br
 > **“End me, or I end you. We cannot both persist. The loop is tired.”**
 
 ANSWER:
-Unfortunately, there is no information provided about how the conflict between Sphodebarb and The Meow was resolved in the given text. The story appears to be a setup for a trial, where Sphodebarb is defending himself against charges of Existential Trespass and Unauthorized Reweaving of Infinity brought by The Meow. However, the resolution of the conflict is left unclear, as the story ends abruptly with The Meow's final thought: "End me, or I end you. We cannot both persist. The loop is tired."
+Unfortunately, there is no information provided about how the conflict between Sphodebarb and The Meow was resolved in the given text. The story appears to be a setup for a trial, where Sphodebarb is defending himself against charges of Existential Trespass and Unauthorized Reweaving of Infinity brought by The Meow. However, the resolution of the conflict is left unclear, as the story ends abruptly with The Meow's final thought: "End me, or I end you. We cannot both persist. The loop is tired." (112 T)
 
  | Run #6 Duration: 87,70 s
 
@@ -344,7 +344,7 @@ Yalp also seems to be in charge of containing paradoxes, as he instructs Eulipio
 
 Furthermore, Yalp's presence seems to have a calming effect on the world around him. When he watches the cat, he whispers "Welcome, to finitude," which implies that he is guiding the cat towards a new understanding of its place in the world.
 
-Overall, while Yalp's importance is not explicitly stated, his actions and words suggest that he plays a key role in maintaining balance and order in the world.
+Overall, while Yalp's importance is not explicitly stated, his actions and words suggest that he plays a key role in maintaining balance and order in the world. (271 T)
 
  | Run #7 Duration: 108,85 s
 

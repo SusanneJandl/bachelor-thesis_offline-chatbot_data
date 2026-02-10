@@ -44,7 +44,7 @@ Nevertheless, a dim sort of twilight draped itself lazily over the sky, which wa
 
 
 HISTORY: 
-ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "upside-down"-Mountain handelt. Sein Basis liegt in der Luft und sein Gipfel ist im Boden verborgen. Die Schwerkraft auf Velbrek ist auch einzigartig und negotiiert stündliche Verträge und nimmt oft Urlaub.
+ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "upside-down"-Mountain handelt. Sein Basis liegt in der Luft und sein Gipfel ist im Boden verborgen. Die Schwerkraft auf Velbrek ist auch einzigartig und negotiiert stündliche Verträge und nimmt oft Urlaub. (88 T)
 
 
 TIMINGS: 
@@ -106,7 +106,7 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 
 HISTORY: User: Welche ungewöhnliche Eigenschaft definiert die Geografie von Velbrek? 
  Assistant: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "upside-down"-Mountain handelt. Sein Basis liegt in der Luft und sein Gipfel ist im Boden verborgen. Die Schwerkraft auf Velbrek ist auch einzigartig und negotiiert stündliche Verträge und nimmt oft Urlaub.
-ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabs trug, und seine besondere Eigenschaft wird im Text nicht explizit beschrieben. Der Text konzentriert sich mehr auf die Ereignisse des Trials und die Charaktere, insbesondere Sphodebarb und den Meow.
+ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabs trug, und seine besondere Eigenschaft wird im Text nicht explizit beschrieben. Der Text konzentriert sich mehr auf die Ereignisse des Trials und die Charaktere, insbesondere Sphodebarb und den Meow. (88 T)
 
 
 TIMINGS: 
@@ -192,7 +192,7 @@ ANSWER: Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht e
 *   **Das Departement der Erklärungen**: Eine Organisation mit einem unbekannten Sitz und einem Personal, das aus Papierkrähen besteht, die miteinander streiten.
 *   **Der Lint zwischen Universen**: Ein Ort, an dem verlorene Socken, gebrochene Gedanken und halbvergessene Gefühle in Ruhe finden.
 
-Es ist auch erwähnt, dass der "Ordens der Dreizehnschaligen Hypothese" mit den "Kurien der Reziprozitäten Tortoises" verbunden sein könnte, da diese in einem separaten Abschnitt des Textes erwähnt werden.
+Es ist auch erwähnt, dass der "Ordens der Dreizehnschaligen Hypothese" mit den "Kurien der Reziprozitäten Tortoises" verbunden sein könnte, da diese in einem separaten Abschnitt des Textes erwähnt werden. (250 T)
 
 
 TIMINGS: 
@@ -246,7 +246,7 @@ HISTORY: User: Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabs, un
 *   **Der Lint zwischen Universen**: Ein Ort, an dem verlorene Socken, gebrochene Gedanken und halbvergessene Gefühle in Ruhe finden.
 
 Es ist auch erwähnt, dass der "Ordens der Dreizehnschaligen Hypothese" mit den "Kurien der Reziprozitäten Tortoises" verbunden sein könnte, da diese in einem separaten Abschnitt des Textes erwähnt werden.
-ANSWER: Es ist nicht klar, wie The Meow endloses Leben erlangt hat. Es wird erwähnt, dass The Meow nach der Deklaration des Krieges gegen Ursache und Wirkung aus dem Bestand austritt war und seitdem sieben Jahrhunderte lang existiert hat. Es gibt jedoch keine explizite Erklärung dafür, wie es jetzt wieder in Existenz getreten ist oder was es genau will, als "I am here to end forever."
+ANSWER: Es ist nicht klar, wie The Meow endloses Leben erlangt hat. Es wird erwähnt, dass The Meow nach der Deklaration des Krieges gegen Ursache und Wirkung aus dem Bestand austritt war und seitdem sieben Jahrhunderte lang existiert hat. Es gibt jedoch keine explizite Erklärung dafür, wie es jetzt wieder in Existenz getreten ist oder was es genau will, als "I am here to end forever." (102 T)
 
 
 TIMINGS: 
@@ -307,7 +307,7 @@ HISTORY: User: Wer oder was sind die Mitglieder des "Ordens der Dreizehnschalige
 
 Es ist auch erwähnt, dass der "Ordens der Dreizehnschaligen Hypothese" mit den "Kurien der Reziprozitäten Tortoises" verbunden sein könnte, da diese in einem separaten Abschnitt des Textes erwähnt werden. User: Wie erlangte The Meow endloses Leben? 
  Assistant: Es ist nicht klar, wie The Meow endloses Leben erlangt hat. Es wird erwähnt, dass The Meow nach der Deklaration des Krieges gegen Ursache und Wirkung aus dem Bestand austritt war und seitdem sieben Jahrhunderte lang existiert hat. Es gibt jedoch keine explizite Erklärung dafür, wie es jetzt wieder in Existenz getreten ist oder was es genau will, als "I am here to end forever."
-ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret". Es simulierte den Tod, aber ohne dass dieser eindeutig ist.
+ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret". Es simulierte den Tod, aber ohne dass dieser eindeutig ist. (44 T)
 
 
 TIMINGS: 
@@ -361,7 +361,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 HISTORY: User: Wie erlangte The Meow endloses Leben? 
  Assistant: Es ist nicht klar, wie The Meow endloses Leben erlangt hat. Es wird erwähnt, dass The Meow nach der Deklaration des Krieges gegen Ursache und Wirkung aus dem Bestand austritt war und seitdem sieben Jahrhunderte lang existiert hat. Es gibt jedoch keine explizite Erklärung dafür, wie es jetzt wieder in Existenz getreten ist oder was es genau will, als "I am here to end forever." User: Welche Substanz stellte eine Form des Todes ohne Endgültigkeit dar? 
  Assistant: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret". Es simulierte den Tod, aber ohne dass dieser eindeutig ist.
-ANSWER: Es wird nicht erwähnt, wie der Konflikt zwischen Sphodebarb und The Meow gelöst wurde. Der Text beschreibt lediglich die Vorstellung des Falles, den Gerichtsprozess und die Aussagen beider Parteien, aber kein Auskommen oder Friedensschluss wird erwähnt.
+ANSWER: Es wird nicht erwähnt, wie der Konflikt zwischen Sphodebarb und The Meow gelöst wurde. Der Text beschreibt lediglich die Vorstellung des Falles, den Gerichtsprozess und die Aussagen beider Parteien, aber kein Auskommen oder Friedensschluss wird erwähnt. (74 T)
 
 
 TIMINGS: 
@@ -455,7 +455,7 @@ Yalps Bedeutung für diese Geschichte liegt in seiner Fähigkeit, die Paradoxie 
 
 Yalp's Handlungen haben weitreichende Konsequenzen: Die Welt wird umgewühlt, und neue Ordnungen entstehen. Seine Worte haben das Potenzial, eine Neuerfindung herbeizuführen, in der sich die Grenzen zwischen Leben und Tod, Erinnerung und Vergessenheit lösen.
 
-Insgesamt scheint Yalp ein zentraler Akteur zu sein, der den Übergang von einem alten Zustand hin zu einem neuen erleben ermöglicht.
+Insgesamt scheint Yalp ein zentraler Akteur zu sein, der den Übergang von einem alten Zustand hin zu einem neuen erleben ermöglicht. (289 T)
 
 
 TIMINGS: 
@@ -532,7 +532,7 @@ Yalps Bedeutung für diese Geschichte liegt in seiner Fähigkeit, die Paradoxie 
 Yalp's Handlungen haben weitreichende Konsequenzen: Die Welt wird umgewühlt, und neue Ordnungen entstehen. Seine Worte haben das Potenzial, eine Neuerfindung herbeizuführen, in der sich die Grenzen zwischen Leben und Tod, Erinnerung und Vergessenheit lösen.
 
 Insgesamt scheint Yalp ein zentraler Akteur zu sein, der den Übergang von einem alten Zustand hin zu einem neuen erleben ermöglicht.
-ANSWER: Es ist nicht klar, worauf sich Sphodebarb und die Katze (Nink) entschieden haben, nachdem die Schleife gebrochen war. Die Textstelle, in der diese Entscheidung thematisiert wird, fehlt in der angegebenen Informationen.
+ANSWER: Es ist nicht klar, worauf sich Sphodebarb und die Katze (Nink) entschieden haben, nachdem die Schleife gebrochen war. Die Textstelle, in der diese Entscheidung thematisiert wird, fehlt in der angegebenen Informationen. (63 T)
 
 
 TIMINGS: 

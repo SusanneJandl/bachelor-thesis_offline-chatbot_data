@@ -64,7 +64,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that it is an inverted mountain, where its jagged base floats in the sky and its peak is embedded in the ground, defying conventional gravity.
+The unusual feature that defines the geography of Velbrek is that it is an inverted mountain, where its jagged base floats in the sky and its peak is embedded in the ground, defying conventional gravity. (42 T)
 
  | Run #1 Duration: 55,77 s
 
@@ -108,7 +108,7 @@ Sphodebarb dropped the spoon. It bounced once and turned into a limerick about s
 Eulipion slowly rotated upside down and extended one translucent claw. “And yet. It lounges in the courtyard now. Beneath the Weeping Chair Tree. It’s... grooming itself into a question.”
 
 ANSWER:
-The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it could be used to summon his thoughts from where they wandered during sleep, rather than spreading jam.
+The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it could be used to summon his thoughts from where they wandered during sleep, rather than spreading jam. (46 T)
 
  | Run #2 Duration: 52,41 s
 
@@ -155,7 +155,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of twelve elder tortoises, each storing a unique facet of reality within their cosmic archives. They serve as dimensional ballast to anchor reality and prevent existential drift. The thirteenth member is Yalp, who is disguised as a fern in the corner but has been secretly voting on matters, despite never being invited to speak.
+The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of twelve elder tortoises, each storing a unique facet of reality within their cosmic archives. They serve as dimensional ballast to anchor reality and prevent existential drift. The thirteenth member is Yalp, who is disguised as a fern in the corner but has been secretly voting on matters, despite never being invited to speak. (86 T)
 
  | Run #3 Duration: 54,73 s
 
@@ -211,7 +211,7 @@ All turned to stare. The thirteenth tortoise, Yalp, unfurled itself. It was anci
 ANSWER:
 English
 
-The Meow gained endless life when it drank timeline ink left out by Sphodebarb, a wizard who had brewed time into jars and fed it to the tortoises, including The Meow itself. This accidental ingestion of the timeline ink made The Meow immortal, transforming it into a reluctant deity of persistence.
+The Meow gained endless life when it drank timeline ink left out by Sphodebarb, a wizard who had brewed time into jars and fed it to the tortoises, including The Meow itself. This accidental ingestion of the timeline ink made The Meow immortal, transforming it into a reluctant deity of persistence. (67 T)
 
  | Run #4 Duration: 51,70 s
 
@@ -272,7 +272,7 @@ From a distance, **Yalp**, the thirteenth tortoise, watched with the stern fondn
 Yalp blinked slowly. “It has no memory of before. The paradox was traded. Sphodebarb is nowhere and nothing. The Meow is mortal. A clean inversion.”
 
 ANSWER:
-The substance that represented a version of death without finality is Peach Regret, which simulates death without finality and is often served at philosophical brunches.
+The substance that represented a version of death without finality is Peach Regret, which simulates death without finality and is often served at philosophical brunches. (32 T)
 
  | Run #5 Duration: 49,44 s
 
@@ -331,7 +331,7 @@ The trial has reached a point where The Meow's power and influence are becoming 
 
 As the story progresses, The Meow delivers a series of devastating blows to Sphodebarb's understanding of the situation, leaving him questioning his own role in the conflict and his relationship with The Meow. The final line, "The Meow," seems to be a declaration of dominance or a statement that The Meow is the true power behind the conflict.
 
-Overall, it appears that the conflict between Sphodebarb and The Meow is far from resolved, and the outcome is left uncertain, leaving the reader wondering what will happen next.
+Overall, it appears that the conflict between Sphodebarb and The Meow is far from resolved, and the outcome is left uncertain, leaving the reader wondering what will happen next. (212 T)
 
  | Run #6 Duration: 74,00 s
 
@@ -400,7 +400,7 @@ Yalp appears to be someone who has been guiding or influencing events, particula
 
 It's also possible that Yalp has some kind of mystical or magical connection to the world, as evidenced by his ability to cause a crack in the firmament and his knowledge of paradoxes. However, without more information about his background or motivations, it's difficult to say for certain what role he plays in the story.
 
-Overall, while there is not much information provided about Yalp, his actions and dialogue suggest that he may be an important character with a significant impact on the events of the story.
+Overall, while there is not much information provided about Yalp, his actions and dialogue suggest that he may be an important character with a significant impact on the events of the story. (246 T)
 
  | Run #7 Duration: 79,31 s
 
@@ -465,7 +465,7 @@ Here is the **final chapter** — bringing our strange tale to a satisfying, wei
 Nink—the once-Mighty Meow, now only a soft and bewildered cat—stood at the center of Velbrek’s courtyard. The sky above was fraying, its velvet folds unraveling into strips of forgotten moments. Each fragment shimmered like a memory trying to be born.
 
 ANSWER:
-The answer is not explicitly stated in the provided text, but it can be inferred that Nink (the cat) chose to return the loop after Sphodebarb and The Meow (now referred to as just "Nink") touched foreheads. This choice allowed for a sense of peace and resolution, as Sphodebarb vanished into "non-context" or "peace," rather than death.
+The answer is not explicitly stated in the provided text, but it can be inferred that Nink (the cat) chose to return the loop after Sphodebarb and The Meow (now referred to as just "Nink") touched foreheads. This choice allowed for a sense of peace and resolution, as Sphodebarb vanished into "non-context" or "peace," rather than death. (83 T)
 
  | Run #8 Duration: 57,21 s
 

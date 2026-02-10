@@ -64,7 +64,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that it is an inverted mountain, where its base floats in the sky and its peak is embedded in the ground, defying conventional gravity.
+The unusual feature that defines the geography of Velbrek is that it is an inverted mountain, where its base floats in the sky and its peak is embedded in the ground, defying conventional gravity. (40 T)
 
  | Run #1 Duration: 62,27 s
 
@@ -110,7 +110,7 @@ Eulipion slowly rotated upside down and extended one translucent claw. “And ye
 ANSWER:
 The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it could be used to summon his thoughts from where they wandered during sleep, allowing him to access his subconscious mind.
 
-Note: The emergency jam spoon seems to have a magical property that allows Sphodebarb to tap into his own thoughts and emotions, rather than being a traditional staff with magical powers.
+Note: The emergency jam spoon seems to have a magical property that allows Sphodebarb to tap into his own thoughts and emotions, rather than being a traditional staff with magical powers. (87 T)
 
  | Run #2 Duration: 66,05 s
 
@@ -157,7 +157,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of twelve elder tortoises, each storing a unique facet of reality within their cosmic archives (their shells). The thirteenth member is Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes.
+The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of twelve elder tortoises, each storing a unique facet of reality within their cosmic archives (their shells). The thirteenth member is Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes. (71 T)
 
  | Run #3 Duration: 58,78 s
 
@@ -213,7 +213,7 @@ All turned to stare. The thirteenth tortoise, Yalp, unfurled itself. It was anci
 ANSWER:
 English
 
-The Meow gained endless life when it drank timeline ink left out by Sphodebarb, a wizard who had brewed time into jars and fed it to the tortoises and The Meow itself. This accidental ingestion of the timeline ink made The Meow immortal, turning it into a reluctant deity of persistence.
+The Meow gained endless life when it drank timeline ink left out by Sphodebarb, a wizard who had brewed time into jars and fed it to the tortoises and The Meow itself. This accidental ingestion of the timeline ink made The Meow immortal, turning it into a reluctant deity of persistence. (66 T)
 
  | Run #4 Duration: 54,48 s
 
@@ -274,7 +274,7 @@ From a distance, **Yalp**, the thirteenth tortoise, watched with the stern fondn
 Yalp blinked slowly. “It has no memory of before. The paradox was traded. Sphodebarb is nowhere and nothing. The Meow is mortal. A clean inversion.”
 
 ANSWER:
-The substance that represented a version of death without finality is Peach Regret, which simulates death but does not result in a permanent state. It is often served at philosophical brunches.
+The substance that represented a version of death without finality is Peach Regret, which simulates death but does not result in a permanent state. It is often served at philosophical brunches. (38 T)
 
  | Run #5 Duration: 55,83 s
 
@@ -335,7 +335,7 @@ Just as it seems like the trial is about to reach a turning point, the clock in 
 
 The story ends with Sphodebarb looking at The Meow, unsure of what is happening or who he is speaking to. The Meow blinks slowly, and reality around its mouth bends gently, suggesting that the cat has gained the upper hand in some way.
 
-Overall, it seems like the conflict between Sphodebarb and The Meow is far from resolved, and the outcome is far from certain.
+Overall, it seems like the conflict between Sphodebarb and The Meow is far from resolved, and the outcome is far from certain. (240 T)
 
  | Run #6 Duration: 83,20 s
 
@@ -404,7 +404,7 @@ Yalp seems to have the ability to manipulate reality, as evidenced by his statem
 
 Furthermore, Yalp seems to have a deep understanding of the concept of mortality and its relationship to reality. His statement "Mortality is a fragile prism. It must not shatter on its first thought" suggests that he has a profound insight into the nature of existence and the importance of preserving balance in the universe.
 
-Overall, while Yalp's role and significance are not explicitly stated, it can be inferred that he is a powerful and wise figure who plays a crucial role in shaping the world and its inhabitants.
+Overall, while Yalp's role and significance are not explicitly stated, it can be inferred that he is a powerful and wise figure who plays a crucial role in shaping the world and its inhabitants. (232 T)
 
  | Run #7 Duration: 84,38 s
 
@@ -473,7 +473,7 @@ The answer is not explicitly stated in the provided text, but it can be inferred
 
 In other words, Nink chose to end her own existential crisis and allow Sphodebarb to break free from his perpetual state of persistence. By doing so, she allowed reality to reset and create a new, peaceful world for Sphodebarb, where he could finally exist without the burden of his past actions.
 
-It's worth noting that Nink's choice is not presented as a conscious decision, but rather as an instinctual one, driven by her deeper nature. She simply "placed her paw on [Yalp's] shell" and allowed events to unfold, ultimately leading to Sphodebarb's liberation.
+It's worth noting that Nink's choice is not presented as a conscious decision, but rather as an instinctual one, driven by her deeper nature. She simply "placed her paw on [Yalp's] shell" and allowed events to unfold, ultimately leading to Sphodebarb's liberation. (180 T)
 
  | Run #8 Duration: 74,95 s
 
@@ -527,7 +527,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in den Boden eingeschlagen ist.
+Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in den Boden eingeschlagen ist. (66 T)
 
  | Run #1 Duration: 49,52 s +7
 

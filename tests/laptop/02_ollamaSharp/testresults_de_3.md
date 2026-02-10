@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "Inverted Mountain" ist – das heißt, die gesamte Form des Berges ist umgedreht und "seine Spitze" in den Boden eingebettet ist, während der Rest des Berges "sein Grund" im Himmel hat.
+ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "Inverted Mountain" ist – das heißt, die gesamte Form des Berges ist umgedreht und "seine Spitze" in den Boden eingebettet ist, während der Rest des Berges "sein Grund" im Himmel hat. (77 T)
 
 
 TIMINGS: 
@@ -106,7 +106,7 @@ ANSWER: Die Frage lautet: Welchen Gegenstand trug Sphodebarb anstelle eines Zaub
 
 Die Antwort ist nicht direkt im Text zu finden, aber man kann daraus schließen, dass Sphodebarb ein "beard" oder eine "Barbe" trägt, die sich in protest curlt. Es ist jedoch nicht klar, ob dies ein Zauberstab ist und welche besondere Eigenschaft er hat.
 
-Es ist auch möglich, dass die "beard" ein Symbol oder ein Objekt ist, das die Fähigkeiten oder Kräfte von Sphodebarb darstellt, aber ohne weitere Informationen ist es schwierig, eine genaue Antwort zu geben.
+Es ist auch möglich, dass die "beard" ein Symbol oder ein Objekt ist, das die Fähigkeiten oder Kräfte von Sphodebarb darstellt, aber ohne weitere Informationen ist es schwierig, eine genaue Antwort zu geben. (160 T)
 
 
 TIMINGS: 
@@ -191,7 +191,7 @@ Einige mögliche Mitglieder des Ordens könnten:
 *   Eulipion: Es könnte sein, dass er Teil des Ordens ist und die Paradoxen regelt.
 *   Sphodebarb und Nink sind auch in der Geschichte vorkommende Figuren, aber es ist nicht klar ob sie Mitglieder des Ordens sind.
 
-Es gibt jedoch keine explizite Erwähnung von Mitgliedern im Text.
+Es gibt jedoch keine explizite Erwähnung von Mitgliedern im Text. (186 T)
 
 
 TIMINGS: 
@@ -236,7 +236,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: The Meow erlangte endloses Leben durch eine Art von Zeitreise oder Zeitverzögerung, die es ermöglichte, aus einer existenziellen Phase mit nur sieben Centurien zurückzukehren. Es scheint, dass The Meow ein bestimmtes Ereignis oder eine bestimmte Dimension überbrückt hat, das es wieder in die Gegenwart zurückversetzte und seine ursprüngliche Existenzbeendigung für immer aufschiebt.
+ANSWER: The Meow erlangte endloses Leben durch eine Art von Zeitreise oder Zeitverzögerung, die es ermöglichte, aus einer existenziellen Phase mit nur sieben Centurien zurückzukehren. Es scheint, dass The Meow ein bestimmtes Ereignis oder eine bestimmte Dimension überbrückt hat, das es wieder in die Gegenwart zurückversetzte und seine ursprüngliche Existenzbeendigung für immer aufschiebt. (106 T)
 
 
 TIMINGS: 
@@ -288,7 +288,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist Peach Regret.
+ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist Peach Regret. (25 T)
 
 
 TIMINGS: 
@@ -339,7 +339,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Unfortunately, die Frage nach der Lösung des Konflikts zwischen Sphodebarb und The Meow ist noch nicht beantwortet. Der Text endet mit einer offenen Frage und einem Gedanken von Sphodebarb, ohne dass eine klare Lösung oder ein Ende des Konflikts angegeben wird.
+ANSWER: Unfortunately, die Frage nach der Lösung des Konflikts zwischen Sphodebarb und The Meow ist noch nicht beantwortet. Der Text endet mit einer offenen Frage und einem Gedanken von Sphodebarb, ohne dass eine klare Lösung oder ein Ende des Konflikts angegeben wird. (69 T)
 
 
 TIMINGS: 
@@ -432,7 +432,7 @@ Yalp ist wichtig, weil er die Welt vor einem katastrophalen Ereignis rettet, ind
 
 Yalp ist auch ein Symbol für Veränderung und Wandel, da er die Welt auf den Kopf stellt und die alten Regeln bricht. Seine Aktionen sind nicht immer verständlich oder logisch, aber sie führen letztendlich zu einem positiven Ergebnis.
 
-Insgesamt ist Yalp ein wichtiger Charakter in dieser Geschichte, der die Handlung vorantreibt und Veränderungen in der Welt herbeiführt.
+Insgesamt ist Yalp ein wichtiger Charakter in dieser Geschichte, der die Handlung vorantreibt und Veränderungen in der Welt herbeiführt. (311 T)
 
 
 TIMINGS: 
@@ -500,7 +500,7 @@ He simply floated through unreality, where facts came unassembled and causality 
 Somewhere far above—or perhaps below—he could see the outline of a cat licking its paw.
 
 
-ANSWER: Leider gibt es keine Hinweise im bereitgestellten Text darauf, worüber sich Sphodebarb und die Katze (die Meow) entschieden haben, nachdem die Schleife gebrochen war. Die Geschichte beschäftigt sich hauptsächlich mit einem Trial, bei dem Sphodebarb und die Meow vor Grundle und einer Bureaucratie aus Tortoises verurteilt werden. Es gibt keine explizite Erwähnung eines Ereignisses, das als "Schleife gebrochen" bezeichnet wird, und es ist unklar, ob dieses Ereignis mit der Geschichte zusammenhängt oder nicht.
+ANSWER: Leider gibt es keine Hinweise im bereitgestellten Text darauf, worüber sich Sphodebarb und die Katze (die Meow) entschieden haben, nachdem die Schleife gebrochen war. Die Geschichte beschäftigt sich hauptsächlich mit einem Trial, bei dem Sphodebarb und die Meow vor Grundle und einer Bureaucratie aus Tortoises verurteilt werden. Es gibt keine explizite Erwähnung eines Ereignisses, das als "Schleife gebrochen" bezeichnet wird, und es ist unklar, ob dieses Ereignis mit der Geschichte zusammenhängt oder nicht. (146 T)
 
 
 TIMINGS: 

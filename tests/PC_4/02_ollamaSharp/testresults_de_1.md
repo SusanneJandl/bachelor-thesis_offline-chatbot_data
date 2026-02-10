@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "Inverted Mountain" ist, d.h. die Spitze des Berges ist im Boden verankert und die Basis schwebt in der Luft. Die Schwerkraft arbeitet hier wie ein freier Vertrag und kann sich abwechseln.
+ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es ein "Inverted Mountain" ist, d.h. die Spitze des Berges ist im Boden verankert und die Basis schwebt in der Luft. Die Schwerkraft arbeitet hier wie ein freier Vertrag und kann sich abwechseln. (76 T)
 
 
 TIMINGS: 
@@ -102,7 +102,7 @@ The courtroom had been constructed overnight by a committee of sentient scaffold
 Sphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.
 
 
-ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabes trug. Es wird jedoch erwähnt, dass er ein "Beard" hatte, das sich in Protest curlte, aber es wird auch kein weiterer Gegenstand genannt.
+ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabes trug. Es wird jedoch erwähnt, dass er ein "Beard" hatte, das sich in Protest curlte, aber es wird auch kein weiterer Gegenstand genannt. (62 T)
 
 
 TIMINGS: 
@@ -187,7 +187,7 @@ ANSWER: Es gibt keine expliziten Informationen über die Mitglieder des "Ordens 
 * Der **Grundle**, der möglicherweise eine Rolle im Kontext des "Ordens" spielt, ist jedoch eher ein Zentrum der Begriffsklärung und Korrektur.
 * Nink, die Katze, wird von Yalp als Teil des Paradox-Felds identifiziert.
 
-Es ist auch erwähnt, dass es andere Mitglieder geben könnte, wie etwa die **Absent Architects**, die Mythikfiguren sind, die die Welt geschaffen haben und nun vergessen haben. Es ist jedoch unklar, ob sie direkt mit dem "Ordens" verbunden sind.
+Es ist auch erwähnt, dass es andere Mitglieder geben könnte, wie etwa die **Absent Architects**, die Mythikfiguren sind, die die Welt geschaffen haben und nun vergessen haben. Es ist jedoch unklar, ob sie direkt mit dem "Ordens" verbunden sind. (275 T)
 
 
 TIMINGS: 
@@ -232,7 +232,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: Es ist nicht klar, wie The Meow endloses Leben erlangt hat. Die Geschichte lässt darauf schließen, dass The Meow aus dem Nichts zurückkehrt und sich in der Gruft unter dem Weichendes Stuhlbaum aufhält, während es sich selbst in ein Rätsel verwandelt. Es wird jedoch nicht gesagt, wie oder warum The Meow wiederbelebt wurde oder wie es seine Ewigkeit beenden will.
+ANSWER: Es ist nicht klar, wie The Meow endloses Leben erlangt hat. Die Geschichte lässt darauf schließen, dass The Meow aus dem Nichts zurückkehrt und sich in der Gruft unter dem Weichendes Stuhlbaum aufhält, während es sich selbst in ein Rätsel verwandelt. Es wird jedoch nicht gesagt, wie oder warum The Meow wiederbelebt wurde oder wie es seine Ewigkeit beenden will. /100 T=
 
 
 TIMINGS: 
@@ -284,7 +284,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellt, ist "Peach Regret".
+ANSWER: Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellt, ist "Peach Regret". (27 T)
 
 
 TIMINGS: 
@@ -335,7 +335,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Ich konnte keine Informationen über eine Lösung für den Konflikt zwischen Sphodebarb und The Meow finden. Der Text beschreibt die Ereignisse bis zum Punkt, an dem The Meow erklärt, dass es dorthin ist, um "forever" zu beenden, aber keine weiteren Details über die Lösung des Konflikts liegen vor.
+ANSWER: Ich konnte keine Informationen über eine Lösung für den Konflikt zwischen Sphodebarb und The Meow finden. Der Text beschreibt die Ereignisse bis zum Punkt, an dem The Meow erklärt, dass es dorthin ist, um "forever" zu beenden, aber keine weiteren Details über die Lösung des Konflikts liegen vor. (82 T)
 
 
 TIMINGS: 
@@ -426,7 +426,7 @@ Yalp scheint ein Machtträger oder ein weiser Wesen zu sein, das über die Fähi
 
 Yalp scheint auch eine Art von Visionär oder Prophezeiung zu sein, da er von dem "Wiederkehr der Finsternis" spricht und die Bedeutung von Sphodebarb als "Mortal" herausfordert. Er empfiehlt, den Kater Nink zu beobachten, zu schützen und vielleicht zu nennen, und deutet darauf hin, dass Mortalität ein "fragiler Prism" ist, der nicht auf seiner ersten Gedanken zerstört werden sollte.
 
-Insgesamt scheint Yalp ein wichtiger Charakter zu sein, der die Entwicklung von Sphodebarb und Nink in einem komplexen Universum vorantreibt.
+Insgesamt scheint Yalp ein wichtiger Charakter zu sein, der die Entwicklung von Sphodebarb und Nink in einem komplexen Universum vorantreibt. (318 T)
 
 
 TIMINGS: 
@@ -494,7 +494,7 @@ He simply floated through unreality, where facts came unassembled and causality 
 Somewhere far above—or perhaps below—he could see the outline of a cat licking its paw.
 
 
-ANSWER: Leider gibt es keine explizite Antwort auf die Frage, was Sphodebarb und Nink (die Katze) entschieden sich nachdem die Schleife gebrochen war.
+ANSWER: Leider gibt es keine explizite Antwort auf die Frage, was Sphodebarb und Nink (die Katze) entschieden sich nachdem die Schleife gebrochen war. (42 T)
 
 
 TIMINGS: 

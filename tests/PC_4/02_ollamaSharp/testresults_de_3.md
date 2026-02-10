@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es eine "Inverted Mountain" ist – d.h., ein Berg, der nicht auf einem Berg steht, sondern dessen Basis in den Himmel ragt und dessen Gipfel im Boden steckt. Dieser Berg verhandelt mit dem Gewicht, was er die "Stunde Null" nennt, und manchmal nimmt es auch Urlaub.
+ANSWER: Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es eine "Inverted Mountain" ist – d.h., ein Berg, der nicht auf einem Berg steht, sondern dessen Basis in den Himmel ragt und dessen Gipfel im Boden steckt. Dieser Berg verhandelt mit dem Gewicht, was er die "Stunde Null" nennt, und manchmal nimmt es auch Urlaub. (96 T)
 
 
 TIMINGS: 
@@ -104,7 +104,7 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 
 ANSWER: Die Frage lautet: Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabs, und was war seine besondere Eigenschaft?
 
-Die Antwort ist nicht direkt angegeben, aber es kann angenommen werden, dass Sphodebarb keinen Zauberstab im herkömmlichen Sinne trug. Stattdessen wird erwähnt, dass er sich in einer Art "Unreality" befand, wo "Facts came unassembled and causality was still looking for its shoes". Es scheint, dass Sphodebarb eine Art von Macht oder Fähigkeit besaß, die nicht durch ein traditionelles Zauberstab-Objekt ausgedrückt wurde.
+Die Antwort ist nicht direkt angegeben, aber es kann angenommen werden, dass Sphodebarb keinen Zauberstab im herkömmlichen Sinne trug. Stattdessen wird erwähnt, dass er sich in einer Art "Unreality" befand, wo "Facts came unassembled and causality was still looking for its shoes". Es scheint, dass Sphodebarb eine Art von Macht oder Fähigkeit besaß, die nicht durch ein traditionelles Zauberstab-Objekt ausgedrückt wurde. (152 T)
 
 
 TIMINGS: 
@@ -191,7 +191,7 @@ Es gibt jedoch einige Figuren und Gruppen, die in Verbindung mit diesem Konzept 
 * Die "Absent Architects", Mythic-Figuren, die das Weltgestaltierungsprojekt konzipiert haben und sich möglicherweise mit den "Recursive Tortoises" identifizieren.
 * Das "Department of Explanations", eine Gruppe, die möglicherweise mit dem Konzept der "Dreizehnschaligen Hypothese" zusammenhängt.
 
-Es ist jedoch wichtig zu beachten, dass diese Figuren und Gruppen nicht explizit als Mitglieder des "Ordens der Dreizehnschaligen Hypothese" erwähnt werden.
+Es ist jedoch wichtig zu beachten, dass diese Figuren und Gruppen nicht explizit als Mitglieder des "Ordens der Dreizehnschaligen Hypothese" erwähnt werden. (315 T)
 
 
 TIMINGS: 
@@ -236,7 +236,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: Es wird nicht klar, wie The Meow endloses Leben erlangt hat, da es explizit heißt, dass "The Meow left existence seven centuries ago". Es ist jedoch möglicherweise so, dass es durch eine Art von paradoxer oder unendlicher Zeitstruktur überlebt hat, die seine Ewigkeit verlängert hat.
+ANSWER: Es wird nicht klar, wie The Meow endloses Leben erlangt hat, da es explizit heißt, dass "The Meow left existence seven centuries ago". Es ist jedoch möglicherweise so, dass es durch eine Art von paradoxer oder unendlicher Zeitstruktur überlebt hat, die seine Ewigkeit verlängert hat. (76 T)
 
 
 TIMINGS: 
@@ -287,7 +287,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Es gibt keine Informationen über die Lösung des Konflikts zwischen Sphodebarb und The Meow. Der Text beschreibt den Prozess, der zum "Trial" führt, aber es wird nicht erwähnt, wie der Konflikt gelöst wurde.
+ANSWER: Es gibt keine Informationen über die Lösung des Konflikts zwischen Sphodebarb und The Meow. Der Text beschreibt den Prozess, der zum "Trial" führt, aber es wird nicht erwähnt, wie der Konflikt gelöst wurde. (60 T)
 
 
 TIMINGS: 
@@ -380,7 +380,7 @@ Yalp selbst scheint ein Weiser oder eine Weiblichkeit zu sein, die über die Nat
 
 Seine Botschaft an "The Meow" ist es, den Cat zu "Willen zu bringen", seine Vergangenheit zu vergessen und sich auf die Gegenwart zu konzentrieren. Yalp erwähnt auch, dass der Weeping Chair Tree lauter wird, wenn die Paradoxen der Welt nicht mehr kontrolliert werden.
 
-Es ist auch möglich, dass Yalp eine Art von Prophet oder Seher ist, der die Zukunft vorhersagt und die Menschen dazu bringt, ihre Sichtweise auf die Welt zu ändern.
+Es ist auch möglich, dass Yalp eine Art von Prophet oder Seher ist, der die Zukunft vorhersagt und die Menschen dazu bringt, ihre Sichtweise auf die Welt zu ändern. (308 T)
 
 
 TIMINGS: 
@@ -452,7 +452,7 @@ ANSWER: Die Frage ist nicht direkt beantwortet, aber es kann erahnt werden, dass
 
 Es wird jedoch deutlich, dass Sphodebarb einen "Trial" beginnt, bei dem er die Katze (Nink) als Defendant hat und sich für ihren Freiwilligenprotest einsetzt. Es ist also möglich, dass Sphodebarb sich für den Freiwilligenprotest der Katze entscheidet.
 
-Eine mögliche Deutung könnte lauten, dass sich Sphodebarb entschieden, die Katze zu unterstützen und ihre Wünsche zu respektieren.
+Eine mögliche Deutung könnte lauten, dass sich Sphodebarb entschieden, die Katze zu unterstützen und ihre Wünsche zu respektieren. (179 T)
 
 
 TIMINGS: 

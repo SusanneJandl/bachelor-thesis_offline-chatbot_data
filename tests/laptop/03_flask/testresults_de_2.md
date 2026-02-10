@@ -16,7 +16,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    One unusual property that defines the geography of Velbrek is that it is a mountain but "upside-down", meaning its jagged base floats lazily in the sky, with its peak embedded in the ground. This is known as an "inverted mountain".
+    One unusual property that defines the geography of Velbrek is that it is a mountain but "upside-down", meaning its jagged base floats lazily in the sky, with its peak embedded in the ground. This is known as an "inverted mountain". (53 T)
 
 GERMAN ANSWER:
     Eine ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es ein Berg ist, aber "aufwärts-unten", was bedeutet, dass seine zerklüftete Basis lazy in den Himmel schwebt, mit seinem Gipfel in den Boden eingebettet.
@@ -46,7 +46,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Unfortunately, I do not have information to accurately answer what object Sphodebarb wore instead of a wand, or its special quality.
+    Unfortunately, I do not have information to accurately answer what object Sphodebarb wore instead of a wand, or its special quality. (28 T)
 
 GERMAN ANSWER:
     Leider habe ich keine Informationen, um genau zu beantworten, welches Objekt Sphodebarb anstelle eines Zauberstabs trug, oder seine besondere Qualität.
@@ -83,7 +83,7 @@ The text does describe the members of this group as follows:
 - The twelve elder tortoises are referred to as the "Tortoises: Bearers of Memory". Each tortoise is said to store a unique facet of reality, such as the blueprint for regret or memories of colors that don't exist yet.
 - A thirteenth member, known only as Yalp, who appears to be an illegitimate additional member, disguising themselves as a fern in the corner and always voting despite not being invited to speak.
 
-It's also worth noting that there is no specific information about this group being related to the term "Order of the Thirteen-Shaligen Hypothesis", which does not appear to be mentioned anywhere in the provided text.
+It's also worth noting that there is no specific information about this group being related to the term "Order of the Thirteen-Shaligen Hypothesis", which does not appear to be mentioned anywhere in the provided text. (221 T)
 
 GERMAN ANSWER:
     Es gibt jedoch keine spezifischen Informationen über die "Ordnung der Dreizehn-Shaligen-Hypothese" im vorliegenden Text. Es gibt eine Erwähnung der "Ordnung der Dreizehn-Shelled Hypothesis", die scheint ein kollektiver Name für die zwölf älteren Schildkröten zu sein und möglicherweise enthält ein zusätzliches dreizehntes Mitglied. Der Text beschreibt die Mitglieder dieser Gruppe wie folgt: - Die zwölf älteren Schildkröten werden als die "Tortoises: Bearers of Memory" bezeichnet. Jede Schildkröte wird gesagt, um eine einzigartige Facette der Realität zu speichern, wie die Blaupause für Reue oder Erinnerungen an Farben, die noch nicht existieren. - Ein dreizehntes Mitglied, nur als Yalp bekannt, die scheint ein uneheliches zusätzliches Mitglied zu sein, verkleiden sich als Farn in der Ecke und immer abstimmen trotz nicht eingeladen zu sprechen. Es ist auch erwähnenswert, dass es keine spezifischen Informationen über diese Gruppe gibt, die mit dem Begriff "Ordung der Dreizehn-Shaligen-Hypothesis" in Verbindung stehen, die nirgendwo im vorliegenden Text erwähnt zu sein scheint.
@@ -117,7 +117,7 @@ ENGLISH ANSWER:
 
 However, the exact mechanism behind this process is not fully explained in the passage. It appears that The Meow has gained its endless life through a symbiotic relationship with Sphodebarb and the tortoises, who have become "infused" with eternal energy.
 
-The story suggests that if the Meow were to somehow undo or break free from this connection, it would also affect Sphodebarb's own existence. This creates a paradoxical loop where The Meow's immortality is tied to the stability of the timestream and the wizard's own being.
+The story suggests that if the Meow were to somehow undo or break free from this connection, it would also affect Sphodebarb's own existence. This creates a paradoxical loop where The Meow's immortality is tied to the stability of the timestream and the wizard's own being. (195 T)
 
 GERMAN ANSWER:
     Die Meow erlangte endloses Leben durch einen geheimnisvollen und paradoxen Prozess mit dem Zauberer Sphodebarb. Laut der Geschichte hatte der Zauberer zuvor Zeit in Gläser gebraut mit seinem Wissen über Chronomanie, die er dann ernährt zu schildkröten, effektiv sie mit ewigem Leben. Dieser Akt verlängerte auch irgendwie die eigene Lebensspanne der Meow, so dass es ein unsterbliches Wesen. Doch der genaue Mechanismus hinter diesem Prozess ist nicht vollständig in der Passage erklärt. Es scheint, dass die Meow hat ihr endloses Leben durch eine symbiotische Beziehung mit Sphodebarb und die Schildkröten, die sich "infundiert" mit ewiger Energie. Die Geschichte deutet darauf hin, dass, wenn die Meow wurden irgendwie rückgängig gemacht oder brechen aus dieser Verbindung, würde es auch Auswirkungen Sphodebarbs eigenen Existenz. Dies schafft eine paradoxe Schleife, wo die Unsterblichkeit der Meow ist gebunden an die Stabilität des Zeitstroms und des Assistenten das eigene Wesen.
@@ -147,7 +147,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Peach Regret is a substance that simulates death without finality.
+    Peach Regret is a substance that simulates death without finality. (15 T)
 
 GERMAN ANSWER:
     Peach Regret ist eine Substanz, die den Tod ohne Endgültigkeit simuliert.
@@ -185,7 +185,7 @@ In response to this realization, The Meow reveals its intention to end forever. 
 
 The story then takes a turn as twelve tortoises (and an illegal thirteenth) emerge from the Hall of Perpetual Translation. It appears that they are not here to resolve the conflict, but rather to observe or participate in some larger process. The Meow's final thought suggests that it is seeking an end to its own existence.
 
-Ultimately, the story ends without a clear resolution or outcome for Sphodebarb and The Meow. Instead, it seems to be suggesting that both entities are interconnected and that their fates are intertwined.
+Ultimately, the story ends without a clear resolution or outcome for Sphodebarb and The Meow. Instead, it seems to be suggesting that both entities are interconnected and that their fates are intertwined. (251 T)
 
 GERMAN ANSWER:
     Es gibt keinen Konflikt zwischen Sphodebarb und The Meow, sondern eine Konfrontation, die zu einer Lösung führt. Die Meow sucht Paradox und versucht, ihre eigene Ewigkeit zu entwirren, indem sie die Existenz von Sphodebarb beendet. Jedoch erkennt Sphodebarb, dass er der letzte Knoten in der Reihe der Zeit ist und dass, wenn er rückgängig gemacht werden würde, The Meow würde auch rückgängig gemacht werden. In Reaktion auf diese Erkenntnis, The Meow offenbart seine Absicht, für immer zu enden. Anstatt Sphodebarb anzugreifen, scheint The Meow seine eigene Sterblichkeit und die Idee, dass es enden muss, um sowohl für Sphodebarb und sich selbst zu existieren. Die Geschichte nimmt dann eine Wendung als zwölf Schildkröten (und ein illegaler dreizehnter) aus der Halle der Perpetual Translation entstehen. Es scheint, dass sie nicht hier sind, um den Konflikt zu lösen, sondern um zu beobachten oder an einem größeren Prozess teilzunehmen. Die Meows letzter Gedanke deutet darauf hin, dass sie ein Ende ihrer eigenen Existenz sucht. Letztlich endet die Geschichte ohne eine klare Auflösung oder Ergebnis für Sphodbarb ist, dass sie miteinander verbunden sind.
@@ -227,7 +227,7 @@ The significance of Yalp's character can be interpreted in various ways, dependi
 
 2.  The power of guidance and mentorship: Through his interactions with Sphodebarb and Nink, Yalp demonstrates his ability to provide crucial information and support during times of uncertainty or upheaval.
 
-3.  The idea of liberation and freedom: Yalp's statement about not being bound "to always" can be seen as a symbol of liberation from constraints or limitations, which has positive implications for the characters involved.
+3.  The idea of liberation and freedom: Yalp's statement about not being bound "to always" can be seen as a symbol of liberation from constraints or limitations, which has positive implications for the characters involved. (362 T)
 
 GERMAN ANSWER:
     Yalp ist eine wichtige Figur in der Geschichte, denn er scheint ein mächtiger und weiser Mensch zu sein, der Kenntnisse über die Funktionsweise von Realität und Zeit besitzt. Er ist in der Lage, Veränderungen im Gewebe der Existenz wahrzunehmen und reagiert entsprechend, oft mit kryptischen Botschaften oder Befehlen, die andere Charaktere zu verstehen, was geschieht. Im Kontext der Erzählung, Yalps Präsenz und Handlungen dienen als Katalysator für Veränderung. Wenn er sagt: "Sie sind nicht mehr gebunden an immer", es deutet darauf hin, dass er einige grundlegende Einschränkungen oder Begrenzungen auf Ninks Existenz oder Wahrnehmung bewusst ist. Seine Aussage impliziert auch einen Grad an Befreiung oder Freiheit aus einem früheren Zustand. Yalps Rolle in der Geschichte kann als eine der Mentorschaft und Führung gesehen werden, vor allem gegenüber Sphodebarb und Nink. Er liefert ihnen wichtige Informationen über das, was in ihrer Welt geschieht und bietet Wörter der Ermutigung und Rücksicherung. Seine Handlungen scheinen auch zu helfen, die Realität zu stabilisieren, die während der Erzählung immer unregelmäßiger wird.
@@ -259,7 +259,7 @@ HISTORY:
 ENGLISH ANSWER:
     It is not explicitly stated what Sphodebarb and Nink (the cat) decided after the loop was broken, as there is no direct conversation or decision-making between them about this topic. However, it can be inferred that Sphodebarb, who had traded her memory of before with the paradox, has now become "nowhere and nothing" while The Meow is mortal.
 
-The decision to break the loop seems to have been made by Grundle, Yalp, Eulipion, and the tortoises, as they discuss the consequences of this action in Chapter Three.
+The decision to break the loop seems to have been made by Grundle, Yalp, Eulipion, and the tortoises, as they discuss the consequences of this action in Chapter Three. (122 T)
 
 GERMAN ANSWER:
     Es wird nicht explizit angegeben, was Sphodebarb und Nink (die Katze) nach dem Bruch der Schleife entschieden haben, da es keine direkte Konversation oder Entscheidungsfindung zwischen ihnen über dieses Thema gibt. Es kann jedoch davon ausgegangen werden, dass Sphodebarb, die ihre Erinnerung an vorher mit dem Paradox gehandelt hatte, jetzt "Nirgendwo und nichts" geworden ist, während The Meow sterblich ist. Die Entscheidung, die Schleife zu brechen, scheint von Grundle, Yalp, Eulipion und den Schildkröten getroffen worden zu sein, da sie die Folgen dieser Aktion in Kapitel Drei diskutieren.

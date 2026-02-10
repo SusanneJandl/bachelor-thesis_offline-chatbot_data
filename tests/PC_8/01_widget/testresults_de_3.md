@@ -35,7 +35,7 @@ From that day forward:
 * Sphodebarb built a tiny cottage at the edge of Velbrek. It had crooked windows and a garden full of “what-ifs” that grew into flowers when watered with laughter.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist - also ein Berg, der nicht auf dem Boden, sondern in der Luft liegt und dessen Spitze im Erdreich steckt.
+Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist - also ein Berg, der nicht auf dem Boden, sondern in der Luft liegt und dessen Spitze im Erdreich steckt. (61 T)
 
  | Run #1 Duration: 51,15 s
 
@@ -90,7 +90,7 @@ Somewhere in the distance, reality coughed politely.
 ### **Chapter Two: Bureaucracy of the Shell**
 
 ANSWER:
-There is no information about Sphodebarb carrying an object instead of a wand. The text only mentions that he was humming and floating through unreality, but it does not specify what he was holding or carrying.
+There is no information about Sphodebarb carrying an object instead of a wand. The text only mentions that he was humming and floating through unreality, but it does not specify what he was holding or carrying. (44 T)
 
  | Run #2 Duration: 34,22 s
 
@@ -154,7 +154,7 @@ Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht explizit 
 * Die **Department of Explanations**: Eine Gruppe, die sich nirgendwo befindet und überall ist. Sie wird von Papierkrähen angeführt, die untereinander streiten.
 * Die **Lint Between Universes**: Ein Ort, an dem verlorene Socken, gebrochene Gedanken und halb vergessene Gefühle in Ruhe leben.
 
-Es gibt jedoch keine explizite Erwähnung von Mitgliedern des Ordens der Dreizehnschaligen Hypothese.
+Es gibt jedoch keine explizite Erwähnung von Mitgliedern des Ordens der Dreizehnschaligen Hypothese. (203 T)
 
  | Run #3 Duration: 51,45 s
 
@@ -194,7 +194,7 @@ Allerdings kann man daraus schließen, dass The Meow möglicherweise durch eine 
 
 Es gibt jedoch keine explizite Erklärung dafür, wie The Meow endloses Leben erlangt hat. Es ist auch nicht klar, ob The Meow tatsächlich "endloses Leben" erlangt hat oder ob es vielmehr ein Symbol oder eine Metapher für etwas ist.
 
-Insgesamt kann man sagen, dass die Rückkehr von The Meow in das Bewusstsein möglicherweise durch eine Art von magischer oder metaphysischer Kraft verursacht wurde, aber die genaue Ursache dafür bleibt unklar.
+Insgesamt kann man sagen, dass die Rückkehr von The Meow in das Bewusstsein möglicherweise durch eine Art von magischer oder metaphysischer Kraft verursacht wurde, aber die genaue Ursache dafür bleibt unklar. (259 T)
 
  | Run #4 Duration: 52,87 s
 
@@ -237,7 +237,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret".
+Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret". (27 T)
 
  | Run #5 Duration: 32,10 s
 
@@ -285,7 +285,7 @@ Der Text endet mit einer Atmosphäre des Unbehagens und der Unsicherheit, da The
 
 Es ist jedoch möglich, dass der Konflikt durch die Diskussion zwischen Sphodebarb und The Meow gelöst wird, indem sie ihre Perspektiven austauschen und ihre Gedanken und Gefühle teilen. Die Art und Weise, wie The Meow "silent power" besitzt und wie es Sphodebarb anspricht, könnte eine Art von spiritueller oder philosophischer Verbindung zwischen ihnen herstellen, die den Konflikt beendet.
 
-Insgesamt ist der Text jedoch mehr eine Geschichte oder ein Gedicht als eine narrative Erzählung, in der ein Konflikt gelöst wird.
+Insgesamt ist der Text jedoch mehr eine Geschichte oder ein Gedicht als eine narrative Erzählung, in der ein Konflikt gelöst wird. (305 T)
 
  | Run #6 Duration: 69,68 s
 
@@ -353,7 +353,7 @@ Yalp selbst bleibt zurück, um die neue Situation zu beobachten und zu schützen
 
 Yalp ist wichtig, weil er die Veränderung in der Welt vermittelt und die Möglichkeit bietet, dass sich die Dinge neu ordnen können. Er verkündet das "Finale" und lädt die Katze ein, sich an diese neue Realität anzupassen.
 
-Insgesamt scheint Yalp eine Art von Prophet oder Seher zu sein, der die Welt auf einen neuen Weg weist.
+Insgesamt scheint Yalp eine Art von Prophet oder Seher zu sein, der die Welt auf einen neuen Weg weist. (261 T)
 
  | Run #7 Duration: 58,78 s
 
@@ -402,7 +402,7 @@ Es wird jedoch deutlich, dass Sphodebarb und die Katze in einem rechtlichen Proz
 
 Es ist jedoch unklar, was genau Sphodebarb und die Katze entschieden haben, nachdem die Schleife gebrochen war. Es wird erwähnt, dass der Prozess beginnen soll, aber es gibt keine weiteren Informationen darüber, was passiert ist oder was die Entscheidung von Sphodebarb und der Katze sein könnte.
 
-Es ist jedoch möglich, dass die Entscheidung von Sphodebarb und der Katze darin besteht, den Prozess zu stoppen oder eine andere Lösung zu finden, um das Universum nicht zu zerstören.
+Es ist jedoch möglich, dass die Entscheidung von Sphodebarb und der Katze darin besteht, den Prozess zu stoppen oder eine andere Lösung zu finden, um das Universum nicht zu zerstören. (276 T)
 
  | Run #8 Duration: 58,65 s
 

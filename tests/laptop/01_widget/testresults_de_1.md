@@ -43,7 +43,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist – also ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel und dessen Gipfel in der Erde befestigt ist.
+Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist – also ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel und dessen Gipfel in der Erde befestigt ist. (68 T)
 
  | Run #1 Duration: 68,67 s
 
@@ -107,7 +107,7 @@ Die Antwort ist nicht explizit angegeben, aber es kann angenommen werden, dass S
 
 Es gibt jedoch einen Hinweis darauf, dass Sphodebarb ein "Beard" hatte, das "begann curling in protest". Es ist also möglich, dass Sphodebarb ein Symbol oder ein Objekt trug, das seine besondere Eigenschaft ausdrückte. Ein solches Objekt könnte jedoch nicht als Zauberstab angesehen werden.
 
-Insgesamt ist es schwierig, eine genaue Antwort zu geben, ohne weitere Informationen über die besondere Eigenschaft von Sphodebarbs "Gegenstand".
+Insgesamt ist es schwierig, eine genaue Antwort zu geben, ohne weitere Informationen über die besondere Eigenschaft von Sphodebarbs "Gegenstand". (269 T)
 
  | Run #2 Duration: 94,90 s
 
@@ -184,7 +184,7 @@ Grass smelled like beginnings.
 Wind carried no memory.
 
 ANSWER:
-Leider gibt es keine Informationen über die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" in diesem Text. Der Text beschreibt jedoch einige mythische Figuren und Konzepte, wie z.B. die "Absent Architects", den "Department of Explanations", die "Lint Between Universes" und andere, die möglicherweise Teil des "Ordens der Dreizehnschaligen Hypothese" sind, aber es gibt keine explizite Erwähnung von Mitgliedern oder einer Struktur.
+Leider gibt es keine Informationen über die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" in diesem Text. Der Text beschreibt jedoch einige mythische Figuren und Konzepte, wie z.B. die "Absent Architects", den "Department of Explanations", die "Lint Between Universes" und andere, die möglicherweise Teil des "Ordens der Dreizehnschaligen Hypothese" sind, aber es gibt keine explizite Erwähnung von Mitgliedern oder einer Struktur. (116 T)
 
  | Run #3 Duration: 66,37 s
 
@@ -235,7 +235,7 @@ In der Geschichte wird erwähnt, dass The Meow "seven centuries ago" aus dem Exi
 
 Es kann angenommen werden, dass The Meow seine endlose Existenz durch eine Art von Zeitreise oder Paradox erreicht hat, das es ermöglicht, aus dem Existieren wiederzukehren. Dies könnte aufgrund der mysteriösen und unerklärlichen Natur des Ereignisses geschehen sein.
 
-Es ist jedoch wichtig zu beachten, dass die Geschichte nicht explizit erklärt, wie The Meow seine endlose Existenz erreicht hat, und dass dies möglicherweise Teil des Mysteriums und der Unklarheit bleibt.
+Es ist jedoch wichtig zu beachten, dass die Geschichte nicht explizit erklärt, wie The Meow seine endlose Existenz erreicht hat, und dass dies möglicherweise Teil des Mysteriums und der Unklarheit bleibt. (235 T)
 
  | Run #4 Duration: 85,22 s
 
@@ -285,7 +285,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret".
+Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret". (27 T)
 
  | Run #5 Duration: 47,15 s
 
@@ -334,7 +334,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-Leider gibt es keine Informationen über die Lösung des Konflikts zwischen Sphodebarb und The Meow im bereitgestellten Text. Der Text beschreibt den Prozess, der zur Gerichtsverhandlung führt, aber es wird nicht explizit erwähnt, wie der Konflikt gelöst wurde.
+Leider gibt es keine Informationen über die Lösung des Konflikts zwischen Sphodebarb und The Meow im bereitgestellten Text. Der Text beschreibt den Prozess, der zur Gerichtsverhandlung führt, aber es wird nicht explizit erwähnt, wie der Konflikt gelöst wurde. (75 T)
 
  | Run #6 Duration: 61,57 s -5
 
@@ -425,7 +425,7 @@ Yalp ist wichtig, weil er die Möglichkeit bietet, eine Art von "Umwandlung" ode
 
 Yalp selbst bleibt in diesem Prozess zurück und scheint eine Art von Weisheit oder Erkenntnis zu besitzen, die es ihm ermöglicht, die Paradoxen zu lösen. Seine Worte und Handlungen haben einen tiefgreifenden Einfluss auf die Ereignisse, die sich abspielen.
 
-Insgesamt ist Yalp eine zentrale Figur in diesem Text, der die Möglichkeit bietet, über die Natur von Erinnerung, Identität und Existenz nachzudenken.
+Insgesamt ist Yalp eine zentrale Figur in diesem Text, der die Möglichkeit bietet, über die Natur von Erinnerung, Identität und Existenz nachzudenken. (318 T)
 
  | Run #7 Duration:?
 
@@ -491,7 +491,7 @@ He simply floated through unreality, where facts came unassembled and causality 
 Somewhere far above—or perhaps below—he could see the outline of a cat licking its paw.
 
 ANSWER:
-Leider gibt es keine spezifische Information darüber, wofür sich Sphodebarb und die Katze (Nink) entschieden haben, nachdem die Schleife gebrochen war. Die Texte beschreiben den Prozess einer Art von Gerichtsverfahren, bei dem Sphodebarb als Anwalt und die Katze als Angeklagte vorgeht, aber es gibt keine explizite Erwähnung eines Ereignisses oder einer Entscheidung, das nach der Bruch des Zyklus (Schleife) erfolgt.
+Leider gibt es keine spezifische Information darüber, wofür sich Sphodebarb und die Katze (Nink) entschieden haben, nachdem die Schleife gebrochen war. Die Texte beschreiben den Prozess einer Art von Gerichtsverfahren, bei dem Sphodebarb als Anwalt und die Katze als Angeklagte vorgeht, aber es gibt keine explizite Erwähnung eines Ereignisses oder einer Entscheidung, das nach der Bruch des Zyklus (Schleife) erfolgt. (125 T)
 
  | Run #8 Duration: 69,97 s
 

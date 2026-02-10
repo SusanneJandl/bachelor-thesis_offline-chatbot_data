@@ -53,7 +53,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that its mountainous base floats lazily in the sky, with its peak embedded in the ground, effectively making it an "inverted" mountain.
+The unusual feature that defines the geography of Velbrek is that its mountainous base floats lazily in the sky, with its peak embedded in the ground, effectively making it an "inverted" mountain. (42 T)
 
  | Run #1 Duration: 52,82 s
 
@@ -92,7 +92,7 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 ANSWER:
 Die Frage lautet: Was für ein Gegenstand trug Sphodebarb stattdessen als Zauberstab und was war sein einzigartiges Merkmal?
 
-Die Antwort lautet: Ein Pinzern, und sein einzigartiges Merkmal ist, dass es "in etwas softer than magic" (in etwas Weicheres als Magie) umhüllt wird, wenn es von der Welt erkannt wird.
+Die Antwort lautet: Ein Pinzern, und sein einzigartiges Merkmal ist, dass es "in etwas softer than magic" (in etwas Weicheres als Magie) umhüllt wird, wenn es von der Welt erkannt wird. (94 T)
 
  | Run #2 Duration: 43,62 s
 
@@ -131,7 +131,7 @@ From a distance, **Yalp**, the thirteenth tortoise, watched with the stern fondn
 Yalp blinked slowly. “It has no memory of before. The paradox was traded. Sphodebarb is nowhere and nothing. The Meow is mortal. A clean inversion.”
 
 ANSWER:
-The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of tortoises, each storing a unique facet of reality. There are twelve elder tortoises, one for each member of the order, and a thirteenth tortoise known as Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes.
+The members of the "Order of the Thirteen-Shelled Hypothesis" are a group of tortoises, each storing a unique facet of reality. There are twelve elder tortoises, one for each member of the order, and a thirteenth tortoise known as Yalp, who is disguised as a fern in the corner and has never been invited to speak but always votes. (81 T)
 
  | Run #3 Duration: 40,66 s
 
@@ -174,7 +174,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-The Meow gained endless life by drinking timeline ink left out by Sphodebarb, an accidental event that made it immortal and transformed it into a reluctant deity of persistence.
+The Meow gained endless life by drinking timeline ink left out by Sphodebarb, an accidental event that made it immortal and transformed it into a reluctant deity of persistence. (36 T)
 
  | Run #4 Duration: 32,32 s
 
@@ -224,7 +224,7 @@ Elsewhere, in a corner of the Hall of Crooked Clocks that did not exist last wee
 ### **6. Life and Death: Flexible Arrangements**
 
 ANSWER:
-Based on the provided information, I would say that the substance represented a version of death without finality is "Peach Regret".
+Based on the provided information, I would say that the substance represented a version of death without finality is "Peach Regret". (27 T)
 
  | Run #5 Duration: 31,17 s
 
@@ -272,7 +272,7 @@ The clock's sudden giggling and Eulipion's comment that time enjoys irony sugges
 
 Sphodebarb seems to be struggling with the implications of The Meow's words, particularly the idea that "End me, or I end you" suggests a kind of existential crisis or loop of causality. However, there is no clear resolution or outcome presented in this passage, leaving the reader wondering what will happen next.
 
-It appears that the conflict between Sphodebarb and The Meow is far from resolved, and the situation may be on the verge of becoming even more complex and absurd.
+It appears that the conflict between Sphodebarb and The Meow is far from resolved, and the situation may be on the verge of becoming even more complex and absurd. (217 T)
 
  | Run #6 Duration: 56,34 s
 
@@ -340,7 +340,7 @@ Yalp's subsequent instructions to Eulipion, another character, suggest that he h
 
 Throughout the passage, Yalp is depicted as a calm and collected individual who seems to be at ease with the unfolding events. His words are laced with wisdom and insight, suggesting that he possesses a unique perspective on the world.
 
-Overall, while Yalp's exact identity and motivations are not clear, his actions and words suggest that he is a powerful and enigmatic figure who plays a crucial role in shaping the narrative of this story.
+Overall, while Yalp's exact identity and motivations are not clear, his actions and words suggest that he is a powerful and enigmatic figure who plays a crucial role in shaping the narrative of this story. (263 T)
 
  | Run #7 Duration: 64,86 s
 
@@ -392,7 +392,7 @@ Only Yalp remained, watching the small cat who blinked at the sky like it had ne
 ANSWER:
 Die Frage lautet: Was Sphodebarb und Nink (die Katze) nach dem Loopenbruch auswählten.
 
-Die Antwort ist: Sie haben den Loopenbruch gewählt, um die Existenz zu beenden und in "non-Context" zu verschwinden.
+Die Antwort ist: Sie haben den Loopenbruch gewählt, um die Existenz zu beenden und in "non-Context" zu verschwinden. (63 T)
 
  | Run #8 Duration: 39,26 s
 

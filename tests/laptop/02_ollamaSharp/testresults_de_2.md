@@ -42,7 +42,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg mit einer nach unten weisenden Spitze, dessen Basis im Himmel schwimmt und dessen Gravitation nicht wie auf der Erde funktioniert.
+ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg mit einer nach unten weisenden Spitze, dessen Basis im Himmel schwimmt und dessen Gravitation nicht wie auf der Erde funktioniert. (73 T)
 
 
 TIMINGS: 
@@ -104,7 +104,7 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 
 ANSWER: Die Frage lautet: Welchen Gegenstand trug Sphodebarb anstelle eines Zauberstabes und was war seine besondere Eigenschaft?
 
-Die Antwort ist nicht direkt im Text genannt, aber es kann angenommen werden, dass Sphodebarbs "beard" eine besondere Eigenschaft hat. Sein Bart beginnt zu curlen in Protest, wenn er sich bewegt.
+Die Antwort ist nicht direkt im Text genannt, aber es kann angenommen werden, dass Sphodebarbs "beard" eine besondere Eigenschaft hat. Sein Bart beginnt zu curlen in Protest, wenn er sich bewegt. (86 T)
 
 
 TIMINGS: 
@@ -185,7 +185,7 @@ ANSWER: Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht e
 
 *   **Yalp**: Ein Thirzehn-Schalen-Tortus, der als einer der Mitglieder oder Wächter des Ordens dient.
 *   **Eulipion**: Ein weiterer Mitglied des Ordes und ein Freund von Yalp.
-*   **Sphodebarb**: Ein Meister der Hypothese, aber er ist in diesem Text nicht direkt als Mitglied des Ordes zu sehen.
+*   **Sphodebarb**: Ein Meister der Hypothese, aber er ist in diesem Text nicht direkt als Mitglied des Ordes zu sehen. (151 T)
 
 
 TIMINGS: 
@@ -230,7 +230,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: Es wird nicht explizit im Text erwähnt, wie The Meow endloses Leben erlangt hat. Der Text konzentriert sich jedoch auf die Rückkehr von The Meow nach dem Ende von sieben Jahren Krieg gegen Ursache und Wirkung (causa et effectus). Die Rückkehr des Meows ist ein mysteriöser Prozess, der nicht vollständig erklärt wird. Es wird jedoch angedeutet, dass The Meow möglicherweise durch seine Gegenwart die Gesetze von Raum und Zeit verändert hat oder auf eine Art und Weise existieren kann, die über das menschliche Verständnis hinausgeht.
+ANSWER: Es wird nicht explizit im Text erwähnt, wie The Meow endloses Leben erlangt hat. Der Text konzentriert sich jedoch auf die Rückkehr von The Meow nach dem Ende von sieben Jahren Krieg gegen Ursache und Wirkung (causa et effectus). Die Rückkehr des Meows ist ein mysteriöser Prozess, der nicht vollständig erklärt wird. Es wird jedoch angedeutet, dass The Meow möglicherweise durch seine Gegenwart die Gesetze von Raum und Zeit verändert hat oder auf eine Art und Weise existieren kann, die über das menschliche Verständnis hinausgeht. (147 T)
 
 
 TIMINGS: 
@@ -282,7 +282,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret".
+ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellte, war "Peach Regret". (27 T)
 
 
 TIMINGS: 
@@ -333,7 +333,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Ich konnte nicht finden, dass der Konflikt zwischen Sphodebarb und The Meow gelöst wurde. Der Text endet mit einer unklaren Aussage: "The Meow... I am here to end forever." Es scheint, als ob die Lösung des Konflikts oder das Ergebnis der Interaktion zwischen Sphodebarb und The Meow nicht klar ist.
+ANSWER: Ich konnte nicht finden, dass der Konflikt zwischen Sphodebarb und The Meow gelöst wurde. Der Text endet mit einer unklaren Aussage: "The Meow... I am here to end forever." Es scheint, als ob die Lösung des Konflikts oder das Ergebnis der Interaktion zwischen Sphodebarb und The Meow nicht klar ist. (84 T)
 
 
 TIMINGS: 
@@ -424,7 +424,7 @@ Yalps Bemerkung „You are no longer bound to always. You are not The Meow“ de
 
 Yalps Idee, den Katzen zu ermöglichen, das Erlebnis von Sterben und Neubeginn zu erleben, indem sie ihre Identitäten austauschen, ist ein zentrales Element des Textes. Yalp selbst ist jedoch nicht in diesem Prozess involviert und bleibt ein Observator der Ereignisse.
 
-Insgesamt wirft der Text viele Fragen auf und offenbart keine klaren Antworten. Es scheint sich um eine Art von philosophischer oder mystischer Erzählung zu handeln, die eher nachdenklich als unterhaltsam ist. Yalp bleibt jedoch eine zentrale Figur in dieser Erzählung und scheint eine wichtige Rolle bei der Lösung des Rätsels zu spielen.
+Insgesamt wirft der Text viele Fragen auf und offenbart keine klaren Antworten. Es scheint sich um eine Art von philosophischer oder mystischer Erzählung zu handeln, die eher nachdenklich als unterhaltsam ist. Yalp bleibt jedoch eine zentrale Figur in dieser Erzählung und scheint eine wichtige Rolle bei der Lösung des Rätsels zu spielen. (328 T)
 
 
 TIMINGS: 
@@ -494,7 +494,7 @@ Somewhere far above—or perhaps below—he could see the outline of a cat licki
 
 ANSWER: Die Frage lautet "Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife gebrochen war?".
 
-Leider ist die angegebene Textpassage nicht ausreichend, um eine direkte Antwort zu geben. Der Text beschreibt jedoch einen Prozess des Rechtstreits zwischen Sphodebarb und der Katze Nink in einem ungewöhnlichen Gerichtssystem, das von tortoisen Botschaften und einer Magierin mit einer einzigen Augenmarke angeführt wird.
+Leider ist die angegebene Textpassage nicht ausreichend, um eine direkte Antwort zu geben. Der Text beschreibt jedoch einen Prozess des Rechtstreits zwischen Sphodebarb und der Katze Nink in einem ungewöhnlichen Gerichtssystem, das von tortoisen Botschaften und einer Magierin mit einer einzigen Augenmarke angeführt wird. (125 T)
 
 
 TIMINGS: 

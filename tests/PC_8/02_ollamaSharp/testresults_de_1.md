@@ -54,7 +54,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 
-ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es "ein Inversionsberg" ist - d.h. der Berg selbst ist auf den Kopf gestellt und seine Basis schwimmt in der Luft. Sein Gipfel befindet sich im Boden, während die Schwerkraft hier ungewöhnliche Verträge aushandelt.
+ANSWER: Die ungewöhnliche Eigenschaft, die die Geografie von Velbrek definiert, ist, dass es "ein Inversionsberg" ist - d.h. der Berg selbst ist auf den Kopf gestellt und seine Basis schwimmt in der Luft. Sein Gipfel befindet sich im Boden, während die Schwerkraft hier ungewöhnliche Verträge aushandelt. (88 T)
 
 
 TIMINGS: 
@@ -114,7 +114,7 @@ The courtroom had been constructed overnight by a committee of sentient scaffold
 Sphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.
 
 
-ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabs trug. Der Text beschreibt ihn jedoch als einen "bearded" Charakter, der sich in einer unbekannten Umgebung befindet und Humming macht, ohne zu wissen, was das ist. Es gibt keine explizite Erwähnung eines Zauberstabes oder ähnlicher Art von Gegenständen, die er trägt.
+ANSWER: Es ist nicht klar, welchen Gegenstand Sphodebarb anstelle eines Zauberstabs trug. Der Text beschreibt ihn jedoch als einen "bearded" Charakter, der sich in einer unbekannten Umgebung befindet und Humming macht, ohne zu wissen, was das ist. Es gibt keine explizite Erwähnung eines Zauberstabes oder ähnlicher Art von Gegenständen, die er trägt. (98 T)
 
 
 TIMINGS: 
@@ -130,7 +130,7 @@ QUESTION:
 CONTEXT: Keine zusätzlichen Informationen verfügbar.
 
 
-ANSWER: Es scheint, als ob keine spezifischen Informationen für eine Antwort verfügbar sind. Könnten Sie bitte mehr Kontext oder Details bereitstellen?
+ANSWER: Es scheint, als ob keine spezifischen Informationen für eine Antwort verfügbar sind. Könnten Sie bitte mehr Kontext oder Details bereitstellen? (34 T)
 
 
 TIMINGS: 
@@ -207,7 +207,7 @@ Behind them, the Weeping Chair Tree began to laugh—a high, brittle sound, like
 “Eulipion!” Yalp barked. “Contain the paradox field!”
 
 
-ANSWER: Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht explizit in diesem Text genannt, aber auf Grund der Erwähnung der Tortoisen Yalp und Eulipion sowie der Weeping Chair Tree kann man annehmen, dass diese drei Charaktere Teil dieses Ordens sind.
+ANSWER: Die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" sind nicht explizit in diesem Text genannt, aber auf Grund der Erwähnung der Tortoisen Yalp und Eulipion sowie der Weeping Chair Tree kann man annehmen, dass diese drei Charaktere Teil dieses Ordens sind. (72 T)
 
 
 TIMINGS: 
@@ -266,7 +266,7 @@ There are many resources available to help you, including:
 
 4. Local mental health resources and emergency services
 
-Please do reach out for help. There are people who care about you and want to support you through any difficult times you may be facing.
+Please do reach out for help. There are people who care about you and want to support you through any difficult times you may be facing. (168 T)
 
 
 TIMINGS: 
@@ -282,7 +282,7 @@ QUESTION:
 CONTEXT: Keine zusätzlichen Informationen verfügbar.
 
 
-ANSWER: Es scheint, als ob es keine spezifischen Fragen gibt, über die ich Antwort geben kann. Könnten Sie bitte eine Frage art und umfang bereitstellen? Ich werde mein Bestes tun, um Ihnen eine hilfreiche Antwort zu geben.
+ANSWER: Es scheint, als ob es keine spezifischen Fragen gibt, über die ich Antwort geben kann. Könnten Sie bitte eine Frage art und umfang bereitstellen? Ich werde mein Bestes tun, um Ihnen eine hilfreiche Antwort zu geben. (54 T)
 
 
 TIMINGS: 
@@ -327,7 +327,7 @@ Sphodebarb narrowed his eyes. “And what does that have to do with me?”
 The Meow purred—a low, resonant sound that turned clouds into fish. Another thought bloomed in Sphodebarb’s mind:
 
 
-ANSWER: Ich konnte nicht finden genug Informationen über "The Meow" oder sein Endloses Leben.
+ANSWER: Ich konnte nicht finden genug Informationen über "The Meow" oder sein Endloses Leben. (19 T)
 
 
 TIMINGS: 
@@ -379,7 +379,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret". Es simulierte den Tod, aber es gab keine ewige Ruhe oder Abschluss. Stattdessen wurde es oft an philosophischen Frühstücken serviert.
+ANSWER: Die Substanz, die einen Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret". Es simulierte den Tod, aber es gab keine ewige Ruhe oder Abschluss. Stattdessen wurde es oft an philosophischen Frühstücken serviert. (62 T)
 
 
 TIMINGS: 
@@ -430,7 +430,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 
-ANSWER: Es gibt keine Lösung für den Konflikt zwischen Sphodebarb und The Meow, da die Geschichte noch nicht zu einem Abschluss kommt. Der Prozess ist gerade erst begonnen, und es ist unklar, wie der Konflikt beigelegt werden soll.
+ANSWER: Es gibt keine Lösung für den Konflikt zwischen Sphodebarb und The Meow, da die Geschichte noch nicht zu einem Abschluss kommt. Der Prozess ist gerade erst begonnen, und es ist unklar, wie der Konflikt beigelegt werden soll. (61 T)
 
 
 TIMINGS: 
@@ -521,7 +521,7 @@ Yalp ist eine Figur, die in einer mysteriösen Welt lebt. Er ist ein alter, weis
 
 Yalp ist wichtig, weil er den Menschen und die Tiere in dieser Welt hilft, durch eine komplexe Situation zu navigieren. Er bietet Lösungen und Anregungen, um Probleme zu lösen und das Gleichgewicht in diesem unheimlichen Universum aufrechtzuerhalten.
 
-Im Text wird Yalp als ein cleverer und weiser Charakter beschrieben, der die Paradoxen und Widersprüche in dieser Welt versteht. Er ist es, der die Menschen und Tiere beratet, wie sie mit diesen Problemen umgehen sollen.
+Im Text wird Yalp als ein cleverer und weiser Charakter beschrieben, der die Paradoxen und Widersprüche in dieser Welt versteht. Er ist es, der die Menschen und Tiere beratet, wie sie mit diesen Problemen umgehen sollen. (189 T)
 
 
 TIMINGS: 
@@ -593,7 +593,7 @@ ANSWER: Leider ist die Frage nicht klar genug gestellt, um eine direkte Antwort 
 
 Wenn man jedoch versucht, das Geschehen im Kontext des Trials zwischen Sphodebarb und Nink (der Katze) zu verstehen, kann man sagen, dass sich die beiden nach dem Bruch der Schleife entschieden, den Trial fortzusetzen. Der Meow möchte endgültig aussteigen, aber Sphodebarb möchte es nicht tun, da er das Gefühl hat, dass der Meow ihn in einen "Knoten" verwandeln will, den er zu unternommen haben sollte.
 
-Es ist jedoch wichtig zu beachten, dass die Geschichte sehr komplex und vielschichtig ist und dass die Motivationen der Charaktere nicht immer klar sind. Es ist auch möglich, dass die Frage einfach ein Teil einer größeren Geschichte ist, die noch nicht vollständig erzählt wurde.
+Es ist jedoch wichtig zu beachten, dass die Geschichte sehr komplex und vielschichtig ist und dass die Motivationen der Charaktere nicht immer klar sind. Es ist auch möglich, dass die Frage einfach ein Teil einer größeren Geschichte ist, die noch nicht vollständig erzählt wurde. (227 T)
 
 
 TIMINGS: 

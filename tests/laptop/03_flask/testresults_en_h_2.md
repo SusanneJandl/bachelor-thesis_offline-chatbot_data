@@ -13,7 +13,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its jagged base floating in the sky and its peak embedded in the ground. This is described as "not on a mountain" but rather "a mountain — but upside-down."
+    The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its jagged base floating in the sky and its peak embedded in the ground. This is described as "not on a mountain" but rather "a mountain — but upside-down." (59 T)
 TIMINGS:
 CONTEXT = 0.09 s | ANSWER EN = 40.87 s (llama3.2:3b) | TOTAL: 41,06 s
 
@@ -36,7 +36,7 @@ HISTORY:
     ['\nYou: What unusual feature defines the geography of Velbrek?\r\n\n', 'Bot: The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its jagged base floating in the sky and its peak embedded in the ground. This is described as "not on a mountain" but rather "a mountain — but upside-down."']
 
 ENGLISH ANSWER:
-    The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. The unique trait of this spoon was not to spread jam, but to summon the wizard's thoughts from his subconscious during sleep.
+    The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. The unique trait of this spoon was not to spread jam, but to summon the wizard's thoughts from his subconscious during sleep. (46 T)
 TIMINGS:
 CONTEXT = 0.06 s | ANSWER EN = 47.65 s (llama3.2:3b) | TOTAL: 47,72 s
 
@@ -59,7 +59,7 @@ HISTORY:
     ['\nYou: What unusual feature defines the geography of Velbrek?\r\n\n', 'Bot: The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its jagged base floating in the sky and its peak embedded in the ground. This is described as "not on a mountain" but rather "a mountain — but upside-down."', '\nYou: What item did Sphodebarb carry instead of a wizard’s staff, and what was its unique trait?\r\n\n', "Bot: The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. The unique trait of this spoon was not to spread jam, but to summon the wizard's thoughts from his subconscious during sleep."]
 
 ENGLISH ANSWER:
-    The members of the "Order of the Thirteen-Shelled Hypothesis" are twelve elder tortoises, each storing a unique facet of reality. There are also thirteen total, with the thirteenth being disguised as a fern in the corner and known only as Yalp, who has never been invited to speak but always votes.
+    The members of the "Order of the Thirteen-Shelled Hypothesis" are twelve elder tortoises, each storing a unique facet of reality. There are also thirteen total, with the thirteenth being disguised as a fern in the corner and known only as Yalp, who has never been invited to speak but always votes. (69 T)
 TIMINGS:
 CONTEXT = 0.06 s | ANSWER EN = 55.92 s (llama3.2:3b) | TOTAL: 55,98 s
 
@@ -82,7 +82,7 @@ HISTORY:
     ['\nYou: What item did Sphodebarb carry instead of a wizard’s staff, and what was its unique trait?\r\n\n', "Bot: The item that Sphodebarb carried instead of a wizard's staff was an emergency jam spoon. The unique trait of this spoon was not to spread jam, but to summon the wizard's thoughts from his subconscious during sleep.", '\nYou: Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?\r\n\n', 'Bot: The members of the "Order of the Thirteen-Shelled Hypothesis" are twelve elder tortoises, each storing a unique facet of reality. There are also thirteen total, with the thirteenth being disguised as a fern in the corner and known only as Yalp, who has never been invited to speak but always votes.']
 
 ENGLISH ANSWER:
-    The Meow gained endless life through its infusing with the collective fears and brewing of time into jars by Sphodebarb, a wizard who had attempted to prevent death and manipulate time itself. The Meow's transformation was not due to any natural or biological process, but rather as a result of Sphodebarb's actions, which fed the tortoises with the infused time, allowing them to share this essence and thus making the Meow "infused" with endless life.
+    The Meow gained endless life through its infusing with the collective fears and brewing of time into jars by Sphodebarb, a wizard who had attempted to prevent death and manipulate time itself. The Meow's transformation was not due to any natural or biological process, but rather as a result of Sphodebarb's actions, which fed the tortoises with the infused time, allowing them to share this essence and thus making the Meow "infused" with endless life. (100 T)
 TIMINGS:
 CONTEXT = 0.05 s | ANSWER EN = 60.74 s (llama3.2:3b) | TOTAL: 60,80 s
 
@@ -105,7 +105,7 @@ HISTORY:
     ['\nYou: How did The Meow gain endless life?\r\n\n', 'Bot: The Meow gained endless life through its infusing with the collective fears and brewing of time into jars by Sphodebarb, a wizard who had attempted to prevent death and manipulate time itself. The Meow\'s transformation was not due to any natural or biological process, but rather as a result of Sphodebarb\'s actions, which fed the tortoises with the infused time, allowing them to share this essence and thus making the Meow "infused" with endless life.', '\nYou: What did Sphodebarb trade to become semi-immortal?\r\n\n', 'Bot: Unfortunately, there is no information provided about what Sphodebarb traded to become semi-immortal in this text. The story appears to be continuing from a previous conversation and doesn\'t provide any details on how Sphodebarb became immortal or semi-immortal. \n\nHowever, we do know that Sphodebarb used his knowledge of the "Order of the Thirteen-Shelled Hypothesis" and brewed time jars to give the Meow endless life.']
 
 ENGLISH ANSWER:
-    Peach Regret is a substance that simulates death without finality, often served at philosophical brunches.
+    Peach Regret is a substance that simulates death without finality, often served at philosophical brunches. (22 T)
 TIMINGS:
 CONTEXT = 0.06 s | ANSWER EN = 55.50 s (llama3.2:3b) | TOTAL: 55,56 s
 
@@ -130,7 +130,7 @@ HISTORY:
 ENGLISH ANSWER:
     Unfortunately, I don't have any information on how the conflict between Sphodebarb and The Meow was resolved. However, it appears that their disagreement led to a confrontation where The Meow threatened to end its own existence if Sphodebarb did not dissolve the knot of time that had been created. The Meow's statement suggests that Sphodebarb's actions were unsustainable and had caused a paradox that needed to be resolved.
 
-It is also worth noting that Grundle, a suspicious figure, appeared to object to The Meow's plan, suggesting that it was seeking paradox for its own sake rather than as a means of ending itself. However, the conversation ends abruptly without resolving the conflict or clarifying the outcome of their discussion.
+It is also worth noting that Grundle, a suspicious figure, appeared to object to The Meow's plan, suggesting that it was seeking paradox for its own sake rather than as a means of ending itself. However, the conversation ends abruptly without resolving the conflict or clarifying the outcome of their discussion. (152 T)
 TIMINGS:
 CONTEXT = 0.03 s | ANSWER EN = 64.93 s (llama3.2:3b) | TOTAL: 64,96 s
 
@@ -161,7 +161,7 @@ This statement also held significance for Nink, who had been searching for her l
 
 Yalp's actions helped to reset the universe, allowing Sphodebarb to rediscover himself and find a new sense of purpose. He transformed from an exhausted wizard into someone lighter and more hopeful, with his beard trimmed with stardust and his robes carrying the smell of new beginnings.
 
-In essence, Yalp was important because he facilitated a transformation in both Sphodebarb and Nink, allowing them to break free from their predetermined paths and discover new identities. His actions brought about a sense of wonder and lightness to the story, as reality itself began to repair and heal.
+In essence, Yalp was important because he facilitated a transformation in both Sphodebarb and Nink, allowing them to break free from their predetermined paths and discover new identities. His actions brought about a sense of wonder and lightness to the story, as reality itself began to repair and heal. (311 T)
 TIMINGS:
 CONTEXT = 0.05 s | ANSWER EN = 87.51 s (llama3.2:3b) | TOTAL: 87,56 s
 
@@ -188,7 +188,7 @@ ENGLISH ANSWER:
 
 Yalp, the character who had played a crucial role in resolving the conflict and paradox created by Sphodebarb's actions, suggested that they observe, protect, and perhaps name the new reality. He also offered the phrase "Welcome to finitude" to Nink, implying that she was now part of a world with finite boundaries.
 
-In essence, Sphodebarb and Nink chose to move forward into a new reality where Sphodebarb could rediscover himself as someone lighter and more hopeful, with his beard trimmed with stardust and his robes carrying the smell of new beginnings.
+In essence, Sphodebarb and Nink chose to move forward into a new reality where Sphodebarb could rediscover himself as someone lighter and more hopeful, with his beard trimmed with stardust and his robes carrying the smell of new beginnings. (204 T)
 TIMINGS:
 CONTEXT = 0.05 s | ANSWER EN = 94.36 s (llama3.2:3b) | TOTAL: 94,42 s
 

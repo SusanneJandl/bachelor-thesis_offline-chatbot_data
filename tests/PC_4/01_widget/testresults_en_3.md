@@ -53,7 +53,7 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its base floating in the sky and its peak embedded in the ground.
+The unusual feature that defines the geography of Velbrek is that it is a mountain that is upside-down, with its base floating in the sky and its peak embedded in the ground. (37 T)
 
  | Run #1 Duration: 96,32 s
 
@@ -90,7 +90,7 @@ The courtroom had been constructed overnight by a committee of sentient scaffold
 Sphodebarb stood in the center, on a platform made from compressed hesitation. The Meow lay beside him, licking its shoulder like nothing could ever be important enough to matter.
 
 ANSWER:
-The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it was used to summon his thoughts from where they wandered during sleep, rather than spreading jam.
+The item Sphodebarb carried instead of a wizard's staff was an "emergency jam spoon". Its unique trait is that it was used to summon his thoughts from where they wandered during sleep, rather than spreading jam. (45 T)
 
  | Run #2 Duration: 131,17 s
 
@@ -139,7 +139,7 @@ Specifically mentioned are:
 2. Yalp, the 13th and mysterious tortoise who is disguised as a fern but has always voted without being invited to speak.
 3. Eulipion, another tortoise standing beside Yalp.
 
-These tortoises are part of the enigmatic "Order of the Thirteen-Shelled Hypothesis", which seems to be involved in maintaining the fabric of reality and navigating complex philosophical concepts.
+These tortoises are part of the enigmatic "Order of the Thirteen-Shelled Hypothesis", which seems to be involved in maintaining the fabric of reality and navigating complex philosophical concepts. (167 T)
 
  | Run #3 Duration: 103,44 s
 
@@ -182,7 +182,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-Unfortunately, there is no information provided about how The Meow gained endless life. According to the text, it was accidentally made immortal when it drank timeline ink left out by Sphodebarb, but this is not explained in detail.
+Unfortunately, there is no information provided about how The Meow gained endless life. According to the text, it was accidentally made immortal when it drank timeline ink left out by Sphodebarb, but this is not explained in detail. (48 T)
 
  | Run #4 Duration: 74,70 s
 
@@ -232,7 +232,7 @@ Elsewhere, in a corner of the Hall of Crooked Clocks that did not exist last wee
 ### **6. Life and Death: Flexible Arrangements**
 
 ANSWER:
-Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality.
+Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality. (29 T)
 
  | Run #5 Duration: 79,91 s
 
@@ -282,7 +282,7 @@ Sphodebarb seems to be struggling to understand the implications of The Meow's w
 
 The only apparent resolution is Grundle's attempt to stop The Meow from manipulating the symbolic field, but this seems to be having little effect. Instead, The Meow's final thought has burned into Sphodebarb's brain, leaving him with a sense of desperation and uncertainty.
 
-Overall, it appears that the conflict between Sphodebarb and The Meow is far from resolved, and the situation may be spiraling out of control.
+Overall, it appears that the conflict between Sphodebarb and The Meow is far from resolved, and the situation may be spiraling out of control. (244 T)
 
  | Run #6 Duration: 148,92 s
 
@@ -352,7 +352,7 @@ Yalp's actions also triggered a chain reaction of events, including the Weeping 
 
 Furthermore, Yalp seems to be a guide or mentor, helping the cat (formerly "The Meow") navigate its newfound finitude. He encourages the cat to observe, protect, and perhaps name itself, suggesting that Yalp is trying to help the cat find its place in this new reality.
 
-Overall, while Yalp's importance is not explicitly stated, his actions have a profound impact on the world, allowing for a shift from infinite paradoxes to finite reality.
+Overall, while Yalp's importance is not explicitly stated, his actions have a profound impact on the world, allowing for a shift from infinite paradoxes to finite reality. 275 T
 
  | Run #7 Duration: 119,06 s
 
@@ -404,7 +404,7 @@ Only Yalp remained, watching the small cat who blinked at the sky like it had ne
 ANSWER:
 Die Frage lautet: "Was Sphodebarb und Nink (die Katze) nach dem Loopenbruch auswählten?"
 
-Die Antwort ist: Sie haben sich entschieden, den Loop zu beenden. Die Katze, die ursprünglich als "The Meow" bekannt war, hat ihre Identität zurückgewonnen und steht jetzt einfach nur als eine kleine, verwirrte Katze da, die das Himmellicht betrachtet, als ob sie es noch nie gesehen hätte.
+Die Antwort ist: Sie haben sich entschieden, den Loop zu beenden. Die Katze, die ursprünglich als "The Meow" bekannt war, hat ihre Identität zurückgewonnen und steht jetzt einfach nur als eine kleine, verwirrte Katze da, die das Himmellicht betrachtet, als ob sie es noch nie gesehen hätte. (110 T)
 
  | Run #8 Duration: 136,21 s
 

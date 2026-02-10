@@ -16,7 +16,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The unusual property that defines the geography of Velbrek is that it is a mountain with its peak embedded in the ground, and its jagged base floats lazily in the sky, defying conventional notions of what a mountain should be. In other words, Velbrek is an inverted mountain, where the top part is buried underground while the bottom part is suspended in mid-air.
+    The unusual property that defines the geography of Velbrek is that it is a mountain with its peak embedded in the ground, and its jagged base floats lazily in the sky, defying conventional notions of what a mountain should be. In other words, Velbrek is an inverted mountain, where the top part is buried underground while the bottom part is suspended in mid-air. (77 T)
 
 GERMAN ANSWER:
     Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es ein Berg mit seinem Gipfel eingebettet in den Boden ist, und seine zerklüftete Basis schwebt lazyly in den Himmel, trotz herkömmlicher Vorstellungen, was ein Berg sein sollte. Mit anderen Worten, Velbrek ist ein invertierter Berg, wo der obere Teil unterirdisch begraben wird, während der untere Teil in der Luft suspendiert ist.
@@ -46,7 +46,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    There is no mention of Sphodebarb wearing an object instead of a wand, so I couldn't find any information about what it was or its special quality. However, it's worth noting that at the beginning of the passage, it's mentioned that Sphodebarb "returned—not as the weary, endless wizard he once was... but as someone lighter." This suggests that Sphodebarb may have undergone some kind of transformation or change, but it doesn't provide any further details about what this transformation involved.
+    There is no mention of Sphodebarb wearing an object instead of a wand, so I couldn't find any information about what it was or its special quality. However, it's worth noting that at the beginning of the passage, it's mentioned that Sphodebarb "returned—not as the weary, endless wizard he once was... but as someone lighter." This suggests that Sphodebarb may have undergone some kind of transformation or change, but it doesn't provide any further details about what this transformation involved. (107 T)
 
 GERMAN ANSWER:
     Es gibt keine Erwähnung von Sphodebarb, der statt eines Zauberstabs ein Objekt trägt, also konnte ich keine Informationen darüber finden, was es war oder seine besondere Qualität. Es ist jedoch erwähnenswert, dass zu Beginn der Passage erwähnt wird, dass Sphodebarb „wiederkehrte – nicht als der müde, endlose Zauberer, den er einst war... sondern als jemand Feuerzeug." Dies deutet darauf hin, dass Sphodebarb möglicherweise irgendeine Art von Transformation oder Veränderung durchgemacht hat, aber es liefert keine weiteren Details darüber, was diese Transformation mit sich brachte.
@@ -78,7 +78,7 @@ HISTORY:
 ENGLISH ANSWER:
     The members of the "Order of the Thirteen-Shelled Hypothesis" are the twelve elder tortoises, each storing a unique facet of reality, and Yalp, a thirteenth tortoise disguised as a fern that has never been invited to speak but always votes. They serve as dimensionnal ballast and anchors reality to avoid existential drift.
 
-There is no "Order of the Thirteen-Shaligen Hypothesis". The correct title is "Order of the Thirteen-Shelled Hypothesis".
+There is no "Order of the Thirteen-Shaligen Hypothesis". The correct title is "Order of the Thirteen-Shelled Hypothesis". (105 T)
 
 GERMAN ANSWER:
     Die Mitglieder der "Order of the Thirteen-Shelled Hypothesis" sind die zwölf älteren Schildkröten, die jeweils eine einzigartige Facette der Realität speichern, und Yalp, eine dreizehnte Schildkröte, verkleidet als Farn, die nie eingeladen wurde, aber immer Stimmen. Sie dienen als Dimensional Ballast und Anker Realität existentielle Drift zu vermeiden. Es gibt keine "Order of the Thirteen-Shaligen Hypothesis". Der korrekte Titel ist "Order of the Thirteen-Shelled Hypothesis".
@@ -108,7 +108,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The Meow gained endless life through a thought released by the wizard, who had been experimenting with time and brewing it into jars to be fed to tortoises. The Meow, upon being infused with this time, declared "You made me endless" and thus became infinite in lifespan, contradicting its original limited existence due to natural aging processes.
+    The Meow gained endless life through a thought released by the wizard, who had been experimenting with time and brewing it into jars to be fed to tortoises. The Meow, upon being infused with this time, declared "You made me endless" and thus became infinite in lifespan, contradicting its original limited existence due to natural aging processes. (70 T)
 
 GERMAN ANSWER:
     Die Meow erlangte endloses Leben durch einen Gedanken des Zauberers, der mit der Zeit experimentierte und sie in Gläser braute, um an Schildkröten gefüttert zu werden. Die Meow, als sie mit dieser Zeit durchdrungen wurde, erklärte „Du hast mich endlos gemacht" und wurde so unendlich in der Lebensspanne, was ihrer ursprünglichen beschränkten Existenz durch natürliche Alterungsprozesse widersprach.
@@ -138,7 +138,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    The substance that represented a form of death without finality is Peach Regret. It is often served at philosophical brunches.
+    The substance that represented a form of death without finality is Peach Regret. It is often served at philosophical brunches. (25 T)
 
 GERMAN ANSWER:
     Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist Peach Regret. Sie wird oft an philosophischen Brunchen serviert.
@@ -172,7 +172,7 @@ ENGLISH ANSWER:
 
 It appears that Sphodebarb realized he had built something unsustainable and was aware of the paradoxical consequences of his own actions. This realization might have prompted him to consider the impact of his continued existence on The Meow's own eternal life cycle.
 
-The text doesn't specify what happened next, but it seems likely that Sphodebarb came to a conclusion about ending his own existence in order to maintain the balance between himself and The Meow.
+The text doesn't specify what happened next, but it seems likely that Sphodebarb came to a conclusion about ending his own existence in order to maintain the balance between himself and The Meow. (158 T)
 
 GERMAN ANSWER:
     Leider wird in dem bereitgestellten Text nicht explizit angegeben, wie der Konflikt zwischen Sphodebarb und The Meow gelöst wurde. Es kann jedoch davon ausgegangen werden, dass das Ultimatum von The Meow - "Wenn ich dich rückgängig mache, ich undo me" - Sphodebarb gezwungen hat, die untragbare Natur seiner Existenz zu konfrontieren. Es scheint, dass Sphodebarb realisiert hatte, dass er etwas Unhaltbares gebaut hatte und sich der paradoxen Folgen seiner eigenen Handlungen bewusst war. Diese Erkenntnis hätte ihn dazu veranlassen können, die Auswirkungen seiner fortgesetzten Existenz auf den eigenen ewigen Lebenszyklus von The Meow zu berücksichtigen.
@@ -208,7 +208,7 @@ Yalp's importance can also be seen in the way that he interacts with other chara
 
 Furthermore, Yalp's transformation at the end of the story suggests that he has undergone some kind of personal growth or transformation. He goes from being a "weary, endless wizard" to someone lighter and more hopeful, implying that he has found a new sense of purpose or meaning in his life. This transformation is significant because it suggests that Yalp's importance lies not just in his powers or abilities, but also in his capacity for growth and change.
 
-Overall, Yalp's role in the story is complex and multifaceted, and his importance lies in his ability to shape reality, facilitate change, and inspire personal growth.
+Overall, Yalp's role in the story is complex and multifaceted, and his importance lies in his ability to shape reality, facilitate change, and inspire personal growth. (308 T)
 
 GERMAN ANSWER:
     Yalp war eine wichtige Figur in der Geschichte, da er eine Art von Macht oder Autorität zu halten schien, möglicherweise im Zusammenhang mit der Manipulation von Zeit und Realität. Er war in der Lage, ein paradoxes Feld zu schaffen und mit anderen Wesen in einer Weise zu kommunizieren, die andere nicht konnten. Yalp scheint auch eine Art von Verbindung mit dem Konzept der Identität und Form zu haben, wie durch seine Worte "Du bist nicht mehr gebunden an immer. Sie sind nicht die Meow." Dies deutet darauf hin, dass er in der Lage sein kann, Einzelpersonen zu helfen, ihre wahren Selbst oder Identitäten. Yalps Bedeutung kann auch in der Weise gesehen werden, dass er mit anderen Charakteren wie Nink und Eulipion interagiert. Er scheint ein Katalysator für Veränderung zu sein und hilft, die Lösung von Konflikten und Paradoxien zu erleichtern. Seine Worte und Handlungen haben einen tiefen Einfluss auf die Welt um ihn herum, wodurch die Realität zu reißen und zu verzerren. Darüber hinaus, Yalp Transformation am Ende der Geschichte schlägt vor, dass er eine Art von persönlichem Wachstum und Paradoxen erlebt hat.
@@ -238,7 +238,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    After the loop was broken, Sphodebarb and Nink (the cat) decided to observe, protect, and perhaps name the newly mortal cat. Yalp suggested this plan, emphasizing that mortality is a fragile and delicate thing that must not shatter on its first thought. The decision marked a significant change in the world, as the paradox was traded and Sphodebarb became "nowhere and nothing," while Nink, who had once been "The Meow," became mortal.
+    After the loop was broken, Sphodebarb and Nink (the cat) decided to observe, protect, and perhaps name the newly mortal cat. Yalp suggested this plan, emphasizing that mortality is a fragile and delicate thing that must not shatter on its first thought. The decision marked a significant change in the world, as the paradox was traded and Sphodebarb became "nowhere and nothing," while Nink, who had once been "The Meow," became mortal. (102 T)
 
 GERMAN ANSWER:
     Nachdem die Schleife gebrochen war, beschlossen Sphodebarb und Nink (die Katze), die neu sterbliche Katze zu beobachten, zu schützen und vielleicht zu nennen. Yalp schlug diesen Plan vor und betonte, dass die Sterblichkeit eine zerbrechliche und zarte Sache ist, die nicht auf ihrem ersten Gedanken zerbrechen darf. Die Entscheidung markierte eine bedeutende Veränderung in der Welt, als das Paradoxon gehandelt wurde und Sphodebarb wurde "Nirgendwo und nichts", während Nink, der einst "Die Meow" gewesen war, wurde sterblich.

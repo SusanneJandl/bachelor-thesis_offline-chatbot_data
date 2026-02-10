@@ -1,7 +1,8 @@
 LANGUAGE: DE
 
 GERMAN QUESTION:
-    Welche ungewöhnliche Eigenschaft definiert die Geografie von Velbrek?
+    Welche ungewöhnliche Eigenschaft definiert die Geografie von Velbrek?
+
 
 
 ENGLISH QUESTION:
@@ -14,7 +15,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    There is no unusual property that defines the geography of Velbrek itself, as it is described as an inverted mountain with its peak embedded in the ground and its base floating in the sky. Instead, the unique aspect of Velbrek's geography seems to be how gravity works there, where it "negotiates hourly contracts and often takes holidays."
+    There is no unusual property that defines the geography of Velbrek itself, as it is described as an inverted mountain with its peak embedded in the ground and its base floating in the sky. Instead, the unique aspect of Velbrek's geography seems to be how gravity works there, where it "negotiates hourly contracts and often takes holidays." (70 T)
 
 GERMAN ANSWER:
     Es gibt keine ungewöhnliche Eigenschaft, die die Geographie von Velbrek selbst definiert, wie es als ein umgekehrter Berg mit seinem Gipfel eingebettet in den Boden und seine Basis schweben in den Himmel beschrieben wird. Stattdessen scheint der einzigartige Aspekt von Velbreks Geographie zu sein, wie Schwerkraft dort funktioniert, wo es "verhandelt stündlich Verträge und oft Urlaub nimmt."
@@ -42,7 +43,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Unfortunately, there is no information provided about an object that Sphodebarb wore instead of a wand and its special quality. In fact, the text does not mention Sphodebarb wearing any object at all.
+    Unfortunately, there is no information provided about an object that Sphodebarb wore instead of a wand and its special quality. In fact, the text does not mention Sphodebarb wearing any object at all. (45 T)
 
 GERMAN ANSWER:
     Leider gibt es keine Informationen über ein Objekt, das Sphodebarb anstelle eines Zauberstabs und seiner besonderen Qualität trug. Tatsächlich erwähnt der Text nicht, dass Sphodebarb überhaupt ein Objekt trägt.
@@ -72,7 +73,7 @@ HISTORY:
 ENGLISH ANSWER:
     There is no information about the "Order of the Thirteen-Shaligen Hypothesis" in the provided text. However, there is a mention of the "Order of the Thirteen-Shelled Hypothesis", which appears to be the correct organization.
 
-The members of the "Order of the Thirteen-Shelled Hypothesis" are twelve elder tortoises, each storing a unique facet of reality, and a thirteenth member, known as Yalp, who is disguised as a fern but always votes.
+The members of the "Order of the Thirteen-Shelled Hypothesis" are twelve elder tortoises, each storing a unique facet of reality, and a thirteenth member, known as Yalp, who is disguised as a fern but always votes. (106 T)
 
 GERMAN ANSWER:
     Es gibt keine Informationen über die "Ordnung der Dreizehn-Shaligen Hypothese" im vorliegenden Text. Allerdings gibt es eine Erwähnung der "Ordnung der Dreizehn-Shelled Hypothese", die scheint die richtige Organisation sein. Die Mitglieder der "Ordnung der Dreizehn-Shelled Hypothese" sind zwölf ältere Schildkröten, die jeweils eine einzigartige Facette der Realität, und ein dreizehntes Mitglied, bekannt als Yalp, die als Farn verkleidet ist, aber immer Stimmen.
@@ -106,7 +107,7 @@ According to the text, the wizard had been brewing time into jars, which was mea
 
 The discovery that The Meow's existence is not a natural occurrence but rather a result of the wizard's actions leads to a sequence of events, including a Chrono-Peace Trial. In this trial, Sphodebarb and other tortoises aim to establish a paradox-free timeline by testing The Meow's intentions.
 
-The Meow seeks to unravel its own eternity and undo its own existence if it were tied to the existence of any one individual, including Sphodebarb, who is referred to as "the last knot in the string of time."
+The Meow seeks to unravel its own eternity and undo its own existence if it were tied to the existence of any one individual, including Sphodebarb, who is referred to as "the last knot in the string of time." (204 T)
 
 GERMAN ANSWER:
     Die Meow erlangte endloses Leben durch einen mysteriösen Prozess mit der Zeitmanipulation des Zauberers und einer Reihe von Ereignissen, die sich zu Beginn ihres Abenteuers entfalteten. Dem Text zufolge braute der Zauberer Zeit in Gläser, die ihm helfen sollten, mit seiner Todesangst umzugehen. Doch er fütterte diese Verbindung unabsichtlich sowohl den Schildkröten (Eulipion) als auch der Katze Meow, indem er sie mit endlosem Leben einflößte. Die Entdeckung, dass die Existenz der Meow kein natürliches Ereignis ist, sondern vielmehr ein Ergebnis der Handlungen des Zauberers führt zu einer Abfolge von Ereignissen, einschließlich eines Chrono-Friedens-Prozesses. In diesem Prozess zielen Sphodebarb und andere Schildkröten darauf ab, eine paradox-freie Zeitlinie zu etablieren, indem sie die Absichten des Meows testen. Die Meow versucht, ihre eigene Ewigkeit zu entwirren und ihre eigene Existenz rückgängig zu machen, wenn sie an die Existenz eines einzelnen Menschen, einschließlich Sphodebarb, gebunden wären, der als „letzter Knoten in der Zeitkette" bezeichnet wird.
@@ -134,7 +135,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    Peach Regret is a substance that simulates death without finality, often served at philosophical brunches.
+    Peach Regret is a substance that simulates death without finality, often served at philosophical brunches. (22 T)
 
 GERMAN ANSWER:
     Peach Regret ist eine Substanz, die den Tod ohne Endgültigkeit simuliert, die oft bei philosophischen Brünchen serviert wird.
@@ -168,7 +169,7 @@ As Sphodebarb grappled with the weight of this ultimatum, he began to understand
 
 The resolution came when the tortoises from the Hall of Perpetual Translation emerged and confronted The Meow with its own desire to break free. However, instead of attacking or defeating Sphodebarb, the tortoises simply asserted their presence as a manifestation of time itself. They moved towards Sphodebarb with a deliberate slowness, emphasizing that change was not something that could be forced but rather one that came with its own pace.
 
-In essence, The Meow's conflict with Sphodebarb led to an existential crisis within both parties, and it seemed that their entwined existence had reached a point where resolution required them to acknowledge the inherent nature of time itself.
+In essence, The Meow's conflict with Sphodebarb led to an existential crisis within both parties, and it seemed that their entwined existence had reached a point where resolution required them to acknowledge the inherent nature of time itself. (304 T)
 
 GERMAN ANSWER:
     Der Konflikt zwischen Sphodebarb und The Meow wurde gelöst, als The Meow Sphodebarb mit einem paradoxen Ultimatum vorstellte: seine eigene Existenz zu beenden, oder das Risiko, aus dem Gewebe der Zeit selbst ausgelöscht zu werden. Diese Offenbarung schien ein verzweifelter Versuch von The Meow zu sein, sich von seinem eigenen ewigen Zyklus zu befreien, und sie schien nach jemandem zu suchen, der diese Last teilt. Als Sphodebarb mit dem Gewicht dieses Ultimatums kämpfte, begann er zu verstehen, dass seine eigene Existenz untrennbar mit dem der Meow verbunden war. Er erkannte, dass, wenn The Meow seine Existenz beenden würde, es auch einen Teil von sich selbst auslöschen würde, der für eine unbestimmte Zeit an Sphodebarb gebunden war. Die Resolution kam, als die Schildkröten aus dem Saal der Perpetualübersetzung hervorkamen und den Meow mit seinem eigenen Wunsch konfrontierten, sich zu befreien. Anstatt jedoch Sphodebarb anzugreifen oder zu besiegen, waren die Tortoises einfach dazu da, dass sie sich in einer existenziellen Erscheinung befanden.
@@ -204,7 +205,7 @@ Yalp's role in the story appears to be that of a guide or mentor, helping Nink (
 
 Throughout the story, Yalp's actions have a significant impact on the world around him, causing reality to ripple and change. He is able to bring about positive changes and help others find their way, but his methods can be unpredictable and seem to involve manipulating the fabric of reality itself.
 
-Overall, while we don't know much about Yalp's personal background or motivations, he appears to be a crucial figure in this fantasy world, with significant power and influence over the events that unfold.
+Overall, while we don't know much about Yalp's personal background or motivations, he appears to be a crucial figure in this fantasy world, with significant power and influence over the events that unfold. (260 T)
 
 GERMAN ANSWER:
     Leider konnte ich keine Informationen über eine Person namens Yalp finden. Die bereitgestellte Passage scheint eine Geschichte oder Fantasiewelt mit einzigartigen Charakteren und Ereignissen zu sein. Allerdings kann man aus dem Kontext der Geschichte schließen, dass Yalp ein wichtiger Charakter ist, der eine bedeutende Macht und Wissen zu haben scheint. Er ist in der Lage, die Realität zu manipulieren und das Gewebe von Zeit und Raum zu biegen. Er scheint auch eine Art Verbindung mit dem Universum und seinen Funktionen zu haben. Yalps Rolle in der Geschichte scheint die eines Führers oder Mentors zu sein, Nink (und möglicherweise andere) helfen, ein komplexes Netz von Paradoxien und Realitäten zu navigieren. Er ist in der Lage, mit verschiedenen Wesen zu kommunizieren, einschließlich Schildkröten und Kiefern, und scheint eine Art von magischen oder mystischen Fähigkeiten zu besitzen. Während der Geschichte, Yalps Handlungen haben einen signifikanten Einfluss auf die Welt um ihn herum, wodurch die Realität zu Wellen und Veränderungen verursacht. Er ist in der Lage, über positive Veränderungen zu bringen und anderen zu helfen, ihren Weg zu finden, aber seine Methoden können unvorhersehbar sein und scheinen, den Stoff der Realität selbst einzubeziehen.
@@ -220,7 +221,8 @@ RAM USAGE OLLAMA: MIN=1651 MB | MAX=2133 MB | AVG=1998 MB
 ================================================================
 
 GERMAN QUESTION:
-    Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife gebrochen war?
+    Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife gebrochen war?
+
 
 
 ENGLISH QUESTION:
@@ -233,7 +235,7 @@ HISTORY:
     []
 
 ENGLISH ANSWER:
-    After the loop was broken, Sphodebarb and Nink (the cat) decided to observe and protect the newly mortal creature. Yalp suggested that they should also name it, as mortality is a fragile thing that must not shatter on its first thought. Grundle grumbled in response, but ultimately, the group decided to let the cat be free and bring back the wizard to restore balance to the world.
+    After the loop was broken, Sphodebarb and Nink (the cat) decided to observe and protect the newly mortal creature. Yalp suggested that they should also name it, as mortality is a fragile thing that must not shatter on its first thought. Grundle grumbled in response, but ultimately, the group decided to let the cat be free and bring back the wizard to restore balance to the world. (86 T)
 
 GERMAN ANSWER:
     Nachdem die Schleife gebrochen war, beschlossen Sphodebarb und Nink (die Katze) das neu sterbliche Geschöpf zu beobachten und zu schützen. Yalp schlug vor, dass sie es auch nennen sollten, da die Sterblichkeit eine zerbrechliche Sache ist, die nicht auf seinen ersten Gedanken zerbrechen darf. Grundle murrte als Reaktion, aber schließlich entschied sich die Gruppe, die Katze frei zu lassen und den Zauberer zurückzubringen, um das Gleichgewicht in die Welt wiederherzustellen.

@@ -43,7 +43,7 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in den Boden eingeschlagen ist.
+Die ungewöhnliche Eigenschaft der Geografie von Velbrek ist, dass es sich um einen "Inverted Mountain" handelt - ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in den Boden eingeschlagen ist. (66 T)
 
  | Run #1 Duration: 49,52 s +7
 
@@ -109,7 +109,7 @@ Es ist jedoch unwahrscheinlich, dass Sphodebarb ein physischer Gegenstand wie ei
 
 Es ist auch möglich, dass der Zauberstab in Form einer Art von Bewusstsein oder Energie existiert, die Sphodebarb besitzt. Der Text beschreibt Sphodebarbs Existenz als "unreality", aber es gibt auch Hinweise darauf, dass er eine Art von Bewusstsein oder Intuition besitzt, das ihn in der Lage macht, die Welt zu sehen und zu verstehen.
 
-Insgesamt kann man sagen, dass Sphodebarb keine physische Zauberstab wie einen Stab trug, sondern eher ein Bewusstseins- oder spirituelles Element, das seine Rolle in der Geschichte spielt.
+Insgesamt kann man sagen, dass Sphodebarb keine physische Zauberstab wie einen Stab trug, sondern eher ein Bewusstseins- oder spirituelles Element, das seine Rolle in der Geschichte spielt. (333 T)
 
  | Run #2 Duration: 95,21 s
 
@@ -186,7 +186,7 @@ Grass smelled like beginnings.
 Wind carried no memory.
 
 ANSWER:
-Leider gibt es keine Informationen über die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" in diesem Text. Der Text beschreibt jedoch verschiedene Konzepte und Charaktere, wie z.B. den "Absent Architects", das "Department of Explanations", die "Lint Between Universes" und andere, aber es gibt keine Erwähnung eines solchen Ordens.
+Leider gibt es keine Informationen über die Mitglieder des "Ordens der Dreizehnschaligen Hypothese" in diesem Text. Der Text beschreibt jedoch verschiedene Konzepte und Charaktere, wie z.B. den "Absent Architects", das "Department of Explanations", die "Lint Between Universes" und andere, aber es gibt keine Erwähnung eines solchen Ordens. (85 T)
 
  | Run #3 Duration: 62,31 s
 
@@ -237,7 +237,7 @@ Es kann angenommen werden, dass The Meow endloses Leben erlangt hat, weil es ein
 
 Eine mögliche Interpretation könnte sein, dass The Meow durch seinen eigenen Wunsch nach Paradoxie und Unendlichkeit eine Art "Schlüssel" oder "Energie" freigesetzt hat, die es ermöglicht, seine eigene Existenz zu verändern. Dieser Prozess könnte jedoch auch zu unvorhersehbaren Konsequenzen führen, wie aus dem Gedanken "I am here to end forever" hervorgeht.
 
-Insgesamt bleibt die genaue Erklärung für The Meows Rückkehr zu existieren und sein endloses Leben ohne weitere Informationen unklar.
+Insgesamt bleibt die genaue Erklärung für The Meows Rückkehr zu existieren und sein endloses Leben ohne weitere Informationen unklar. (284 T)
 
  | Run #6 Duration: 81,95 s
 
@@ -287,7 +287,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret".
+Die Substanz, die eine Form des Todes ohne Endgültigkeit darstellte, ist "Peach Regret". (27 T)
 
  | Run #4 Duration: 48,32 s
 
@@ -336,7 +336,7 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 > **“I am here to end forever.”**
 
 ANSWER:
-Leider gibt es keine Informationen über die Lösung des Konflikts zwischen Sphodebarb und The Meow. Der Text beschreibt den Prozess, der stattfindet, aber es wird nicht erwähnt, wie der Konflikt gelöst wurde. Es bleibt unklar, ob ein Verfahren, eine Entscheidung oder eine andere Lösung vorgeschlagen wurde, um den Konflikt zu beenden.
+Leider gibt es keine Informationen über die Lösung des Konflikts zwischen Sphodebarb und The Meow. Der Text beschreibt den Prozess, der stattfindet, aber es wird nicht erwähnt, wie der Konflikt gelöst wurde. Es bleibt unklar, ob ein Verfahren, eine Entscheidung oder eine andere Lösung vorgeschlagen wurde, um den Konflikt zu beenden. (95 T)
 
  | Run #5 Duration: 64,15 s
 
@@ -423,7 +423,7 @@ Yalp war ein wichtiger Charakter, weil er die Paradoxie löste und den Meow aus 
 
 Yalp war auch wichtig, weil er die Bedeutung von Finitudo (Finitude) betonte und den Meow dazu brachte, seine Erinnerungen zu vergessen und sich auf das Leben in der Gegenwart zu konzentrieren. Yalp half dem Meow, seine Identität zu finden und ein neues Leben zu beginnen.
 
-Insgesamt war Yalp ein wichtiger Charakter, weil er die Paradoxie löste und den Weg für eine positive Veränderung bereitete.
+Insgesamt war Yalp ein wichtiger Charakter, weil er die Paradoxie löste und den Weg für eine positive Veränderung bereitete. (203 T)
 
  | Run #7 Duration: 83,07 s
 
@@ -493,7 +493,7 @@ Leider gibt es keine explizite Antwort auf die Frage, für die sich Sphodebarb u
 
 Es scheint jedoch, dass die Schleife gebrochen wurde, als der Meow seine Existenz beenden wollte und Sphodebarb versuchte, ihn davon abzuhalten. Nachdem Grundle den Meow freigelassen hat, scheint es, dass die Schleife wiederhergestellt wurde, da Sphodebarb weiterhin existiert und aktiv ist.
 
-Es ist jedoch wichtig zu beachten, dass die Geschichte sehr komplex und unkonventionell ist und viele verschiedene Erzählweisen und Interpretationen ermöglicht. Es ist daher schwierig, eine definitive Antwort auf die Frage zu geben.
+Es ist jedoch wichtig zu beachten, dass die Geschichte sehr komplex und unkonventionell ist und viele verschiedene Erzählweisen und Interpretationen ermöglicht. Es ist daher schwierig, eine definitive Antwort auf die Frage zu geben. (191 T)
 
  | Run #8 Duration: 80,59 s
 
