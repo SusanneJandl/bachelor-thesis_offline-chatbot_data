@@ -62,7 +62,7 @@ RAM USAGE OLLAMA: MIN=3733 MB | MAX=3736 MB | AVG=3735MB
 ================================================================
 # 3
 GERMAN QUESTION:
-    Wer oder was sind die Mitglieder des „Ordens der Dreizehnschaligen Hypothese“?
+    Wer oder was sind die Mitglieder des "Ordens der Dreizehnschaligen Hypothese"?
 
 
 

@@ -25,7 +25,7 @@ RAM USAGE OLLAMA: MIN=65 MB | MAX=3312 MB | AVG=3144MB
 ================================================================
 # 2
 ENGLISH QUESTION:
-    What item did Sphodebarb carry instead of a wizard’s staff, and what was its unique trait?
+    What item did Sphodebarb carry instead of a wizard's staff, and what was its unique trait?
 
 
 
@@ -48,7 +48,7 @@ RAM USAGE OLLAMA: MIN=3336 MB | MAX=3340 MB | AVG=3338MB
 ================================================================
 # 3
 ENGLISH QUESTION:
-    Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?
+    Who or what are the members of the "Order of the Thirteen-Shelled Hypothesis"?
 
 
 
