@@ -90,7 +90,7 @@ LANGUAGE: DE
 ACCURACY: 5
 
 GERMAN QUESTION:
-    Wer oder was sind die Mitglieder des „Ordens der Dreizehnschaligen Hypothese“?
+    Wer oder was sind die Mitglieder des "Ordens der Dreizehnschaligen Hypothese"?
 
 ENGLISH QUESTION:
     Who or what are the members of the "Order of the Thirteen-Shaligen Hypothesis? "

@@ -41,7 +41,7 @@ LANGUAGE: EN
 ACCURACY: 6
 
 ENGLISH QUESTION:
-    What item did Sphodebarb carry instead of a wizard’s staff?
+    What item did Sphodebarb carry instead of a wizard's staff?
 
 BEST MATCH:
     What artifact accompanies Sphodebarb in the Not-World?
@@ -54,7 +54,7 @@ LANGUAGE: EN
 ACCURACY: 6
 
 ENGLISH QUESTION:
-    Who or what are the members of the “Order of the Thirteen-Shelled Hypothesis”?
+    Who or what are the members of the "Order of the Thirteen-Shelled Hypothesis"?
 
 BEST MATCH:
     Who are the beings known as the Order of the Thirteen-Shelled Hypothesis?
