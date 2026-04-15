@@ -1,4 +1,4 @@
-# 1
+﻿# 1
 CONTEXT:
 ##  **The World of Velbrek and Beyond**
 
@@ -32,7 +32,8 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist, dessen Basis im Himmel und sein Gipfel in der Erde liegt. Die Bergspitze ist tatsächlich in den Boden eingebettet, was eine völlig umgekehrte Geographie als die übliche Form eines Mountains ergibt.
+Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist, dessen Basis im Himmel und sein Gipfel in der Erde liegt. Die Bergspitze ist tatsächlich in den Boden eingebettet, was eine völlig umgekehrte Geographie als die übliche Form eines Mountains ergibt.  (94 T)
+
 
  | Run #1 Duration: 153,45 s
 
@@ -89,7 +90,8 @@ Somewhere in the distance, reality coughed politely.
 ANSWER:
 The text does not mention Sphodebarb carrying a Gegenstand (object) instead of a Zauberstab (magic wand). However, it does describe Sphodebarb as "floating through unreality" without any visible means of support.
 
-It can be inferred that Sphodebarb is somehow sustained or supported in this state, but the text does not provide further information on what this might be.
+It can be inferred that Sphodebarb is somehow sustained or supported in this state, but the text does not provide further information on what this might be.  (85 T)
+
 
  | Run #2 Duration: 94,62 s
 
@@ -139,7 +141,8 @@ The cat pressed its forehead to his.
 Reality inhaled.
 
 ANSWER:
-Leider gibt es keine Informationen über Mitglieder des "Ordens der Dreizehn-Schaligen Hypothese" im bereitgestellten Text. Der Text beschreibt eine Szene, in der ein Gericht stattfindet, bei dem die Thirteen-Tortoises (einschließlich Yalp) über das Schicksal eines Katzenwizards und einer Katze diskutieren. Es gibt jedoch keine Erwähnung von Mitgliedern oder einer Organisation namens "Ordens der Dreizehn-Schaligen Hypothese".
+Leider gibt es keine Informationen über Mitglieder des "Ordens der Dreizehn-Schaligen Hypothese" im bereitgestellten Text. Der Text beschreibt eine Szene, in der ein Gericht stattfindet, bei dem die Thirteen-Tortoises (einschließlich Yalp) über das Schicksal eines Katzenwizards und einer Katze diskutieren. Es gibt jedoch keine Erwähnung von Mitgliedern oder einer Organisation namens "Ordens der Dreizehn-Schaligen Hypothese".  (117 T)
+
 
  | Run #3 Duration: 117,98 s
 
@@ -177,7 +180,8 @@ Die Frage "Wie erlangte The Meow endloses Leben?" kann nicht direkt beantwortet 
 
 Allerdings lässt sich daraus schließen, dass The Meow nach einer Zeit des "Krieges gegen Ursache und Wirkung" (ca. 7 Jahre vor der Geschichte) wieder aufgetaucht ist, ohne jedoch zu erklären, wie es überhaupt wieder zum Leben erwacht ist.
 
-Es wird jedoch angedeutet, dass Eulipion die Rückkehr von The Meow als ein "Wunder" oder eine Art "Veränderung" der Realität beschreibt, da es sich nicht durch traditionelle Mittel erwecken lässt.
+Es wird jedoch angedeutet, dass Eulipion die Rückkehr von The Meow als ein "Wunder" oder eine Art "Veränderung" der Realität beschreibt, da es sich nicht durch traditionelle Mittel erwecken lässt.  (169 T)
+
 
  | Run #4 Duration: 146,51 s
 
@@ -226,7 +230,8 @@ Peach Regret
 
 Translation: "Which substance represented a form of death without finality?"
 
-Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.
+Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.  (77 T)
+
 
  | Run #5 Duration: 89,22 s
 
@@ -272,7 +277,8 @@ Es gibt keine Lösung für den Konflikt zwischen Sphodebarb und The Meow, da der
 
 Der Text beschreibt jedoch einen Prozess, bei dem Sphodebarb und The Meow vor einem Gericht erscheinen, das von Grundle geleitet wird. Während des Verhörs wird Sphodebarb gefragt, warum The Meow zu diesem Gericht erscheint, und es wird erwähnt, dass The Meow behauptet, dass Sphodebarb der Knoten in Zeit ist, den es unbinden muss.
 
-Es scheint jedoch, dass die Frage nach einer Lösung für den Konflikt zwischen Sphodebarb und The Meow nicht direkt beantwortet werden kann, da der Text eher eine philosophische oder metaphysische Diskussion über die Natur von Zeit und Existenz führt.
+Es scheint jedoch, dass die Frage nach einer Lösung für den Konflikt zwischen Sphodebarb und The Meow nicht direkt beantwortet werden kann, da der Text eher eine philosophische oder metaphysische Diskussion über die Natur von Zeit und Existenz führt.  (216 T)
+
 
  | Run #6 Duration: 123,67 s
 
@@ -340,7 +346,8 @@ Yalps Bedeutung liegt darin, dass er den "Paradox"-Staat, in dem die Katze "The 
 
 Yalp ist auch ein wichtiger Teil der Handlung, da er die Konsequenzen seiner Handlungen überwacht und entscheidet, wie das Universum weitergehen soll. Er gibt Befehle an andere Charaktere, wie Eulipion und Vurbian, um bestimmte Aufgaben zu erledigen.
 
-Insgesamt ist Yalp ein wichtiger Teil des Textes, da er die Handlung vorantreibt und das Universum verändert. Seine Bedeutung liegt in seiner Fähigkeit, Paradoxen zu lösen und das Universum zu stabilisieren.
+Insgesamt ist Yalp ein wichtiger Teil des Textes, da er die Handlung vorantreibt und das Universum verändert. Seine Bedeutung liegt in seiner Fähigkeit, Paradoxen zu lösen und das Universum zu stabilisieren.  (291 T)
+
 
  | Run #7 Duration: 127,20 s
 
@@ -399,7 +406,8 @@ Leider gibt es keine direkte Antwort auf die Frage "Wofür entschieden sich Spho
 
 Die Textpassage beschreibt jedoch den Beginn eines Gerichtsverfahrens zwischen Sphodebarb und der Katze, die als "Meow" bezeichnet wird. Es wird erwähnt, dass das Verfahren für eine Existenzbrechende Trespassation und unerlaubte Reweaving von Infinity angeklagt ist.
 
-Es gibt jedoch keine explizite Antwort auf die Frage, was Sphodebarb und Nink entschieden haben, nachdem die Schleife durchbrochen war. Es wird lediglich erwähnt, dass das Verfahren begonnen hat und dass Sphodebarb und die Katze sich in einem Gerichtssaal befinden.
+Es gibt jedoch keine explizite Antwort auf die Frage, was Sphodebarb und Nink entschieden haben, nachdem die Schleife durchbrochen war. Es wird lediglich erwähnt, dass das Verfahren begonnen hat und dass Sphodebarb und die Katze sich in einem Gerichtssaal befinden.  (202 T)
+
 
  | Run #8 Duration: 118,30 s
 

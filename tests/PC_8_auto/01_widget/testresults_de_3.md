@@ -1,4 +1,4 @@
-# 1
+﻿# 1
 CONTEXT:
 ##  **The World of Velbrek and Beyond**
 
@@ -32,7 +32,9 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist - also ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in der Erde steckt.
+Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es ein "Inverted Mountain" ist - also ein Berg, der nicht auf dem Boden steht, sondern dessen Basis im Himmel liegt und dessen Gipfel in der Erde steckt.  (67 T)  (72 T)
+
+
 
  | Run #1 Duration: 36,82 s
 
@@ -87,7 +89,9 @@ Somewhere in the distance, reality coughed politely.
 ### **Chapter Two: Bureaucracy of the Shell**
 
 ANSWER:
-Unfortunately, there is no information about Sphodebarb carrying an object instead of a wand, nor is there any mention of its special properties in the provided text. The story seems to focus on the trial between Sphodebarb and the Meow, with Grundle as the judge, and the Court of Recursive Tortoises playing a role in the proceedings.
+Unfortunately, there is no information about Sphodebarb carrying an object instead of a wand, nor is there any mention of its special properties in the provided text. The story seems to focus on the trial between Sphodebarb and the Meow, with Grundle as the judge, and the Court of Recursive Tortoises playing a role in the proceedings.  (75 T)  (80 T)
+
+
 
  | Run #2 Duration: 46,04 s
 
@@ -146,7 +150,9 @@ Es gibt jedoch einige Charaktere, die in diesem Text vorkommen:
 * Sphodebarb: Ein alter Tortoise, der im Zentrum des Gerichts sitzt.
 * Die Meow: Eine Katze, die den Sphodebarb begleitet und sich mit ihm verbindet.
 
-Es ist jedoch unklar, ob diese Charaktere Mitglieder eines Ordens sind oder einfach Teil der Szene sind.
+Es ist jedoch unklar, ob diese Charaktere Mitglieder eines Ordens sind oder einfach Teil der Szene sind.  (244 T)  (249 T)
+
+
 
  | Run #3 Duration: 58,98 s
 
@@ -189,7 +195,9 @@ Einige Details sind jedoch zu erkennen:
 * The Meow hat sich selbst in ein Limerick verwandelt, das von einem Spoon handelt, was darauf hindeutet, dass es eine Art von Magie oder Zauberei verwendet hat, um wieder in Existenz zu kommen.
 * Eulipion erwähnt, dass The Meow "grooming itself into a question" ist, was darauf hindeutet, dass es sich selbst in ein Rätsel verwandelt hat, das möglicherweise die Grundlage für seine Rückkehr in den Zustand des Seins bildet.
 
-Insgesamt kann man sagen, dass The Meow wieder in Existenz kam, indem es eine Art von Magie oder Zauberei verwendet hat, um sich selbst zu reformieren und in ein Rätsel zu verwandeln, das möglicherweise die Grundlage für seine Rückkehr bildet.
+Insgesamt kann man sagen, dass The Meow wieder in Existenz kam, indem es eine Art von Magie oder Zauberei verwendet hat, um sich selbst zu reformieren und in ein Rätsel zu verwandeln, das möglicherweise die Grundlage für seine Rückkehr bildet.  (305 T)  (310 T)
+
+
 
  | Run #4 Duration: 66,62 s
 
@@ -238,7 +246,9 @@ Peach Regret
 
 Translation: "Which substance represented a form of death without finality?"
 
-Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.
+Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.  (77 T)  (82 T)
+
+
 
  | Run #5 Duration: 35,16 s
 
@@ -286,7 +296,9 @@ Der Text beschreibt jedoch den Prozess, wie Sphodebarb und The Meow vor einer Ar
 
 Es ist auch nicht klar, ob es überhaupt einen Konflikt zwischen Sphodebarb und The Meow gibt. The Meow scheint eher ein Symbol oder eine Metapher zu sein, die Sphodebarb dazu bringt, über seine eigene Existenz und den Sinn seines Lebens nachzudenken.
 
-Insgesamt ist der Text eher eine philosophische oder fiktive Geschichte, die die Komplexität des menschlichen (oder in diesem Fall, feline) Erlebens von Zeit und Existenz thematisiert, als eine konkrete Lösung für einen Konflikt zwischen zwei Charakteren.
+Insgesamt ist der Text eher eine philosophische oder fiktive Geschichte, die die Komplexität des menschlichen (oder in diesem Fall, feline) Erlebens von Zeit und Existenz thematisiert, als eine konkrete Lösung für einen Konflikt zwischen zwei Charakteren.  (305 T)  (310 T)
+
+
 
  | Run #6 Duration: 65,14 s
 
@@ -354,7 +366,9 @@ Yalp ist wichtig, weil er die Grundlagen der Welt ändert. Er bringt eine neue �
 
 Es ist jedoch auch wichtig zu beachten, dass Yalp nicht als ein übermenschlicher Charakter dargestellt wird, sondern eher als ein normaler Mensch, der in einer besonderen Situation handelt. Seine Bedeutung liegt also nicht in seiner Überlegenheit oder Macht, sondern in seinem Fähigkeit, die Welt zu ändern und neue Wege zu finden.
 
-Insgesamt ist Yalp eine wichtige Figur, die die Entwicklung der Geschichte vorantreibt und die Leser dazu auffordert, über die Natur des Daseins und seine Bedeutung nachzudenken.
+Insgesamt ist Yalp eine wichtige Figur, die die Entwicklung der Geschichte vorantreibt und die Leser dazu auffordert, über die Natur des Daseins und seine Bedeutung nachzudenken.  (294 T)  (299 T)
+
+
 
  | Run #7 Duration: 67,56 s
 
@@ -415,7 +429,9 @@ Der Text beschreibt jedoch den Beginn eines Gerichtsverfahrens zwischen Sphodeba
 
 Es kann jedoch angenommen werden, dass Sphodebarb und die Katze nach dem Durchbruch der Schleife möglicherweise über ihre Existenz und den Sinn ihres Lebens nachdenken. Die Katze möchte offensichtlich enden, während Sphodebarb versucht, die Situation zu verstehen und die Katze zu verteidigen.
 
-Es ist jedoch wichtig zu beachten, dass der Text sehr komplex und metaphorisch ist und es schwierig sein kann, eine klare Antwort auf die Frage zu finden.
+Es ist jedoch wichtig zu beachten, dass der Text sehr komplex und metaphorisch ist und es schwierig sein kann, eine klare Antwort auf die Frage zu finden.  (252 T)  (257 T)
+
+
 
  | Run #8 Duration: 57,86 s
 

@@ -1,4 +1,4 @@
-# 1
+﻿# 1
 CONTEXT:
 ##  **The World of Velbrek and Beyond**
 
@@ -53,7 +53,8 @@ Sphodebarb sat on his ledge of hypothetical soup, watching Gerald the pinecone r
 And then—he heard it. A hum. A melody of shells and stars.
 
 ANSWER:
-The unusual feature that defines the geography of Velbrek is that it is a mountain, but upside-down, with its jagged base floating in the sky and its peak embedded in the ground.
+The unusual feature that defines the geography of Velbrek is that it is a mountain, but upside-down, with its jagged base floating in the sky and its peak embedded in the ground.  (39 T)
+
 
  | Run #2 Duration: 101,79 s
 
@@ -92,7 +93,8 @@ Sphodebarb stood in the center, on a platform made from compressed hesitation. T
 ANSWER:
 Die Frage lautet: "Was für ein Gegenstand trug Sphodebarb stattdessen als Zauberstab und was war sein einzigartiges Merkmal?"
 
-Die Antwort lautet: Ein Pinienkern, dessen Stimme wie Kerzenlicht klang.
+Die Antwort lautet: Ein Pinienkern, dessen Stimme wie Kerzenlicht klang.  (61 T)
+
 
  | Run #2 Duration: 76,34 s
 
@@ -141,7 +143,8 @@ Specifically mentioned are:
 2. Yalp, the thirteenth tortoise, disguised as a fern in the corner of the courtroom, which has never been invited to speak but always votes.
 3. Eulipion, another tortoise standing beside Yalp.
 
-These tortoises are part of the mysterious and enigmatic "Order of the Thirteen-Shelled Hypothesis".
+These tortoises are part of the mysterious and enigmatic "Order of the Thirteen-Shelled Hypothesis".  (153 T)
+
 
  | Run #3 Duration: 118,47 s
 
@@ -186,7 +189,8 @@ The cat uncoiled its body and stepped forward. Where its paw touched the ground,
 ANSWER:
 English.
 
-The Meow gained endless life when it drank timeline ink left out by Sphodebarb, an accidental event that made it immortal and transformed it into a reluctant deity of persistence.
+The Meow gained endless life when it drank timeline ink left out by Sphodebarb, an accidental event that made it immortal and transformed it into a reluctant deity of persistence.  (39 T)
+
 
  | Run #4 Duration: 66,96 s
 
@@ -236,7 +240,8 @@ Elsewhere, in a corner of the Hall of Crooked Clocks that did not exist last wee
 ### **6. Life and Death: Flexible Arrangements**
 
 ANSWER:
-Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality.
+Based on the provided information, I would say that "Peach Regret" is the substance that represents a version of death without finality.  (29 T)
+
 
  | Run #5 Duration: 147,85 s
 
@@ -286,7 +291,8 @@ Sphodebarb, on the other hand, seems to be struggling with his own role in the c
 
 The passage ends with a sense of urgency and tension, as Sphodebarb is faced with a final thought from The Meow: "End me, or I end you. We cannot both persist. The loop is tired." This suggests that The Meow is willing to take drastic action if its demands are not met, leaving Sphodebarb with an impossible decision.
 
-Overall, the conflict between Sphodebarb and The Meow remains unresolved, and it appears that their fate will be determined by the choices they make in this trial.
+Overall, the conflict between Sphodebarb and The Meow remains unresolved, and it appears that their fate will be determined by the choices they make in this trial.  (264 T)
+
 
  | Run #6 Duration: 125,94 s
 
@@ -354,7 +360,8 @@ In this context, Yalp's importance lies in his role as a catalyst for change. He
 
 Yalp's actions also suggest that he may be a kind of guide or mentor, helping Nink (and possibly others) to navigate the complexities of existence. His words of wisdom, such as "Mortality is a fragile prism" and "The Meow is mortal," imply that he has gained insight into the nature of reality and is seeking to share this knowledge with others.
 
-Overall, Yalp's significance in the story appears to be rooted in his ability to challenge conventional notions of time, space, and identity, and to offer a new perspective on the human (or feline) experience.
+Overall, Yalp's significance in the story appears to be rooted in his ability to challenge conventional notions of time, space, and identity, and to offer a new perspective on the human (or feline) experience.  (225 T)
+
 
  | Run #7 Duration: 139,16 s
 
@@ -406,7 +413,8 @@ Only Yalp remained, watching the small cat who blinked at the sky like it had ne
 ANSWER:
 Die Frage lautet: "Was Sphodebarb und Nink (die Katze) nach dem Loopenbruch auswählten?"
 
-Die Antwort ist: Sie haben den Loopenbruch gewählt, um die Existenz zu beenden und Sphodebarb in einen Zustand der "non-contextuellen" Ruhe zu versetzen.
+Die Antwort ist: Sie haben den Loopenbruch gewählt, um die Existenz zu beenden und Sphodebarb in einen Zustand der "non-contextuellen" Ruhe zu versetzen.  (76 T)
+
 
  | Run #8 Duration: 80,54 s
 

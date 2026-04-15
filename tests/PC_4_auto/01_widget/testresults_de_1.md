@@ -1,4 +1,4 @@
-# 1
+﻿# 1
 CONTEXT:
 ##  **The World of Velbrek and Beyond**
 
@@ -32,7 +32,8 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. Die Bergspitze ist tatsächlich in den Boden eingelassen, was die Normaleigenschaften von Bergen und Berghöhen stark verändert.
+Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. Die Bergspitze ist tatsächlich in den Boden eingelassen, was die Normaleigenschaften von Bergen und Berghöhen stark verändert.  (94 T)
+
 
  | Run #1 Duration: 92,36 s
 
@@ -87,7 +88,8 @@ Somewhere in the distance, reality coughed politely.
 ### **Chapter Two: Bureaucracy of the Shell**
 
 ANSWER:
-Unfortunately, there is no information provided about Sphodebarb carrying an object instead of a wand and its special property. The text only describes Sphodebarb's presence in the "Library of Everything That Was Almost a Story" and his role as the defendant in the trial against the Meow.
+Unfortunately, there is no information provided about Sphodebarb carrying an object instead of a wand and its special property. The text only describes Sphodebarb's presence in the "Library of Everything That Was Almost a Story" and his role as the defendant in the trial against the Meow.  (62 T)
+
 
  | Run #2 Duration: 82,83 s
 
@@ -146,7 +148,8 @@ Es gibt jedoch einige Charaktere, die im Text erwähnt werden:
 * Sphodebarb: Ein alter Tortoise, der im Zentrum des Gerichts sitzt und eine Art von "Was-If"-Label auf einem Zeitgefäß trägt.
 * Der Meow: Eine Katze, die neben Sphodebarb liegt und sich an ihre eigene Existenz erfreut.
 
-Es ist jedoch unklar, ob diese Charaktere Mitglieder des "Ordens der Dreizehn-Schaligen Hypothese" sind oder ob sie einfach Teil des Gerichts sind.
+Es ist jedoch unklar, ob diese Charaktere Mitglieder des "Ordens der Dreizehn-Schaligen Hypothese" sind oder ob sie einfach Teil des Gerichts sind.  (279 T)
+
 
  | Run #3 Duration: 132,64 s
 
@@ -184,7 +187,8 @@ Die Frage "Wie erlangte The Meow endloses Leben?" kann nicht direkt beantwortet 
 
 Allerdings lässt sich daraus schließen, dass The Meow nach einer Zeit des Abwesens wieder erschien und sich in der Gegenwart befindet. Es ist auch erwähnt, dass The Meow "grooming itself into a question" ist, was darauf hindeutet, dass es eine Art von Bewusstsein oder Intelligenz besitzt.
 
-Es ist jedoch unklar, wie und warum The Meow endloses Leben erlangt hat. Es gibt keine Hinweise darauf, dass es durch eine bestimmte Handlung oder ein Ereignis erwacht ist.
+Es ist jedoch unklar, wie und warum The Meow endloses Leben erlangt hat. Es gibt keine Hinweise darauf, dass es durch eine bestimmte Handlung oder ein Ereignis erwacht ist.  (177 T)
+
 
  | Run #4 Duration: 109,23 s
 
@@ -233,7 +237,8 @@ Peach Regret
 
 Translation: "Which substance represented a form of death without finality?"
 
-Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.
+Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.  (77 T)
+
 
  | Run #5 Duration: 87,32 s
 
@@ -279,7 +284,8 @@ Es gibt keine Lösung für den Konflikt zwischen Sphodebarb und The Meow, da der
 
 Es wird jedoch deutlich, dass The Meow eine tiefe Weisheit besitzt und dass es Sphodebarb herausfordert, über seine eigenen Identität und das Verhältnis zwischen ihm und dem Meow nachzudenken. Der Text endet mit einer Atmosphäre der Neugier und des Unbehagens, da The Meow direkt auf Sphodebarb blickt und ihn herausfordert, seine Seele zu finden.
 
-Insgesamt scheint der Konflikt zwischen Sphodebarb und The Meow eher eine philosophische oder spirituelle Debatte zu sein, als eine konkrete Konfliktlösung.
+Insgesamt scheint der Konflikt zwischen Sphodebarb und The Meow eher eine philosophische oder spirituelle Debatte zu sein, als eine konkrete Konfliktlösung.  (238 T)
+
 
  | Run #6 Duration: 147,22 s
 
@@ -351,7 +357,8 @@ Insgesamt scheint Yalp ein wichtiger Charakter in diesem fiktiven Universum zu s
 
 Es ist auch interessant zu sehen, dass Yalp die Katze Nink "The Meow" nennt, bevor sie ihre Identität verliert. Dies könnte darauf hindeuten, dass Yalp eine Art von Verantwortung oder Pflicht hat, um Nink und andere Wesen in diesem Universum zu schützen.
 
-Insgesamt ist Yalps Rolle im fiktiven Universum noch nicht vollständig klar, aber es wird deutlich, dass er eine wichtige Figur ist, die die Paradox-Felder manipuliert und versucht, sie zu kontrollieren.
+Insgesamt ist Yalps Rolle im fiktiven Universum noch nicht vollständig klar, aber es wird deutlich, dass er eine wichtige Figur ist, die die Paradox-Felder manipuliert und versucht, sie zu kontrollieren.  (447 T)
+
 
  | Run #7 Duration: 152,71 s
 
@@ -409,7 +416,8 @@ Die Frage lautet: "Wofür entschieden sich Sphodebarb und Nink (die Katze), nach
 
 Die Antwort ist nicht direkt im Text zu finden, aber es kann angenommen werden, dass Sphodebarb und Nink (die Katze) sich entschieden haben, das Verfahren fortzusetzen oder weiterzumachen, nachdem die Schleife durchbrochen war. Die Frage "Let the trial commence" von Grundle deutet darauf hin, dass der Prozess fortgesetzt wird.
 
-Es ist jedoch auch möglich, dass Sphodebarb und Nink sich entschieden haben, das Verfahren zu beenden oder eine andere Aktion zu unternehmen, aber dies ist nicht explizit im Text angegeben.
+Es ist jedoch auch möglich, dass Sphodebarb und Nink sich entschieden haben, das Verfahren zu beenden oder eine andere Aktion zu unternehmen, aber dies ist nicht explizit im Text angegeben.  (174 T)
+
 
  | Run #1 Duration: 90,99 s
 

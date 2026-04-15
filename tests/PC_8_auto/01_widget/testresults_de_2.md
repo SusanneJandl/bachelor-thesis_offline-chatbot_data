@@ -1,4 +1,4 @@
-# 1
+﻿# 1
 CONTEXT:
 ##  **The World of Velbrek and Beyond**
 
@@ -32,7 +32,9 @@ Dawn came late, as it often did in Velbrek, because the sun had unionized. It re
 Nevertheless, a dim sort of twilight draped itself lazily over the sky, which was currently patterned like crushed velvet. It was enough for the tortoises to declare **"Effective Dawn"** and begin the **Chrono-Peace Trial**.
 
 ANSWER:
-Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. Die Bergspitze ist tatsächlich in den Boden eingelassen, was eine völlig umgekehrte Geographie als normale Berge mit ihren Spitzen in die Luft ragenden erfordert.
+Die ungewöhnliche Eigenschaft, die die Geographie von Velbrek definiert, ist, dass es sich um einen "Inverted Mountain" handelt, dessen Basis im Himmel und sein Gipfel in der Erde befestigt ist. Die Bergspitze ist tatsächlich in den Boden eingelassen, was eine völlig umgekehrte Geographie als normale Berge mit ihren Spitzen in die Luft ragenden erfordert.  (106 T)  (111 T)
+
+
 
  | Run #1 Duration: 41,04 s
 
@@ -87,7 +89,9 @@ Somewhere in the distance, reality coughed politely.
 ### **Chapter Two: Bureaucracy of the Shell**
 
 ANSWER:
-Unfortunately, there is no information provided about Sphodebarb carrying an object instead of a wand and its special property. The text only describes Sphodebarb's appearance, his humming (which he doesn't know what it means), and his role in the trial against the Meow.
+Unfortunately, there is no information provided about Sphodebarb carrying an object instead of a wand and its special property. The text only describes Sphodebarb's appearance, his humming (which he doesn't know what it means), and his role in the trial against the Meow.  (60 T)  (65 T)
+
+
 
  | Run #2 Duration: 48,46 s
 
@@ -139,7 +143,9 @@ Reality inhaled.
 ANSWER:
 Leider gibt es keine Informationen über die Mitglieder des "Ordens der Dreizehn-Schaligen Hypothese" im bereitgestellten Text. Der Text beschreibt eine Szene, in der ein Gericht stattfindet, bei dem 13 alte Tortoisen, darunter Yalp, Sphodebarb und Eulipion, über die Existenz eines Katzenwizards diskutieren. Es gibt jedoch keine Erwähnung von einem Orden oder einer Gruppe mit diesem Namen.
 
-Es ist auch nicht klar, ob der "Ordens der Dreizehn-Schaligen Hypothese" eine bestimmte Rolle oder Funktion in der Geschichte spielt oder ob er nur ein fiktiver Name ist.
+Es ist auch nicht klar, ob der "Ordens der Dreizehn-Schaligen Hypothese" eine bestimmte Rolle oder Funktion in der Geschichte spielt oder ob er nur ein fiktiver Name ist.  (154 T)  (159 T)
+
+
 
  | Run #3 Duration: 48,76 s
 
@@ -179,7 +185,9 @@ Es scheint, dass The Meow aus dem Nichts zurückgekehrt ist, nachdem es sieben J
 
 Es ist jedoch möglich, dass die Rückkehr von The Meow ein wichtiger Wendepunkt in der Geschichte darstellt und dass seine Ankunft Auswirkungen auf das Universum oder die Welt haben wird. Vielleicht wird The Meows Rückkehr zu einem Ereignis machen, das die Grenzen zwischen Leben und Tod, zwischen Realität und Illusion, oder zwischen Ursache und Wirkung neu definiert.
 
-Insgesamt bleibt jedoch die Frage nach der genauen Art und Weise, wie The Meow endloses Leben erlangt hat, unklar.
+Insgesamt bleibt jedoch die Frage nach der genauen Art und Weise, wie The Meow endloses Leben erlangt hat, unklar.  (266 T)  (271 T)
+
+
 
  | Run #4 Duration: 55,28 s
 
@@ -228,7 +236,9 @@ Peach Regret
 
 Translation: "Which substance represented a form of death without finality?"
 
-Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.
+Note that Peach Regret is mentioned in the provided text as a substance that simulates death without finality, often served at philosophical brunches.  (77 T)  (82 T)
+
+
 
  | Run #5 Duration: 34,51 s
 
@@ -276,7 +286,9 @@ Der Konflikt scheint jedoch auf ein philosophisches oder metaphysisches Problem 
 
 Es ist jedoch nicht klar, wie dieser Konflikt gelöst werden soll oder was die Rolle von Grundle, Eulipion und anderen Charakteren sein könnte. Der Text endet mit einer Atmosphäre der Spannung und des Unbekannten, ohne eine klare Lösung oder einen Abschluss zu bieten.
 
-Es ist auch möglich, dass die Geschichte noch nicht abgeschlossen ist und dass die Leser aufgefordert werden, weiterzulesen, um den Ausgang des Konflikts zu erfahren.
+Es ist auch möglich, dass die Geschichte noch nicht abgeschlossen ist und dass die Leser aufgefordert werden, weiterzulesen, um den Ausgang des Konflikts zu erfahren.  (239 T)  (244 T)
+
+
 
  | Run #6 Duration: 61,46 s
 
@@ -344,7 +356,9 @@ In Chapter Three wird Yalp als jemand dargestellt, der sich um die Situation kü
 
 Es ist nicht klar, warum Yalp wichtig ist, aber es kann angenommen werden, dass er möglicherweise eine Art von Führer oder Mentor ist, der die Charaktere in dieser Welt leitet. Seine Handlungen und Ratschläge scheinen jedoch eher auf Beobachtung und Schutz ausgerichtet zu sein, als auf Kontrolle oder Befehl.
 
-Insgesamt bleibt Yalp eine mysteriöse Figur, die möglicherweise noch viel über sich selbst und seine Rolle in der Geschichte enthüllen wird.
+Insgesamt bleibt Yalp eine mysteriöse Figur, die möglicherweise noch viel über sich selbst und seine Rolle in der Geschichte enthüllen wird.  (288 T)  (293 T)
+
+
 
  | Run #7 Duration: 62,54 s
 
@@ -403,7 +417,9 @@ Leider gibt es keine spezifische Frage, die ich beantworten kann, da der Text ni
 
 Wenn man jedoch die Frage "Wofür entschieden sich Sphodebarb und Nink (die Katze), nachdem die Schleife durchbrochen war?" beantwortet, könnte man sagen, dass es keine klare Antwort gibt. Der Text beschreibt jedoch, dass Sphodebarb und Nink vor Gericht stehen, um ihre Existenz zu rechtfertigen, und dass der Prozess von einem Wizard mit einer einzigen Mondlichtaugen geleitet wird.
 
-Es ist jedoch wichtig zu beachten, dass die Handlung des Textes sehr unkonventionell und absurde Elemente enthält, was es schwierig macht, eine klare Antwort auf die Frage zu geben.
+Es ist jedoch wichtig zu beachten, dass die Handlung des Textes sehr unkonventionell und absurde Elemente enthält, was es schwierig macht, eine klare Antwort auf die Frage zu geben.  (225 T)  (230 T)
+
+
 
  | Run #8 Duration: 55,34 s
 
