@@ -1,0 +1,279 @@
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,27 s
+
+RAM USAGE TOTAL: MIN=1034 MB | MAX=1133 MB | AVG=1060 MB
+RAM USAGE C#: MIN=95 MB | MAX=108 MB | AVG=100 MB
+RAM USAGE FLASK: MIN=939 MB | MAX=1025 MB | AVG=959 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,07 s
+
+RAM USAGE TOTAL: MIN=1134 MB | MAX=1136 MB | AVG=1135 MB
+RAM USAGE C#: MIN=109 MB | MAX=110 MB | AVG=110 MB
+RAM USAGE FLASK: MIN=1025 MB | MAX=1026 MB | AVG=1025 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,07 s
+
+RAM USAGE TOTAL: MIN=1137 MB | MAX=1140 MB | AVG=1139 MB
+RAM USAGE C#: MIN=111 MB | MAX=113 MB | AVG=112 MB
+RAM USAGE FLASK: MIN=1026 MB | MAX=1027 MB | AVG=1027 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1141 MB | MAX=1141 MB | AVG=1141 MB
+RAM USAGE C#: MIN=113 MB | MAX=113 MB | AVG=113 MB
+RAM USAGE FLASK: MIN=1028 MB | MAX=1028 MB | AVG=1028 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1143 MB | MAX=1143 MB | AVG=1143 MB
+RAM USAGE C#: MIN=113 MB | MAX=113 MB | AVG=113 MB
+RAM USAGE FLASK: MIN=1030 MB | MAX=1030 MB | AVG=1030 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1144 MB | MAX=1144 MB | AVG=1144 MB
+RAM USAGE C#: MIN=114 MB | MAX=114 MB | AVG=114 MB
+RAM USAGE FLASK: MIN=1030 MB | MAX=1030 MB | AVG=1030 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1146 MB | MAX=1146 MB | AVG=1146 MB
+RAM USAGE C#: MIN=115 MB | MAX=115 MB | AVG=115 MB
+RAM USAGE FLASK: MIN=1030 MB | MAX=1030 MB | AVG=1030 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1146 MB | MAX=1146 MB | AVG=1146 MB
+RAM USAGE C#: MIN=116 MB | MAX=116 MB | AVG=116 MB
+RAM USAGE FLASK: MIN=1031 MB | MAX=1031 MB | AVG=1031 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1148 MB | MAX=1148 MB | AVG=1148 MB
+RAM USAGE C#: MIN=117 MB | MAX=117 MB | AVG=117 MB
+RAM USAGE FLASK: MIN=1031 MB | MAX=1031 MB | AVG=1031 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1149 MB | MAX=1149 MB | AVG=1149 MB
+RAM USAGE C#: MIN=118 MB | MAX=118 MB | AVG=118 MB
+RAM USAGE FLASK: MIN=1031 MB | MAX=1031 MB | AVG=1031 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1150 MB | MAX=1150 MB | AVG=1150 MB
+RAM USAGE C#: MIN=118 MB | MAX=118 MB | AVG=118 MB
+RAM USAGE FLASK: MIN=1032 MB | MAX=1032 MB | AVG=1032 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 2
+ | TOTAL: 0,12 s
+
+RAM USAGE TOTAL: MIN=1150 MB | MAX=1151 MB | AVG=1151 MB
+RAM USAGE C#: MIN=118 MB | MAX=119 MB | AVG=119 MB
+RAM USAGE FLASK: MIN=1032 MB | MAX=1032 MB | AVG=1032 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 2,47 s
+
+RAM USAGE TOTAL: MIN=1151 MB | MAX=1486 MB | AVG=1238 MB
+RAM USAGE C#: MIN=119 MB | MAX=126 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1032 MB | MAX=1360 MB | AVG=1115 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 1,95 s
+
+RAM USAGE TOTAL: MIN=1193 MB | MAX=1498 MB | AVG=1240 MB
+RAM USAGE C#: MIN=124 MB | MAX=126 MB | AVG=125 MB
+RAM USAGE FLASK: MIN=1068 MB | MAX=1375 MB | AVG=1115 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 2,24 s
+
+RAM USAGE TOTAL: MIN=1209 MB | MAX=1517 MB | AVG=1309 MB
+RAM USAGE C#: MIN=124 MB | MAX=124 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1085 MB | MAX=1393 MB | AVG=1185 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 2,08 s
+
+RAM USAGE TOTAL: MIN=1229 MB | MAX=1530 MB | AVG=1304 MB
+RAM USAGE C#: MIN=122 MB | MAX=124 MB | AVG=122 MB
+RAM USAGE FLASK: MIN=1105 MB | MAX=1408 MB | AVG=1182 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 2,25 s
+
+RAM USAGE TOTAL: MIN=1239 MB | MAX=1536 MB | AVG=1335 MB
+RAM USAGE C#: MIN=123 MB | MAX=125 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1116 MB | MAX=1413 MB | AVG=1211 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 1,88 s
+
+RAM USAGE TOTAL: MIN=1239 MB | MAX=1539 MB | AVG=1298 MB
+RAM USAGE C#: MIN=122 MB | MAX=123 MB | AVG=122 MB
+RAM USAGE FLASK: MIN=1117 MB | MAX=1416 MB | AVG=1175 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 1,92 s
+
+RAM USAGE TOTAL: MIN=1232 MB | MAX=1527 MB | AVG=1296 MB
+RAM USAGE C#: MIN=122 MB | MAX=123 MB | AVG=123 MB
+RAM USAGE FLASK: MIN=1110 MB | MAX=1405 MB | AVG=1174 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 2,08 s
+
+RAM USAGE TOTAL: MIN=1230 MB | MAX=1527 MB | AVG=1310 MB
+RAM USAGE C#: MIN=119 MB | MAX=124 MB | AVG=121 MB
+RAM USAGE FLASK: MIN=1111 MB | MAX=1408 MB | AVG=1189 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 1,95 s
+
+RAM USAGE TOTAL: MIN=1235 MB | MAX=1526 MB | AVG=1300 MB
+RAM USAGE C#: MIN=124 MB | MAX=126 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1111 MB | MAX=1402 MB | AVG=1176 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 1,90 s
+
+RAM USAGE TOTAL: MIN=1241 MB | MAX=1538 MB | AVG=1282 MB
+RAM USAGE C#: MIN=124 MB | MAX=126 MB | AVG=125 MB
+RAM USAGE FLASK: MIN=1117 MB | MAX=1412 MB | AVG=1157 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 1,85 s
+
+RAM USAGE TOTAL: MIN=1230 MB | MAX=1529 MB | AVG=1283 MB
+RAM USAGE C#: MIN=126 MB | MAX=130 MB | AVG=128 MB
+RAM USAGE FLASK: MIN=1102 MB | MAX=1400 MB | AVG=1155 MB
+
+================================================================
+LANGUAGE: DE
+ACCURACY: 2
+ | TOTAL: 2,37 s
+
+RAM USAGE TOTAL: MIN=1223 MB | MAX=1520 MB | AVG=1322 MB
+RAM USAGE C#: MIN=127 MB | MAX=129 MB | AVG=127 MB
+RAM USAGE FLASK: MIN=1095 MB | MAX=1393 MB | AVG=1195 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1232 MB | MAX=1232 MB | AVG=1232 MB
+RAM USAGE C#: MIN=128 MB | MAX=128 MB | AVG=128 MB
+RAM USAGE FLASK: MIN=1104 MB | MAX=1104 MB | AVG=1104 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,04 s
+
+RAM USAGE TOTAL: MIN=1233 MB | MAX=1233 MB | AVG=1233 MB
+RAM USAGE C#: MIN=129 MB | MAX=129 MB | AVG=129 MB
+RAM USAGE FLASK: MIN=1104 MB | MAX=1104 MB | AVG=1104 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,05 s
+
+RAM USAGE TOTAL: MIN=1228 MB | MAX=1229 MB | AVG=1229 MB
+RAM USAGE C#: MIN=124 MB | MAX=124 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1104 MB | MAX=1105 MB | AVG=1105 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,05 s
+
+RAM USAGE TOTAL: MIN=1213 MB | MAX=1229 MB | AVG=1218 MB
+RAM USAGE C#: MIN=124 MB | MAX=124 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1089 MB | MAX=1105 MB | AVG=1094 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,05 s
+
+RAM USAGE TOTAL: MIN=1200 MB | MAX=1200 MB | AVG=1200 MB
+RAM USAGE C#: MIN=124 MB | MAX=124 MB | AVG=124 MB
+RAM USAGE FLASK: MIN=1076 MB | MAX=1077 MB | AVG=1076 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,05 s
+
+RAM USAGE TOTAL: MIN=1198 MB | MAX=1198 MB | AVG=1198 MB
+RAM USAGE C#: MIN=122 MB | MAX=122 MB | AVG=122 MB
+RAM USAGE FLASK: MIN=1076 MB | MAX=1076 MB | AVG=1076 MB
+
+================================================================
+LANGUAGE: EN
+ACCURACY: 3
+ | TOTAL: 0,05 s
+
+RAM USAGE TOTAL: MIN=1198 MB | MAX=1198 MB | AVG=1198 MB
+RAM USAGE C#: MIN=122 MB | MAX=122 MB | AVG=122 MB
+RAM USAGE FLASK: MIN=1076 MB | MAX=1076 MB | AVG=1076 MB
+
+================================================================
